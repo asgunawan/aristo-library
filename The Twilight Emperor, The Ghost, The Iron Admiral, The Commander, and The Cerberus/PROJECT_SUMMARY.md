@@ -2,6 +2,10 @@
 
 This is a temporary working summary based on the current markdown, with the assumption that the source is a brainstorm-heavy but mostly complete Yu-Gi-Oh project.
 
+## Status note
+
+Needs more double checking to capture key points completely. For now, consolidation is not complete, and some `ERA_SOURCE.md` files still need closer, possibly line-by-line review before the cleaned canon layers can be treated as final.
+
 ## Source status
 
 Verified against current markdown:
