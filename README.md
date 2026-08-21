@@ -147,29 +147,17 @@ Folder:
 - `She Sends Her Regards/`
 
 ### The Twilight Emperor, The Ghost, The Iron Admiral, The Commander, and The Cerberus
-Yu-Gi-Oh multi-era progression project built around a competent OC / self-insert type duelist who keeps reinventing himself across different anime series and power systems.
+**Status:** Complete/Mostly Complete  
+**Format:** `.docx` + `.md`  
+**Summary:** A Yu-Gi-Oh multi-era progression fantasy featuring **five different unnamed protagonists** (designed as NPCs, not heroes), each starting at the absolute bottom and clawing their way up through their respective series. Key constraint: **no deck overlap with canon characters** (e.g., no Heroes in GX). Each protagonist's deck philosophy reflects their survival context and class position:
 
-Core setup:
-- each major phase of the story gives the protagonist a new identity, social role, and deck philosophy
-- the project follows his rise through different Yu-Gi-Oh settings by using real competitive logic, survival instincts, and economic discipline instead of normal anime hero energy
-- the strongest throughline is that deckbuilding, money, and social status all evolve together
+- **GX - The Twilight Emperor**: Academy hierarchy climber (burn → monarchs → anti-meta); the emotional anchor and most polished arc
+- **5D's - The Ghost**: Satellite slum survivor turned fugitive bounty hunter (trash burn → outlaw trap/anti-Synchro)
+- **Zexal - The Iron Admiral**: Blue-collar mechanic's son protecting family shop (Cockroach Corn → Machina/Geargia fleet); coolest thematic execution
+- **Arc-V - The Commander**: Failing dojo organizer building disciplined faction (stun → Metalfoes → Dracoslayer warlord)
+- **VRAINS - Team Cerberus**: Triplet siblings specializing as Hoarder/Griefer/Architect; coolest gimmick with distributed role optimization
 
-What makes it distinct:
-- it treats cards and deck choices as character development, not just loadouts
-- a lot of the appeal comes from applying practical, often ruthless strategy to anime environments that are usually much sloppier and more emotional
-- the project is especially good whenever it focuses on underdog economics: scavenging, hustling, upgrading, and turning technical competence into authority
-
-Era breakdown:
-- The Twilight Emperor: GX-era climb from starving Slifer trash-burn survivor into a monarch/chaos gatekeeper and pro-level final boss
-- The Ghost: 5D's-era outlaw and slum survivor who turns anti-meta burn and denial into a survival profession
-- The Iron Admiral: Zexal-era blue-collar machine duelist whose fleet identity is tied to workshop life, family survival, and Number 50: Blackship of Corn
-- The Commander: Arc-V-era militarized organizer who turns deck theory into discipline, insurgency management, and war economy
-- Team Cerberus: VRAINS-era triplet team built around role specialization, counter-picking, and information advantage
-
-Tone and direction:
-- messy in source form, but structurally more coherent than it first looks
-- mixes parody, power fantasy, competitive deck logic, and character progression
-- reads like a long-form "what if a genuinely competent grinder entered each era of Yu-Gi-Oh and refused to play fair by anime standards?"
+Economic realism and competitive deck logic drive each story—decks as biography, not loadouts. The source file is messy (LLM brainstorm dumps, deck searches, revisions) but structurally coherent around the five-era ladder.
 
 Folder:
 - `The Twilight Emperor, The Ghost, The Iron Admiral, The Commander, and The Cerberus/`
