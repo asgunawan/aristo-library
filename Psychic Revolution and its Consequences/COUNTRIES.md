@@ -42,9 +42,11 @@ In the "Neural Cold War" of 1941, the world is radically partitioned by psychic 
 - **Current Status:** Occupied. Bypassed by Germany and systematically captured by the Gestapo. 
 
 ### Fascist Italy
-- **Program:** "Project Legio XI" (The Eleventh Legion).
-- **History:** Used "Marconi Pulse" radio-wave awakenings. Created the "Velocisti"—psychics who were the fastest flyers in the world (220 mph) but highly unstable.
-- **Current Status:** Following the "Acoustic Death" of their navy, their surviving 8 psychics were folded into Rommel's Staffel-Desert under German command.
+- **Program:** "Project Legio XI" (The Eleventh Legion). Status: **Integrated into German Command.**
+- **Awakening:** "Marconi Pulse"—used high-frequency radio waves instead of binary logic. Brass, glass, and quartz machine. Highly unstable.
+- **Selection:** "The New Roman"—visually perfect athletes and Italian air force pilots.
+- **Combat Style:** "Velocisti" (Speedsters). Fastest flyers in the world (220 mph) but worst endurance.
+- **Current Status:** Following the "Acoustic Death" of their navy, the remaining **8 Italian psychics** were folded into Rommel's **Staffel-Desert** in North Africa.
 
 ### Sweden
 - **Program:** The "Bofors" Hybrid. 
@@ -63,14 +65,16 @@ In the "Neural Cold War" of 1941, the world is radically partitioned by psychic 
 - **Current Status:** Conquered by Germany purely to secure the Philips Tube Factory, tipping the technological balance of power across Europe.
 
 ### Poland
-- **Current Status (The Ghost Pool):** Poland fell in 1939 because they had "The Genetics" but no "Glass". Now, both Hitler and Stalin send "Neural Einsatzgruppen" to scour the occupied cities, hunting for children with the 0.0001% trait to abduct and force-awaken.
+- **Status (The Ghost Pool):** Poland fell in 1939 because they had "The Genetics" but no "Glass" to build machines.
+- **Current Threat:** Both Hitler and Stalin conduct **"Neural Einsatzgruppen"** sweeps in occupied Poland, hunting children who show the 0.0001% gene to force-awaken.
 
 ### Brazil
-- **Strategic Status:** The Jungle Front. 
-- **Role:** The greatest alternate source of high-purity Mica outside of India. The U.S. offers to build a secret Integration Vault in Rio to secure exclusive rights. American ACes (like Babe Didrikson) are currently fighting Axis saboteurs in a brutal, environment-shredding TK-Vietnam war in the Amazon canopy.
+- **Strategic Status:** The next "Resource Front."
+- **Role:** Major source of high-purity Mica outside of India. The US is quietly offering to build an Integration Vault in Rio de Janeiro if Brazil promises its entire Mica output to Project Circuit-Breaker.
 
 ### Switzerland
-- **Strategic Status:** The Ultimate Safehouse. Neutral ground holding Luz Long, the world's only known active Tier 0 God-King, serving as a silent, global nuclear deterrent inside Fort San Carlo.
+- **Strategic Status:** The Ultimate Safehouse. Neutral ground. Hosts Luz Long, the world's only known active Tier 0 God-King, at **Fort San Carlo**—a windowless, lead-lined Alpine bunker. A silent, global nuclear deterrent.
 
 ### The Vatican
-- **Strategic Status:** Extreme Paranoia Defensive zone. Rumored to have lined the Apostolic Palace entirely with ancient lead and silver wire, creating a "Silence Zone" where no psychic can reach the Ramp-Up phase, shielding the Pope from "Snap-Assassinations."
+- **Strategic Status:** Extreme Paranoia Defensive Zone.
+- Rumored to have lined the Apostolic Palace with ancient lead and silver wire, creating a **"Silence Zone"** where no psychic can Ramp-Up—making the Pope the only person in Europe safe from a "Snap-Assassination."
