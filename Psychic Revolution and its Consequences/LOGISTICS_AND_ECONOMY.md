@@ -73,4 +73,51 @@ With Indian Mica cut off, Brazil becomes the Allies' sole lifeline.
 ## The Economic Cost of the Suez Loss
 - **British "Neural Blackouts":** UK has instituted power rationing to save remaining Mica for the Static Net and comatose Wooderson. Streetlights off. Radio broadcasts cut to 2 hours daily. Psychics rationed to 10-minute flight sessions.
 - **Stock Market Crash:** "Glass and Gold" stocks crash. Westinghouse and IBM shares tumble as investors realize American "Machine" may be inferior to Nazi "Dutch Glass."
-- **The Water-for-Power Trade (Desert):** A psychic costs as much water as a 50-man platoon in North Africa. Psychics need 10,000 calories and sweat gallons during Ramp-up. In 110°F Libyan sun, a psychic who can Snap 7 times in London can only Snap 3 times before tubes melt. 
+- **The Water-for-Power Trade (Desert):** A psychic costs as much water as a 50-man platoon in North Africa. Psychics need 10,000 calories and sweat gallons during Ramp-up. In 110°F Libyan sun, a psychic who can Snap 7 times in London can only Snap 3 times before tubes melt.
+
+## Tier 0 Logistics: The "Grounded" Reality (October 1941)
+Tier 0s are NOT fantasy gods—they are high-maintenance strategic assets tethered to the same industrial logistics as everyone else.
+
+### The Efficiency Hierarchy ("Neural Resistance" Law)
+- **Tier 1 (Artie/Meyer):** Like a standard lightbulb. Generate massive heat (Neural Fever), waste 70% of energy as "Soot." Need Deep-Sync recalibration every 72 hours of combat or they literally melt.
+- **Tier 0 Gods (Jesse):** Like a Neon light. Much cooler, faster, but still requires power source and gas (Mica/Glass). Waste only 20% of energy. Can go ~2 weeks without Deep-Sync, but when they hit the wall, they hit it hard. Need 15,000 calories/day in combat.
+- **Tier 0 Kings (Fanny/Wooderson):** Math-ascended. Similar efficiency to Gods (~80%) but higher maintenance—their bodies aren't natural homes for the power. Fanny needs Eindhoven Deep-Sync every 48 hours. Wooderson's body is literally burning out.
+- **Luz Long (God-King):** Like a Laser. 99% efficiency. Needs only 4,000 calories/day. Can go months without machine recalibration. The only Tier 0 who can pass as a normal human.
+
+### The "Tether" (Recalibration Reality)
+- **Neural Drift:** Every Snap shifts the psychic's "Neural Map" slightly. Without regular machine recalibration, they develop Neural Vertigo—might try to Snap onto a roof and end up six inches inside the chimney.
+- **Jesse's Status (Post-Atlantic Duel):** Arrived in London "Dirty"—nosebleed, pounding migraine. First week in London isn't fighting; it's being Deep-Synced into Bletchley Park Vault to clean neural pathways.
+- **The "Resolution" Cap:** Jesse has "God" genetics but uses American Corning Glass (Foggy) and Brazilian Mica. Like a Ferrari forced through a mud-pit—only ~50% effective. The British "Slow-Cook" Math upgrade at Bletchley aims to "Sharpen" his resolution.
+
+### The "Calorie-to-Flux" Ratio
+- **Psi-Rations:** Tier 0 needs ~15,000-18,000 calories/day in combat. Needs a dedicated Logistics Squad just to carry food. If Psi-Sludge runs out, power doesn't stop—it begins metabolizing the psychic's own body.
+- **Fanny's Feeding Tube:** The Backpack Vault includes a feeding tube delivering chemical sludge of fats and proteins directly into her harness.
+- **Luz Long's Edge:** So efficient he can survive on normal human food. Doesn't "glow" when hungry like Jesse does.
+
+### The "Backpack Vault" (Mobile Incarceration - German Innovation)
+- **Fanny's Rig:** 40lb backpack of miniaturized high-purity Dutch tubes + dedicated Mica-battery. Allows mobile recalibration—she's the most mobile Tier 0 in the world. But it's also a prison: kill-switch triggers Neural Seizure if she exceeds 500 yards from German Sync-Signal.
+
+## The "Hollow" Economy
+- **Axis Advantage:** Germany and USSR use millions of Hollows (failed awakening candidates) as industrial labor. Hollows don't sleep, unionize, or complain about safety. Tiger Tanks and T-34s built by armies of lobotomized athletes. Factories never stop.
+- **Allied Dilemma:** US and UK refuse to use Hollow labor (for now). Production speed is slower than Axis. This creates a "Production Gap" the Allies must fill with better psychic math.
+- **American Volunteers:** 500,000 volunteered in first week post-Owens unveiling. Young men willingly sign "Hollowing Waivers"—view becoming a mindless industrial laborer as noble sacrifice. Posters: "MY MIND FOR MY COUNTRY, MY BODY FOR THE SIGNAL."
+
+## Non-Psychic Military Production (The "Psychic-Proofed" Arsenal)
+The 99.9% of humanity still fights a massive industrial war, but engineering has mutated to account for psychics.
+
+### Aircraft
+- **Spitfire Mk V (370 mph vs Ace's 200 mph):** Now equipped with "Acoustic Wings"—leading edges lined with microphones to detect German "Hum" before visual range. Armament shifted to Magnesium "Blind-Cannons"—shells that explode into blinding white light, preventing enemy psychics from "Mapping" a Snap onto the plane. Role: "Neural Detectors" loitering at high altitude as eyes for ground-based Acoustic Ghosts.
+
+### Tanks
+- **Neural-Hardening:** All external bolts eliminated—flush-welded only (psychics can TK-"unzip" riveted tanks). Hatches held by electromagnets (prevents Snapping onto roof and lifting hatch). Coated in lead-and-mica-infused "Static Paint" to dampen crew's Hum signature.
+
+### Naval Warfare
+- **CV-N (Neural Carrier):** Essex-class ships redesigned with lead-lined Integration Hall at center (100,000 tubes, seawater-cooled). Flight deck shortened—needs "Snap-Pads" (clear, magnetic-ringed zones) not long runways. Planes are now "Taxis"—fly Ace 200 miles out, drop them, loiter during Deck-Strike.
+- **Shield Destroyers:** Small, fast ships with decks covered in concrete mirrors and vacuum tube sensors. Job: find Void-Shroud Japanese psychics before they Snap onto Carrier decks.
+- **U-Boats:** Most important non-psychic weapon—only way to move Mica and Glass across Atlantic without Tier 0 detection.
+
+### Infantry Weapons
+- **Boys .55 Caliber Anti-Tank Rifle:** Standard issue for "Psychic-Hunter" squads. Only man-portable weapon with kinetic energy to shatter a psychic's personal barrier.
+- **"Flicker-Grenade":** Explodes into cloud of Mylar strips and Magnesium dust—"clutters" the air, making it mathematically impossible to Snap into the smoke without Shunting.
+- **"Squire" Kit:** Non-psychic soldiers carry Neural-First-Aid Kits—liquid nitrogen sprays (cool a Sooting Ace's neck) and high-glucose "Psi-Bars."
+- **Piano Wire & Punji Stakes:** Low-tech jungle warfare—Marines stretched piano wire at neck height between trees (Micro-Snapping Germans teleport into guillotines). Bamboo stakes in mud pits—psychics can catch bullets but can't "see" stakes while focused on the Hum. 

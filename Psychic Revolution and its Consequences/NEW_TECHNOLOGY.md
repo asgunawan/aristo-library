@@ -20,3 +20,50 @@ Standard weapons are practically useless against a prepared Ace, accelerating th
 ## Psychic Enhancements
 - **Gable Goggles / Zeiss Monocles:** Specialized visual arrays used by American and German Aces. These project mechanical crosshairs and mathematical grids onto their field of view. Instead of "feeling" a snap, modern Tier 1 Aces calculate the geometric coordinates through the lenses to execute low-error, "Graph-Paper" jumps.
 - **Dumb-Fire Tungsten Bearings & Obsidian Shards:** Small, aerodynamic items replacing guns entirely for Aces. Propelled by TK at bullet velocities. The Japanese utilize non-magnetic volcanic obsidian specifically to bypass radar/magnetic sensors set up to detect incoming metal.
+
+## Tier 0-Specific Technology
+
+### The Eindhoven Leash & Backpack Vault (German)
+- **The Collar:** Brass collar pumping a parasitic frequency. Tethered to a 40lb backpack of miniaturized high-purity Dutch tubes and dedicated Mica-battery.
+- **The Kill-Switch:** If the wearer Snaps more than 500 yards from a German-authorized Sync-Signal, the backpack triggers Neural Backflow—instantaneous Neural Seizure, paralysis for hours. Won't kill (too valuable) but incapacitates.
+- **The Dependency:** Tier 0 brain "drifts" faster than Tier 1. Must return to Eindhoven Vault every 48 hours for Deep-Sync or loses temporal perception—effectively blind in a world of temporal static.
+- **The Feeding Tube:** Integrated harness tube delivering 18,000 calories/day of chemical sludge (fats and proteins).
+- **Purpose:** Makes Fanny Blankers-Koen the most mobile Tier 0 in the world—a self-contained weapons system. Also makes her a slave.
+
+### The "Goddess-Throne" (German Tier 0 Integrator)
+- **Specs:** 120,000 vacuum tubes, 80 Megawatt surge, Indian Ruby Mica + Dutch Type-Zero Lead Crystal. Built beneath Philips Factory, Eindhoven.
+- **Capability:** First machine in history capable of forcibly awakening a Tier 0. Uses the Mica as a "buffer" to prevent the Backflow that destroyed the 1936 Zuse-Berger machine.
+- **Cost:** Drains the entire Eindhoven city grid during activation. Lights flicker across the Netherlands.
+
+## Non-Psychic Military Hardware ("Psychic-Proofed")
+
+### Aircraft
+- **Spitfire Mk V "Acoustic Wings":** Leading edges lined with sensitive microphones to detect the "Hum" of a German Ace before visual range. Armament: Magnesium "Blind-Cannons"—shells exploding into blinding white light to prevent enemy psychics from "Mapping" a Snap onto the plane. Role shifted from killer to "Neural Detector"—loitering at high altitude as eyes for ground-based Acoustic Ghosts.
+
+### Tanks (Neural-Hardened)
+- **Flush-Welded Construction:** No external bolts or rivets—psychics can TK-"unzip" a riveted tank like a tin can.
+- **Electromagnetic Hatches:** Prevent a "Blinking" German from Snapping onto the roof and simply lifting the hatch to drop a grenade.
+- **"Static Paint":** Lead-and-mica-infused coating that dampens the crew's "Hum" signature, making the tank harder to "sense" through walls.
+
+### Naval: CV-N (Neural Carrier)
+- **Integration Hall:** Lead-lined chamber at ship's center containing 100,000 vacuum tubes, cooled by seawater heat exchangers. Powered by the ship's boilers—the only mobile platform capable of "Deep-Syncing" an Ace in the middle of the ocean.
+- **"Snap-Pads":** Clear, magnetic-ringed zones on a shortened flight deck where an Ace can materialize without risk of "Shunting" into the superstructure.
+- **Aircraft Role:** Planes are now "Taxis"—fly an Ace 200 miles out, drop them, loiter during the Deck-Strike.
+- **Shield Destroyers:** Small, fast escorts with decks covered in concrete "Acoustic Mirrors" and vacuum tube sensors. Job: detect Void-Shroud Japanese psychics before they Snap onto the Carrier.
+
+### Infantry "God-Killer" Kit
+- **Boys .55 Caliber Anti-Tank Rifle:** Standard issue for "Psychic-Hunter" squads. Only man-portable weapon with kinetic energy to shatter a psychic's personal barrier and the vacuum tubes in their neck-harness.
+- **"Flicker-Grenade":** Explodes into cloud of Mylar strips and Magnesium dust—"clutters" the air, making it mathematically impossible to Snap into the smoke cloud without "Shunting."
+- **"Squire" Neural-First-Aid Kit:** Liquid nitrogen sprays (cool a "Sooting" Ace's neck) and high-glucose "Psi-Bars."
+- **Piano Wire Traps:** High-tensile wire stretched at neck height between trees. Micro-Snapping psychics teleport into guillotines.
+- **Bamboo Punji Stakes:** Coated in jungle rot, hidden under mud. Psychics can catch bullets with their mind but can't "see" stakes while focused on the Hum.
+
+## The "Gable Standard" Recruitment Protocol
+- **Stage 1 - Berger-Meter Test:** Quick conductivity check. 99% rejected, sent to regular Infantry or Navy.
+- **Stage 2 - IBM Punch-Card Mapping:** 12-hour psychological evaluation to determine if "Neural Lattice" can handle Snap math.
+- **Stage 3 - The Surge:** 12-hour Integration Vault awakening. 0.0001% survival rate. Failures become Hollows.
+- **Volunteer Rate (Post-Owens Unveiling):** 500,000 in first week. 12 identified as Tier 1 candidates.
+
+## The "Neural-Logic Teleprinter" (Allied Communication)
+- Lead-lined encryption machines using a tethered psychic's "Hum" to scramble radio signals. Makes Allied leadership communication un-decodable even by German math.
+- Replaces in-person summits—a single German Ace could "Snap" into a Tehran-style conference and decapitate all leadership.

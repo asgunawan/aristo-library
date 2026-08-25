@@ -57,3 +57,70 @@ Use this file to collect uncategorized material, loose ends from the source docu
 - Ondina Valla being prepared for Radio-Frequency Resonance awakening.
 - Gestapo "Hum-Sensors" monitoring from outside—they think she's just a Tier 1 candidate.
 - MI6 secretly leaking Mica through Swiss intermediaries.
+
+## The "Owens Rumor" Town Meeting (Scene Concept)
+- June 4, 1941. "Town Meeting of the Air" simulcast on NBC Radio and early RCA television.
+- Senator Richard Russell publicly names Jesse Owens: "The word on the street is that Owens's feet didn't touch the track for the last ten yards of the 200-meter. Keeping him in a basement because of the color of his skin isn't just prejudice—it's treason!"
+- The rumor was planted by FDR's administration to gauge public reaction. Harlem cheers; the South falls into stunned, fearful silence.
+
+## Padilha's Hurdle-Training (Scene Concept)
+- Petrópolis mountains, Brazil. Padilha freshly awakened, not allowed to fly yet.
+- Babe Didrikson making him "Flick" individual grains of sand. Running 400m hurdle tracks Snapping over every hurdle without breaking stride.
+- Babe's warning: "You're too precise, Sylvio. You're trying to time the universe like a stopwatch. In the jungle, the German doesn't have a stopwatch; he has a jitter."
+
+## Barbarossa: The "Silent Blitz" (Scene Concept)
+- June 22, 1941. 03:15 AM. Nina Dumbadze in lead-lined bunker on Polish border, holding a tuning fork.
+- For months, the German side has been "Loud"—a ragged, jittery Hum. At 2:00 AM, total Neural Silence. Nina drops the fork. It shatters. "They're refit. The Jitter is gone."
+- 11 German Refit Aces perform High-Altitude Whisper-Snaps. Target: Svetlana Tube Plants and Integration Trains. Within 3 hours, USSR recalibration crippled.
+
+## Nina at the Berezina River (Scene Concept)
+- Nina with 40 Burners against Kurt Meyer (Refit). Meyer stays 2 miles outside her Kinetic Scream range, Snipes her support squires.
+- Without squires to feed her calories and cool her harness, Nina begins to Self-Burn—consuming her own muscle tissue.
+- Holds for 48 hours. Retreats having lost 30 pounds; her hair turned white from neural strain.
+
+## The Brazilian Jungle "Green Grave" (Scene Concept)
+- US Marines hunting German infiltrators through unmapped jungle. Not hunting psychics—hunting their food. Incendiary rounds blowing up supply crates.
+- Piano wire at neck height between trees. German Micro-Snapping through brush—teleports five feet into a guillotine.
+- Marines in "Spider-Holes" with Boys .55 AT rifles. Wait for the faint blue glow of a German Ramping-up. One shot—Neural Blowout.
+- Hollowed Germans found wandering aimlessly, brains melted by heat and lack of recalibration. Empty shells in SS uniforms.
+
+## The "Hour of the Phantom" (Scene Concept)
+- September 25, 1941. Every RCA television and radio tuned to single frequency. Edward R. Murrow hosts.
+- Jesse Owens in simple silk track suit—no heavy leather harness. Silent Snap: pedestal empty, no thunderclap. Multi-Vector: appears in four spots simultaneously. Plucks flag from general's lapel 200 yards away.
+- FDR's voice: "The Germans call themselves Knights; the Japanese call themselves Ghosts. But we have the Phantom. And he is coming for the Glass."
+- Next morning: recruitment lines stretch 12 city blocks. 500,000 volunteer in first week.
+
+## The Atlantic Duel (Scene Concept)
+- October 1941. USS Hornet in gray Atlantic swells. Jesse Owens in lead-lined Vault, eating glucose-sludge, skin humming with white bioluminescence.
+- Hanna Reitsch (Refit) and 2 T2 Shield-Squires launched from Type IX U-boat. Reitsch: "The American is a circus act."
+- Reitsch releases cloud of tungsten spheres at Owens. Owens simply isn't there. To him, Reitsch moves "like a fly caught in honey." He feels the Curvature of the Earth.
+- Appears behind her. Taps her primary tube with his finger. The Tier 0 touch vaporizes it instantly. Total Neural Blowout.
+- Returns to Hornet's Snap-Pad, haunted: "She was fast. But her machine... it's like she's a prisoner in it."
+
+## The "Coronation" of Fanny (Scene Concept)
+- Eindhoven, October 1941. 120,000 tubes glowing sun-like white. City lights flicker as grid is drained.
+- Fanny's eyes fly open—Gold, not blue or white. She sees individual vibrations of glass tubes, dust motes hanging like frozen stars.
+- Kurt Meyer steps forward with the Eindhoven Leash. Points to observation window: husband Jan Blankers with SS Luger at his temple.
+- Dr. Berger: "The American Phantom is a savage. You, Fanny, will be our scalpel. Your resolution is ten times higher than his."
+
+## Yamamoto's Dread (Scene Concept)
+- Battleship Nagato, late September 1941. Yamamoto watches intercepted footage of Jesse Owens broadcast.
+- Nagumo celebrating: "We have blinded the giant!" Yamamoto doesn't smile. Points at Owens: "Look at him. No harness. No visible tubes. He is a super-conductor."
+- Writes to PM Konoe: "We have shattered their Pacific eyes, but their heart is in Brazil. Unless we can awaken Tajima within ninety days, we are merely a man with a sword fighting a man who can stop time."
+
+## Luz Long's Gilded Cage (Scene Concept)
+- Gotthard Pass bunker, Switzerland. Luz Long reading law books. Single photograph of infant son Kai on the desk.
+- Feels the Neural Screams from the Eastern Front. Feels the White Light of Jesse Owens arriving in London.
+- Does nothing. His wife and son are in Berlin. He has performed the calculation: their lives > millions of Hollows.
+- The "Magnus Carlsen" of a game he refuses to play. If Jesse met him now, he'd feel disgust, not admiration.
+
+## The Bletchley "Neural-Link" (Scene Concept)
+- Jesse Owens strapped into Bletchley Vault. Beside him: skeletal, comatose Sydney Wooderson.
+- Turing: "Luz Long isn't coming, Major. He's chosen a quiet room in the Alps. You're all we have. We need to plug your brain into a dying man's math and hope you don't shatter."
+- The goal: pass Jesse's raw God-power through Wooderson's "Mathematical precision" as a filter. Risk: both brains "Soot" instantly.
+
+## The "Gable Standard" Recruitment (Scene Concept)
+- New York City induction center, line stretching 12 blocks. Young men—quarterbacks, track stars, engineers—signing "Hollowing Waivers."
+- Poster: "MY MIND FOR MY COUNTRY, MY BODY FOR THE SIGNAL. VOLUNTEER FOR CIRCUIT-BREAKER."
+- The Filter: Berger-Meter test (99% rejected), IBM Punch-Card Mapping (12-hour psych eval). Out of 500,000, only 12 identified as Tier 1 candidates.
+- Artie Gable in Virginia "Neural Pits," teaching the 12: "The machines won't save you. The Germans don't play by the math."
