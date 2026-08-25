@@ -2,6 +2,15 @@
 
 The advent of the psychic arms race forced massive shifts in both offensive and defensive military technology. Standard mid-20th-century warfare has been entirely redesigned to either support, contain, or eliminate psychic assets.
 
+## The "Holy Grail" Vacuum Tube
+To safely awaken or sustain a high-level psychic (especially a Tier 0) without catastrophic failure, a specific composition of tube is required. This is the technological benchmark of the war.
+- **The Envelope (Type-1720 Aluminosilicate Glass):** Advanced "hard glass" that handles extreme thermal shock when a psychic Ramps-Up. Crucially has zero "outgassing" (unlike cheap soda-lime glass), maintaining a perfect vacuum under load.
+- **The Seal (Kovar Alloy):** A specialized iron-nickel-cobalt alloy whose thermal expansion rate perfectly matches aluminosilicate glass. Creates a seamless, bubble-free glass-to-metal lock that won't crack when heated.
+- **The Insulator (V-1 Grade Clear Muscovite Mica):** Perfectly clear, water-transparent, flawless sheet mica. Provides maximum dielectric strength to prevent micro-arcing between internal grids, and stays perfectly rigid under intense heat.
+- **The Engine (Thoriated Tungsten Filament):** Provides maximum, dense, high-frequency electron emission required for a Tier 0 Ramp-Up. Runs dangerously hot.
+
+**The "Hollow" Cause:** When standard glass (which expands unevenly) is paired with V-5 cloudy mica (containing tiny mineral inclusions), the seal fractures and the mica arcs. This sends a chaotic, unshielded electrical surge into the subject's brain during awakening, creating a "Hollow."
+
 ## Awakening & Support Infrastructure
 - **Integration Vaults (Zuse-Gates / IBM Brain Mappers):** Massive room-sized supercomputers heavily reliant on arrays of thousands of precision vacuum tubes. These are used to artificially spike a human's brain frequency until the psychic muscle permanently unlocks. 
 - **Recalibration Arrays / Integration Trains:** Because engineered (Tier 1 and Tier 2) psychics' brains are effectively artificially altered via fragile 1940s analog technology, they occasionally lose "focus" or start to fog. They must be physically tethered back to massive machines periodically to "Deep-Sync" their neural maps back into alignment, or they go insane or die. The USSR houses these in mobile Integration Trains directly behind the front lines out of brutal necessity.

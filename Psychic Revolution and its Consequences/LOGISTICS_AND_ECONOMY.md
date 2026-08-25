@@ -7,21 +7,32 @@ Psychics are not easily replaceable heroes; they are incredibly fragile, high-ma
 - **Financial Investment:** Creating and tuning a single Tier-1 Ace (like an Artie Gable) costs approximately **$75 Million**—equivalent to manufacturing 500 P-51 Mustang fighter planes. 
 - **The Energy Barrier:** You cannot build a god with a wall outlet. Booting up an Integration Vault to awaken a single U.S. psychic requires diverting the *entire* energy output of the Norris Hydroelectric Dam. For 12 hours, the state of Tennessee goes black just to awaken one Ace. Train Recalibrations in the USSR burn enough coal to power small cities.
 
-## The Global Resource War: Glass vs. Mica
-Traditional resources like oil take a backseat. The two most critical strategic resources in the world are High-Purity Silica (Glass) and Natural Sheet Mica. This dynamic causes massive geopolitical shifts (like fighting a "Jungle War" in the Amazon solely to secure mining rights). The war boils down to a race of which "God" breaks first. 
+## The Global Resource War: Quality vs. Stability
+The war is dictated by the materials used to construct the vacuum tubes that awaken and tether psychics. The two most critical strategic resources are **High-Purity Silica (Glass)** and **Natural Sheet Mica (Insulator)**. 
 
-### High-Purity Silica (The Glass)
-*   **The Problem:** Vacuum tubes form a "Parallel Logic Array," acting as a massive pipe system narrowing down to a single needle. They translate 50 Megawatts into a specific "Neural Harmonic." If the glass has a single microscopic speck of iron impurity, the tube "arcs", causing a Neural Glitch. 
-*   **The Dutch "Type-Zero Lead Crystal":** The Philips Factory in Eindhoven (Netherlands) was the only facility that perfected pure glass using proprietary "Slow-Cool" kilns. 
-*   **The German Monopoly:** Capturing the Philips facility allowed Germany to mass-produce reliable Gen-3 shields. However, thermal shock causes a 15% attrition rate per use (tubes shattering), meaning replacement tubes are constantly needed.
-*   **The Allied Disadvantage:** The US (Corning Glass) and UK (Mullard) produce tough, industrial-grade glass that lacks purity. Allied psychics suffer from a "Foggy Resolution" (e.g. Artie Gable aiming a Snap and missing by two feet). 
+### The "Holy Grail" Tube Baseline
+To safely awaken or sustain a high-level psychic (especially a Tier 0) without catastrophic failure, a specific composition of tube is required. The perfect tube combines:
+1. **The Envelope (Type-1720 Aluminosilicate Glass):** Advanced "hard glass" that handles extreme thermal shock when a psychic Ramps-Up. Crucially has zero "outgassing" (unlike cheap soda-lime glass), maintaining a perfect vacuum under load.
+2. **The Seal (Kovar Alloy):** A specialized iron-nickel-cobalt alloy whose thermal expansion rate perfectly matches aluminosilicate glass. Creates a seamless, bubble-free glass-to-metal lock that won't crack when heated.
+3. **The Insulator (V-1 Grade Clear Muscovite Mica):** Perfectly clear, water-transparent, flawless sheet mica. Provides maximum dielectric strength to prevent micro-arcing between internal grids, and stays perfectly rigid under intense heat.
+4. **The Engine (Thoriated Tungsten Filament):** Provides maximum, dense, high-frequency electron emission required for a Tier 0 Ramp-Up. Runs dangerously hot.
 
-### Natural Sheet Mica (The Insulator)
-*   **The Use:** The only natural mineral with high enough dielectric strength to insulate integration vaults and sub-dermal tube harnesses from massive "Psychic Flux" without melting. The Allies essentially "brute-force" their muddy glass problem by relying on 4x the amount of raw natural mica per psychic. 
-*   **The Allied Monopoly:** Sourced largely from British India (shipped through the Suez Canal). It gives Allied machines absolute stability, preventing brain damage. 
-*   **The German Disadvantage:** Completely blockaded, Germany relies on "Fluor-Mica" (Fluorophlogopite)—a synthetic alternative created by IG Farben. 
-*   **The Consequence (Neural Jitter):** Synthetic mica is too brittle and does not "vibrate" in sync with the brain's Hum. Because of this, German Aces suffer from severe, unavoidable "Neural Jitter" (twitching eyes, shaking hands, aggressive hallucinations), forcing Germany into rapid Blitzkrieg victories before their hardware burns out their pilots' minds. 
-*   **The SS "Graveyard Shift":** To survive, the SS ruthlessly extracts the rare natural mica spacers and tungsten filaments out of the sub-dermal harnesses of their own dead psychics to reuse on rookies. Needs must.
+**The "Hollow" Cause:** When standard glass (which expands unevenly) is paired with V-5 cloudy mica (containing tiny mineral inclusions), the seal fractures and the mica arcs. This sends a chaotic, unshielded electrical surge into the subject's brain during awakening, creating a "Hollow." 
+
+### The German Advantage (1939-1942): Power Over Stability
+- **Resources:** Schott AG glass (absolute world leader in low-expansion technical glass), captured Philips manufacturing (mass-scale all-glass envelopes), and Telefunken Thoriated Tungsten filaments. 
+- **The Flaw:** Total lack of domestic V-1 Mica initially forces them to rely on dangerous synthetic substitutes (Fluor-Mica). 
+- **The Combat Result:** German psychics are terrifyingly powerful. They ramp up faster (15s) and hit harder. However, because they lack the natural mica to insulate the massive heat of the thorium filaments, the tubes run dangerously hot. German psychics suffer from rapid radiation sickness and tube blowout, burning out in months. They win the sprint, but lose the marathon.
+
+### The Allied Advantage: Stability Over Power
+- **Resources:** UK controls the Indian V-1 Muscovite monopoly. USA has Corning Glass and Westinghouse (inventors of Kovar seals). 
+- **The Flaw:** US and UK tubes lack the dangerous, high-output Thorium filaments of the Germans.
+- **The Combat Result:** Allied tubes are far less powerful (resulting in "Foggy" resolution and slower ramp-ups), but incredibly stable. Tube failure rates are <5%, and psychics can operate for years. The US can mass-produce replacements indefinitely.
+
+### The Soviet Tragedy: The Flawed Perfection
+- **Resources:** Geologically, the USSR holds the Holy Grail. The Mama-Chuya and Aldan Shield deposits contain the world's purest, massive V-1 Muscovite mica.
+- **The Flaw:** The Great Purge (1936-38) executed top scientists and skilled glassblowers. The perfect raw rocks are cut with dull knives and primitive stamping presses, introducing microscopic hairline fractures.
+- **The Combat Result:** The "Dirty Power." A fractured V-1 spacer inside a high-voltage tube instantly arcs under load, causing catastrophic meltdowns. Human error in processing creates the 80% Hollow rate, turning their massive advantage into a tragedy of "Burners" and disposable shock troops. (This will only be fixed in late 1942 when 38,000 American precision lathes arrive via Lend-Lease).
 
 ## North African Campaign ("The Mica War" - March 1941)
 The desert is a graveyard for vacuum tubes due to extreme heat and silica (sand) destroying integration machines. Conventional forces protect the psychics, and the psychics are deployed as high-tech scalpels to decapitate enemy armor.

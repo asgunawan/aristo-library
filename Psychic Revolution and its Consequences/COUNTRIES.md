@@ -39,12 +39,17 @@ In the "Neural Cold War" of 1941, the world is radically partitioned by psychic 
 
 ---
 
-## Minor & Resource Powers
+## The Minor / Resource Powers
 
 ### France
 - **Program:** Project "Sainte-Geneviève". 
-- **History:** Used "Harmonic Resonance" via tuning forks for a gentle awakening. They used their psychics primarily defensively, tethering them to the Maginot Line as living batteries to power Massive Static Jammers. 
-- **Current Status:** Occupied. Bypassed by Germany and systematically captured by the Gestapo. 
+- **History:** Used "Harmonic Resonance" via tuning forks for a gentle awakening. Early pioneer of metal/glass hybrid tubes (CSF and LMT). They used their psychics primarily defensively, tethering them to the Maginot Line as living batteries to power Massive Static Jammers. Also controlled Madagascar, a major source of Phlogopite mica (good for high heat, but not Holy Grail purity).
+- **Current Status:** Occupied. Bypassed by Germany and systematically captured by the Gestapo. German *Amt für Militärtechnik* raided French labs in 1940, confiscating advanced glass-sealing patents and conscripting top engineers to work in Jena.
+
+### The Netherlands
+- **Strategic Status:** The R&D Supremacy Hub.
+- **Power:** The Philips Factory in Eindhoven. Invented first commercially viable pentode (1927). World-class pioneers of mass-producible, complex, all-glass multi-pin tube seals. 
+- **Current Status:** Conquered by Germany in May 1940 purely to secure Philips. Gave Germany the technology to scale their glass advantage. Dutch resistance workers intentionally introduce microscopic flaws into German glass seals.
 
 ### Fascist Italy
 - **Program:** "Project Legio XI" (The Eleventh Legion). Status: **Integrated into German Command, but secretly pursuing independence.**
@@ -65,20 +70,19 @@ In the "Neural Cold War" of 1941, the world is radically partitioned by psychic 
 - **Threat:** Japan watching the Pacific. If they detect a Tier 0 being moved, they will launch a "Blackout Snap" to hijack the plane.
 
 ### Sweden
-- **Program:** The "Bofors" Hybrid. 
-- **Strategic Status:** Armed Neutrality. Built a deeply terrifying, flawless Integration machine using 20,000 tubes and a brass Mechanical Differential Analyzer. 
-- **Effect:** With only *one* psychic (runner Gunder Hägg), they created an unassailable Sentry. The stability of the machine allows him to remain Ramp-ups indefinitely, single-handedly deterring Germany and Russia from taking Sweden’s iron and silica mines.
+- **Strategic Status:** The Ultimate Neutral Broker & Black Market Hub.
+- **Program:** The "Bofors" Hybrid. LM Ericsson and AGA produced robust domestic vacuum tubes. 
+- **Asset:** Gunder Hägg (Tier Unknown). Runner. Uses a flawless Integration machine (20,000 tubes + brass Mechanical Differential Analyzer). Single-handedly deters Germany/Russia from taking Sweden’s iron and silica mines.
+- **The Black Market:** Stockholm is the *only* place in the world where a rogue scientist can legally buy a perfect Soviet V-1 Mama-Chuya mica spacer, a German thoriated filament, and American Kovar-sealed glass in the same room.
 
 ### The Commonwealth (Canada, Australia, India)
-- **Strategic Status:** The "Neural Mines." 
-- **Role:** They lack the capacity to build Integration Vaults. Instead, they act as "Genetic Prospectors," testing their athletes and citizens for the 0.0001% "Factor" and shipping them to London. This strips the colonies of their best genetic defenses.
+- **India:** Once the absolute cornerstone of the Allied war effort. Held the global monopoly on flawless V-1 "Ruby Mica" (Muscovite) needed for Tier-0 Holy Grail tubes. Lost to Germany after Suez fell.
+- **Canada:** Controls Phlogopite mica mines (Parent, Quebec). Phlogopite survives much higher heat (1000°C) than Muscovite, but is softer and has lower electrical resistance. Not suitable for delicate Tier-0 tubes, but excellent for "brute-force" high-heat applications (tank electronics, heavy artillery fire-control).
+- **Australia:** Don Bradman (Tier 0 - Dormant). Discovered by Alan Turing through probability analysis. "Total Resolution"—100% hand-eye-kinetic coordination. Churchill has ordered secret "Neural Retrieval" via modified Short Sunderland flying boat.
+- **Threat (Australia):** Japan watching the Pacific. If they detect a Tier 0 being moved, they will launch a "Blackout Snap" to hijack the plane.
 
 ### Czechoslovakia
 - **History (The Skoda Logic):** Were the world leaders in Neural Alignment Math before 1939. When Hitler annexed the country, he didn't just want tanks; he stole the Skoda Logic Gates, allowing the rapid advancement of the German Gen-2 Aces.
-
-### The Netherlands
-- **History (The Philips Tragedy):** Held the monopoly on pure glass, but lacked the 0.0001% genetics. A disastrous 1938 live-radio awakening turned a national hero into a Hollow, prompting the government to ban the program.
-- **Current Status:** Conquered by Germany purely to secure the Philips Tube Factory, tipping the technological balance of power across Europe.
 
 ### Poland
 - **Status (The Ghost Pool):** Poland fell in 1939 because they had "The Genetics" but no "Glass" to build machines.
