@@ -6,18 +6,19 @@
 - **Pivotal Moment:** The world realizes the human mind can be weaponized. The Vatican condemns the "theft of divine fire", and "Neural Paranoia" begins.
 
 ### 1937–1938: The Neural Arms Race
-- **The Scramble:** Major powers launch their own "Manhattan Projects of the Mind."
-- **Tragedies & Successes:** The US "Hollows" 500 volunteers before discovering the 0.0001% genetic rule (super-conductor). Artie Gable is successfully awakened using IBM Punch-Cards to map his brain. Bletchley Park (Alan Turing) develops "Slow-Cook" methods for the UK, awakening Jack Lovelock over 30 days. Stalin forces "Dirty Power" awakenings from the Svetlana Tube Plant.
+- **The Scramble:** Major powers launch their own "Manhattan Projects of the Mind." Germany signs the Molotov-Ribbentrop Pact (1939) largely to access Soviet V-3/V-4 grade mica, stabilizing their early program just enough to wage war.
+- **Tragedies & Successes:** The US "Hollows" 500 volunteers before discovering the 0.0001% genetic rule (super-conductor). Artie Gable is successfully awakened using IBM Punch-Cards to map his brain. Bletchley Park (Alan Turing) develops "Slow-Cook" methods for the UK, awakening Jack Lovelock over 30 days. 
+- **The Soviet Nightmare:** Stalin's Great Purge executes skilled glassblowers. The USSR has the world's best raw mica (Mama-Chuya), but primitive processing ruins it, creating a catastrophic 80% Hollow rate when they try to awaken psychics using "Dirty Power" from the Svetlana Tube Plant.
 - **Pivotal Moment:** The invention of "Static Jammers" that make major cities (like London or Berlin) "Neural-Black" (unflyable) by preventing teleportation/snapping.
 
 ### 1939: The First Snaps of War
 - **The Defection (May 1939):** Luz Long (Tier 0) realizes he's a prisoner of the SS and defects to a lead-lined bunker in Switzerland.
-- **Khalkhin Gol (August 1939):** The first official psychic battle. Japanese "Ghost Scouts" fight Soviet "Burners" on the Mongolian border. The resulting "Thunderclap Stalemate" forces a ceasefire and proves that psychics fighting psychics is a zero-sum game of exhaustion.
+- **Khalkhin Gol (August 1939):** The first official psychic battle. Japanese "Ghost Scouts" (few in number but with artisanal, rugged tubes) fight Soviet "Burners" (massive waves of unstable Hollows) on the Mongolian border. The resulting "Thunderclap Stalemate" forces a ceasefire and proves that psychics fighting psychics is a zero-sum game of exhaustion.
 - **Invasion of Poland (Sept 1939):** Germany uses Tier 1 Ace Kurt "The Bolt" Meyer to safely "Snap" onto the Tczew Bridge to sabotage demolition charges, leading to the rapid fall of Poland (who had the genetics but no "Glass" for machines).
 
 ### 1940: The Glass Monopoly
-- **The Fall of the West (May 1940):** Germany bypasses the "Static Maginot" by invading the Netherlands. They capture the Philips Factory in Eindhoven, securing 80% of the world's high-purity vacuum tubes and mass-producing Gen-3 "Disposable" psychics for Panzer shields.
-- **Dunkirk (June 1940):** UK uses their secret Tier 0 (Sydney Wooderson, a 120-pound clerk) to shatter German Aces' filaments using "Silent Snaps" and "Neural Pulses", saving the army but putting Wooderson in a permanent Neural Coma.
+- **The Fall of the West (May 1940):** Germany bypasses the "Static Maginot" by invading the Netherlands. They capture the Philips Factory in Eindhoven, securing world-class glass-sealing tech. Combined with Schott glass and Thoriated Tungsten filaments, German psychics become terrifyingly powerful (but highly unstable/radioactive).
+- **Dunkirk (June 1940):** UK uses their secret Tier 0 (Sydney Wooderson, a 120-pound clerk) to shatter German Aces' filaments using "Silent Snaps" and "Neural Pulses", saving the army but putting Wooderson in a permanent Neural Coma. Britain is now entirely reliant on Indian Mica convoys to survive.
 - **Battle of Britain (Aug-Oct 1940):** A "Siege of the Signal." British psychics integrate with Chain Home Radar to "intercept" German flyers. Creates a stalemate. Jack Lovelock retires due to permanent "Neural Soot". Germany realizes they cannot snap into London while the Static Net is powered.
 
 ### Early 1941: The Standoff of the Stars
@@ -69,9 +70,11 @@
 - **Padilha's "Hurdle-Training" (Petrópolis, Brazil):** Sylvio Padilha, freshly awakened as Tier 1 Alpha, trains under Babe Didrikson. Not allowed to fly yet—must "Flick" individual grains of sand. Runs 400m hurdle tracks Snapping over every hurdle without breaking stride. Babe's warning: "You're too precise. The German doesn't have a stopwatch; he has a jitter. If you wait to count your steps, he'll Flick you while you're still doing the math."
 
 ### June 22, 1941: Operation Barbarossa (The "Neural Erasure")
-- **The "Silent Blitz":** At 03:15 AM, 11 German Refit Aces cross the Soviet border. No artillery barrage—instead, High-Altitude Whisper-Snaps targeting Svetlana Tube Plants and Integration Trains. Within 3 hours, USSR's recalibration capability is crippled. Thousands of Soviet Burners trapped in the field with no way to Sync—they go insane from Neural Fever.
+- **The "Silent Blitz":** At 03:15 AM, 11 German Refit Aces cross the Soviet border. No artillery barrage—instead, High-Altitude Whisper-Snaps targeting Svetlana Tube Plants and Integration Trains. Within 3 hours, USSR's western recalibration capability is crippled. Thousands of Soviet Burners trapped in the field with no way to Sync—they go insane from Neural Fever.
+- **The Hollow Slaughter:** Germany steamrolls because Soviet psychics are mostly unstable Hollows (80%+ Hollow rate due to destroyed western factories) used as cannon fodder.
 - **Nina Dumbadze at the Berezina River:** Holds the line with 40 Burners against Kurt Meyer (Refit). Meyer stays 2 miles outside her Kinetic Scream range, Snipes her support squires. Without squires to feed her calories and cool her harness, Nina begins to Self-Burn—consuming her own muscle tissue. Holds for 48 hours. Retreats having lost 30 pounds; her hair turns white from neural strain.
 - **The "Moscow Protocol":** Stalin orders Nina to stop fighting and start "Anchoring"—creating a 50-mile-wide "Kinetic Dead-Zone" where the air is so heavy with psychic static that even Refit Aces risk instant Shunt. The Germans are bogged down 100 miles from Moscow.
+- **The Winter Toll:** Moscow doesn't fall because German psychics are burning out from radiation sickness (intense Thoriated Tungsten exposure) and tube failures. Winter hits, and the already unstable German tubes fail catastrophically in extreme cold. USSR throws massive waves of Hollow shock troops to slow them down.
 
 ### June–August 1941: The Brazilian "Secret War" (Operation Giftpilz)
 - **German Logistics Collapse:** Modified Type IX U-boats with Mobile Integration Pods. US Navy sinks 3 of 5 blockade runners. German infiltrators Neural-Starved—can't replace broken tubes. Begin to "Soot" and "Hollow" from lack of recalibration.
@@ -122,6 +125,12 @@
 - **German Advantage:** Refit Aces (Meyer, von Cramm, Uhlen) are stable, precise, surgical. Snipe Soviet Resonator Trains from high altitude.
 - **Soviet Response:** "Moscow Protocol"—Nina Dumbadze creates 50-mile Kinetic Dead-Zone. 2 million Hollows march as "Biological Sandbags" to absorb German Flick fire. 150 active Burners at any time (out of 10,000 processed conscripts).
 - **The Stalemate:** Germany is an Elite Scalpel trying to cut a Mountain of Flesh. Every time Meyer kills a Burner, Stalin wakes ten more orphans. Germany running out of Glass; USSR running out of People.
+
+### Late 1941 - 1943: The Turning Point (Future Beats)
+- **Stalingrad (Late 1941 - Early 1942):** Brutal urban combat. German psychics are powerful but dying fast (radiation, exhaustion). The captured British mica from Suez starts running dangerously low.
+- **Lend-Lease Arrives (Late 1942):** American machine tools (38,000 precision lathes, stamping presses) finally reach relocated Soviet factories in the Urals. This fixes the Soviet processing tragedy—flawless V-1 Mama-Chuya mica can now be cut without micro-fracturing. Soviet Hollow rate drops from 80% to 30%.
+- **The German Collapse (Mid-1943):** Suez stockpiles exhausted. Germany forced to use lower-grade captured materials or synthetic substitutes. Tube failure rates spike rapidly.
+- **Battle of Kursk (Mid-1943):** USSR fields its first stable, "ruggedized" Tier-1 level psychic units. Counterattack succeeds. By late 1943, Soviet Hollow rate drops to 10-15%, and they begin rolling back the Germans.
 
 ### October 1941: The Luz Long Reality
 - **The Gilded Cage:** Luz Long in Gotthard Pass bunker. Wife Gisela and infant son Kai held in Berlin "Honorary Guest Villa" (prison). Has performed cold calculation: his family's lives > millions of Hollows. Rationalizes through legalism, escalation fear, private peace. The "Magnus Carlsen" of a game he refuses to play.
