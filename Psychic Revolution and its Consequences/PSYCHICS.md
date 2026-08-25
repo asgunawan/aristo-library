@@ -7,11 +7,42 @@ Psychic power is not mystical; it is a brutally physical biological trait unlock
 - **The Hollows:** The 99.9% who fail the process have their personalities wiped out entirely. Their bodies grow immensely strong and durable, becoming "Hollows"—lobotomized husks used as slave labor or shock troops.
 - **Ramp-Up & Exhaustion:** Psychics must concentrate for 30-60 seconds to reach 100% power (the Ramp-Up). They suffer from physical exhaustion and eventual "Neural Soot" (brain damage) if they overexert themselves. To survive, they consume "Psi-Rations" of 10,000+ calories a day consisting of lard and glucose.
 
-## The Power Set (1939-1941)
+## The Power Set & Scaling Hierarchy (1939-1941)
+Psychic power scaling is not about raw weight lifted, but about "Neural Resolution" (precision) and "Metabolic Friction" (efficiency). 
+
 - **The Snap (Spatial Blinking):** Line-of-sight teleportation (max 100 yards). Generates a loud sonic boom (thunderclap), unless executed by a Tier 0. Hard limit of 6-7 snaps a day before brain damage sets in.
 - **The Shunt:** A safety mechanism constraint. If a psychic attempts to Snap into a solid object, the universe instantly rejects them and materializes them in front of the object, wasting energy.
 - **Telekinesis (TK):** Standard max lifting limit is ~150kg. Typically weaponized by "flicking" tungsten sphere bearings or needles at bullet-like velocities.
 - **Flight & Kinetic Barriers:** Top speeds around 200 mph. They require a conical kinetic barrier to survive wind resistance and G-forces. The barrier stops .30-06 caliber rounds but can be shattered by heavy anti-air fire (.50 cal / 20mm flak).
+
+### Tier 2/3: The Sentry-Jaegers & Burners (The Industrial Soldier)
+- **Status:** The mass-produced "grunts" used as human ammunition.
+- **Ramp-Up:** Slow. Takes 60-90 seconds of intense meditation. Useless in a surprise ambush.
+- **The Snap:** Clumsy, low-resolution spatial awareness. Distant ridges look "blurry," often causing accidental Shunts.
+- **TK Control:** Single-Track. Cannot multi-task. If they are flying, they cannot project a barrier. Holding a barrier freezes them in place.
+- **Recalibration:** Critical. Must hit an Integration Vault every 7-10 days, otherwise they suffer "Neural Jitter" (shaking, random power arcs).
+- **The Hum:** Loud. Their internal filaments emit a ragged, grinding electronic whine traceable by RDF vans for miles. 
+
+### Tier 1: The Aces (The Engineered Hero)
+- **Status:** The 0.0001% refined by high-end national science.
+- **Ramp-Up:** Fast (15-30 seconds). Can "idle" at 10% for hours, allowing instant combat readiness.
+- **The Snap:** Surgical, high-resolution mapping using Goggles/Monocles to calculate math. Rarely Shunt.
+- **TK Control:** Multi-tasking. Can manage 2-3 kinetic vectors simultaneously (e.g., flying, barrier projecting, and pulling a trigger).
+- **Recalibration:** Stable. Require Deep-Syncs only every 3-4 months. When they "Neural Soot," it's violent (migraines/nosebleeds).
+- **The Hum:** Controlled, high-pitched singing note. Can "Glow-Down" to hide. 
+
+### Tier 0: The Singularities (The God-King)
+- **Status:** Super-Conductors whose brains merged with the power. 
+- **Ramp-Up:** Instant. Always at 100%. Can go from sleep to 200mph flight in 2 seconds.
+- **The Snap:** The "Whisper-Snap." Infinite resolution. They manipulate air displacement perfectly, producing absolutely zero thunderclap. Can "Micro-Snap" (blinking 10 times in a row to look like a blur of light).
+- **TK Control:** Swarm Logic. The 150kg mass limit doesn't restrict them to one object. They can manipulate 100 individual needles in 100 different directions, or shape a barrier thin enough as a monomolecular blade to slice a tank barrel. 
+- **Recalibration:** Zero. They are the Source Code. Power is self-sustaining and grows with use.
+- **The Hum:** Silent ("Null-Frequency"). Invisible to acoustic mirrors. The only telltale sign is the smell of electric rain.
+
+## The Gap in Combat
+- **Tier 1 vs. Tier 2:** Massacre. The Ace is at 100% power and flicks a sphere through the T2 before they even finish Ramp-Up.
+- **Tier 1 vs. Tier 1:** Chess Match. Decided by logistics, calories, and "Squire" squad support. A battle of attrition until one brain "Soots."
+- **Tier 0 vs. Tier 1:** Total Dominance. T1 "calculates" math. T0 "feels" it. A whisper-snap ends the fight by telekinetically pinching the sub-dermal tubes in the Ace's neck.
 
 ## National Evolutionary Approaches
 Every nation has a unique philosophy towards awakening and utilizing psychics:
