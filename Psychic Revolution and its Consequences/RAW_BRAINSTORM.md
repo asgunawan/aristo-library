@@ -124,3 +124,51 @@ Use this file to collect uncategorized material, loose ends from the source docu
 - Poster: "MY MIND FOR MY COUNTRY, MY BODY FOR THE SIGNAL. VOLUNTEER FOR CIRCUIT-BREAKER."
 - The Filter: Berger-Meter test (99% rejected), IBM Punch-Card Mapping (12-hour psych eval). Out of 500,000, only 12 identified as Tier 1 candidates.
 - Artie Gable in Virginia "Neural Pits," teaching the 12: "The machines won't save you. The Germans don't play by the math."
+
+---
+
+## Post-War / Cold War Brainstorm (Transistor Era & Beyond)
+
+### The Hard Power Ceiling (Permanent)
+- **Psychic power limits are biological, not technological.** No machine — vacuum tube, transistor, or microchip — can make a brain output more than a brain can output. Technology removes friction; it doesn't rewrite neurology.
+- Permanent limits: 150kg TK, 200mph flight, 6–7 Snaps/day, ~100 yards Snap range.
+- The horror shifts across eras, but never escalates in raw power.
+
+### Era Comparison
+
+| Era | What Changes | What Stays the Same |
+|---|---|---|
+| **Vacuum Tube (1936–1945)** | Psychics exist. Tethered to factories. Dying of radiation. Burning out in months. | 150kg, 200mph, 6–7 Snaps, 100 yards |
+| **Transistor (1950s)** | Portable. Always-on. No radiation. Live for decades. Awakening is safe. | Same limits |
+| **Microchip (1960s+)** | Pocket recalibration. Neural-computer interface — offload targeting math to a chip. Multiple psychics synchronized through chip networks. | Same limits |
+
+### The Atomic Bomb Question
+- Nuclear fission was discovered in 1938 — before the war starts. The physics doesn't go away.
+- In this timeline, the US poured its best physicists into the EPP bomb. The atomic bomb is built later — possibly by the USSR, which sat out most of the fighting and captured German scientists.
+- **The asymmetric standoff:** USA/UK hold the EPP bomb (Hollows psychics, leaves cities standing). USSR holds the atomic bomb (destroys cities, kills everyone). Two different apocalypses, held by different powers. Mutually assured destruction with different flavors.
+
+### Post-War Arc (Three Acts)
+
+| Era | Years | The Race | The Stakes |
+|---|---|---|---|
+| **The EPP Standoff** | 1945–1950 | Who stockpiles more EPP bombs? Who builds the atomic bomb? | Mutual Hollowed destruction vs. mutual annihilation |
+| **The Transistor Race** | 1950–1955 | Who replaces vacuum tubes with solid-state? | Portable psychics. The end of the glass/mica logistics war. |
+| **The Chip Race** | 1958–1965 | Who miniaturizes an Integration Vault onto silicon? | The pocket God-King. The nation that wins rules the century. |
+
+### Old T0s vs. New T0s
+- **Old T0s can't be "refitted" — but they don't need to be.** Tier 0s are defined by independence from the machine. The transistor doesn't give them anything they don't already have.
+- **The real threat is quantity.** The transistor makes Tier 0 awakening safe and repeatable. The bottleneck shifts from materials to genetics. Dozens, eventually hundreds of T0s.
+- **Character tension:** Luz Long, Jesse Owens, the dormant Finnish T0 — the last of the *old* gods. They remember when awakening was a death sentence. The new T0s are factory products — stable, safe, mass-produced, and ignorant of what the old guard sacrificed.
+
+### Real Cold War Figures (The Rule)
+- **Born before ~1940:** they already exist in this timeline. Use them freely. (Gagarin 1934, Armstrong 1930, Muhammad Ali 1942, Pelé 1940, Zátopek 1922, Bannister 1929, Che Guevara 1928, Castro 1926, Kim Il-sung 1912, Ho Chi Minh 1890.)
+- **Born after ~1940:** same name, same personality, different life path — the world that shaped them is different. The path to fame runs through the Integration Vault, not the track.
+- **Don't make everyone a psychic.** Most people should be normal humans living in a world shaped by psychics. One or two per nation, per era, with a reason they'd be chosen.
+
+### Potential Cold War Beats (Rough)
+- No Korean War as we know it → Neural Proxy War over Japan's ceramic-tube tech tree and China's genetic pool.
+- No Vietnam War → Hollow Insurgency: colonial populations willing to Hollow themselves rather than be recolonized.
+- No Space Race → Chip Race: first portable God-King is the "moon landing."
+- No Cuban Missile Crisis → Swiss Standoff: Luz Long in neutral territory while superpowers threaten EPP/atomic exchange.
+- No Berlin Wall → Hollow Belt Wall: physical barrier around the German dead zone.
+- Luz Long's second act: dedicates himself to Hollow rehabilitation. The question — "would you fight now, if you could?" — is the spine of the Cold War.
