@@ -44,6 +44,11 @@ Psychic power scaling is not about raw weight lifted, but about "Neural Resoluti
 - **Tier 1 vs. Tier 1:** Chess Match. Decided by logistics, calories, and "Squire" squad support. A battle of attrition until one brain "Soots."
 - **Tier 0 vs. Tier 1:** Total Dominance. T1 "calculates" math. T0 "feels" it. A whisper-snap ends the fight by telekinetically pinching the sub-dermal tubes in the Ace's neck.
 
+### THE "NO FREE T0" RULE (locked)
+A Tier 0 is **not a stronger T1** — it is a T1 with all the friction removed (instant ramp, silent Whisper-Snap, swarm resolution, zero recalibration, no Soot). It is a *strategic weapon, not a soldier*. An awake, willing T0 ends wars by itself.
+
+Therefore: **every awake T0 in the story must be leashed** — neutralized (Luz Long), constrained (Jesse Owens's foggy glass), or fading (Wooderson). No nation should ever hold more than ~1 awake T0. **Dormant T0s are future levers, not roster weight** — they are deterrents, post-war transistor-race setup, or "who gets woken next" tension. Count them as potential, never as active power.
+
 ## National Evolutionary Approaches
 Every nation has a unique philosophy towards awakening and utilizing psychics:
 
