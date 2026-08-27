@@ -4,7 +4,7 @@
 Psychic power is not mystical; it is a brutally physical biological trait unlocked by early vacuum-tube computing, binary logic, and specific brain frequencies.
 
 - **The Genetic Filter:** Only individuals with a rare 0.0001% "Neural Conductivity" (often elite athletes or high-end scholars) can survive the awakening process. 
-- **The Hollows:** The 99.9% who fail the process have their personalities wiped out entirely. Their bodies grow immensely strong and durable, becoming "Hollows"—lobotomized husks used as slave labor or shock troops.
+- **The Hollows:** The other 99.9999% who fail the process have their personalities wiped out entirely. Their bodies grow immensely strong and durable, becoming "Hollows"—lobotomized husks used as slave labor or shock troops.
 - **Ramp-Up & Exhaustion:** Psychics must concentrate for 30-60 seconds to reach 100% power (the Ramp-Up). They suffer from physical exhaustion and eventual "Neural Soot" (brain damage) if they overexert themselves. To survive, they consume "Psi-Rations" of 10,000+ calories a day consisting of lard and glucose.
 
 ## The Power Set & Scaling Hierarchy (1939-1941)

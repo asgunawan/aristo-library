@@ -43,7 +43,7 @@
 
 ### USSR (The Red Resonators)
 - **Nina Dumbadze (Tier 1+ Alpha):** "The Red Queen," a Georgian discus world-record holder (she threw past the world mark in 1939). Commander of the "Night Witches." Pushes past safe limits—150kg to 180kg—by burning her own nerves on "Dirty Power." Her arc is patience: training, watching the West burn, knowing her moment to sweep in is coming. Tethered to an Integration Train every 72 hours or her power becomes an uncontrolled Kinetic Scream.
-- **Joseph Stalin:** The cynical predator. Trades mica to Germany at extortionate prices, uses the machine tools he receives to fix his processing, and builds the largest psychic army on Earth—"Neural Scorched Earth," orphanages swept for 0.00001% Factor children, a Wall of Meat. He profits most and fights least.
+- **Joseph Stalin:** The cynical predator. Trades mica to Germany at extortionate prices, uses the machine tools he receives to fix his processing, and builds the largest psychic army on Earth—"Neural Scorched Earth," orphanages swept for 0.0001% Factor children, a Wall of Meat. He profits most and fights least.
 
 ### Imperial Japan (Project Kotoamatsukami)
 - **Naoto Tajima (Tier 0 - Dormant):** 1936 triple-jump gold medalist (world record 16.00m, stood 15 years). "The Kinetic Spring"—could theoretically chain three Snaps into one momentum-burst hitting like a meteorite. Japan has identified him but **cannot afford to awaken him**—their machines are too crude and would kill him instantly.

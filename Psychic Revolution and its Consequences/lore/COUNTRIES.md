@@ -59,7 +59,7 @@ The war is not WW2 reskinned. It is a **resource war over glass, mica, and genet
 ## The Minor & Resource Powers
 
 ### France
-- **Role:** The Static Maginot — the only power whose defensive instinct was right, holding a 50-mile neural dead-zone for 2.5 years.
+- **Role:** The Static Maginot — the only power whose defensive instinct was right, holding a neural dead-zone along the border for 2.5 years.
 - **Asset:** Early CSF/LMT tube research, colonial Madagascar mica, and Émile Allais (T1), the mountain-skier who embodies the defense.
 - **Leverage / Threat:** Their jammer wall works — until Germany's "Hollow Storm" burns it down in August 1942.
 
