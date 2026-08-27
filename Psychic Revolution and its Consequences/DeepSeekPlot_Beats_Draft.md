@@ -17,6 +17,8 @@ A re-derived timeline. Same core worldbuilding (vacuum tubes, mica/glass logisti
 - The war starts in a world that already knows about psychics.
 - **China has no program** (no glass, no mica, no tech). It is a one-sided slaughter with a darker edge: Japan uses occupied China as a **genetic harvesting ground**. A population of 500 million is the largest "Factor pool" (the 0.0001%) on Earth.
 - Japanese "Neural Einsatzgruppen" sweep occupied territory hunting candidate children — force-awakening the promising few, Hollowing the rest.
+- **Why Japan scales first — the failure state is cheap:** Hollowing is the *cheap* half of the tech. Crude ceramic tubes, a large undefended population, and zero ethics are all it takes to mass-produce Hollows. Making a stable T1/T0 is the *expensive* half — it demands precision glass and V-1 mica. Japan and the USSR industrialize the failure state first because it is what their tech can actually produce. Germany delays — not because it can't, but because its ideology wants Aces ("Heroes of Science") and is ashamed of the byproduct; it only industrializes Hollows in 1941, when the mica runs out and the Aces start dying.
+- **Japan's T1s come from a separate track.** The domestic elite **Kotoamatsukami** program — Zen meditation plus ceramic tubes — produces the Aero-Shinobi, low-power but stable. The China scale-up is *labor, cannon fodder, and a supplementary candidate haul*: the force-awakened 0.0001% survivors become T1s of dubious loyalty. The Hollow economy doesn't make Japan's T1s; it pays for them and feeds them.
 - **Nanking is worse.** The atrocity now includes mass forced awakenings of civilians into Hollows. This is the first time the world sees the Hollow economy at scale — three years before Germany industrializes it.
 - The **US embargo** (1941) will later include glass and tube materials, not just oil and steel. That is what truly strangles Japan's psychic program.
 
@@ -41,6 +43,7 @@ A re-derived timeline. Same core worldbuilding (vacuum tubes, mica/glass logisti
 - The Netherlands attempts its own awakening — a beloved Olympic swimmer, a national hero. The machine arcs. She becomes a Hollow **on live radio**. The scream is broadcast across Europe.
 - The Netherlands bans psychic research and declares permanent "neural" neutrality. Switzerland, Sweden, and others follow within months.
 - Public opinion across the democratic world turns sharply against psychic programs. The UK and US go deeper underground.
+- **The Low Countries Guarantee:** In the wake of the Crisis, the UK and France issue a formal guarantee of Dutch and Belgian neutrality against "psychic aggression." It is cold logic dressed as principle — if Germany seizes Philips, Britain's resource-strangulation strategy collapses. A deterrent, and one that will prove not enough.
 
 ### September 1938: Munich, Recontextualized
 - Hitler doesn't demand the Sudetenland for its own sake. He demands **Czech glass technology** — the Skoda logic gates, Czech quartz, and the glassblowers. The Sudetenland is just the delivery mechanism.
@@ -76,34 +79,35 @@ A re-derived timeline. Same core worldbuilding (vacuum tubes, mica/glass logisti
 - Hitler, having lost his God-King — now sitting in neutral Switzerland, useless but untouchable, under a hostage-stalemate no one can openly acknowledge — makes a desperate calculation. He invades **the Netherlands** — not Poland.
 - **The logic is cold:** secure Philips before the Dutch sabotage it. Without Philips glass-sealing tech, the German psychic program dies. Poland can wait; Poland has no glass.
 - The Netherlands falls in 11 days. Dutch engineers partially sabotage the Philips factory, but not enough. Germany now holds the world's best glass manufacturing.
-- **April 1939:** The UK and France declare war — not over Poland, but over the Netherlands. The alliance structure is already different. Italy hasn't joined; Mussolini is stalling, horrified by what psychic weapons do to humans.
+- **April 1939:** The UK and France declare war — not over Poland, but over the Netherlands, honoring the Low Countries Guarantee. The alliance structure is already different. Italy hasn't joined: Mussolini invokes humanitarian horror in public — "Italy will not sully itself with this" — but privately he is a pure opportunist. Italy has no ace and no industrial tube base, so he waits, courting both sides.
 
 ### The Shadow War (1939)
 - There are no trench lines. There is a **psychic siege:**
   - German Aces attempt to Snap into London. British Static Jammers hold them back.
   - British psychics raid German glass factories. German psychics intercept.
   - The first Ace-vs-Ace duel happens over the Channel in May 1939. Both psychics die — one from Neural Soot, one from a snapped neck. The world learns psychic combat is mutually assured destruction.
-- **September 1939:** Poland is a sideshow, invaded almost as an afterthought — a resource grab for Polish quartz and genetic stock. The USSR, seeing Germany distracted in the West, invades Poland from the East two weeks early, taking more territory.
-- **No Molotov-Ribbentrop Pact.** Instead, the **Mica-for-Machines Agreement:** the USSR trades low-grade mica to Germany in exchange for machine tools. Both sides know they will eventually fight. Both are buying time.
+- **September 1939:** Poland is a sideshow, invaded almost as an afterthought — a resource grab for Polish quartz and genetic stock. The two powers advance to the secret demarcation line and stop; there is no accidental collision because the annex already settled where each halts. The USSR, seeing Germany distracted in the West, moves two weeks early and takes slightly more than its allotted share.
+- **No Molotov-Ribbentrop Pact.** Instead, the **Mica-for-Machines Agreement:** the USSR trades low-grade mica to Germany in exchange for machine tools — with a **secret military annex** drawing a demarcation line through Poland and assigning spheres of influence (the Baltics to the USSR, Finland to Germany's northern flank). It is not friendship: both war machines run on the mica-for-machines flow, and a clash inside Poland would sever it. Both sides know they will eventually fight. Both are buying time.
 
 ### The Border Wars — Japan vs. the USSR (1938–1939)
 - **Lake Khasan (1938)** and **Khalkhin Gol (1939)** still happen — driven by competing Manchuria/Mongolia claims and the Japanese Army's "Northern Expansion" faction, none of which the psychic revolution cancels.
 - They become the **first psychic border wars:**
-  - Japan fields its new **ceramic-tube psychics** — stable, low-power, made from domestic Japanese clay. A completely different tech tree.
+  - Japan fields its new **ceramic-tube psychics** — stable, low-power, made from domestic Japanese clay. A completely different tech tree. The tradeoff is absolute: ceramic can substitute for the *glass* envelope, but never for the *mica* whose crystal lattice conducts and stabilizes the neural field at power — so ceramic tubes are stable yet **hard-capped below the Tier 1 ceiling and forever barred from Tier 0.** Any power could adopt ceramic and skip the mica war, and forfeit peak power doing it; only Japan, already starved of mica and built for stealth and numbers, accepts the bargain. Everyone else is fighting to win.
   - The USSR fields its **Burners** — huge volume, 80% Hollow rate, unstable.
 - **Result: a stalemate Japan reads as a loss.** Their precision psychics can *hold* against Soviet volume but can't *break* it. Same conclusion as real history — Japan pivots **south** — but now "south" means *mica*, not just oil.
 - The de facto truce afterward is real, tense, and self-interested on both sides.
 
 ### 1940: The Resource War — and No Fall of France
-- **France does not fall in six weeks.** The "Static Maginot" — a continuous network of jammers powered by the national grid, with tethered French psychics acting as living batteries — creates a 50-mile-deep Neural Dead-Zone along the entire border.
+- **France does not fall in six weeks.** The "Static Maginot" — a network of jammers powered by the national grid, with tethered French psychics acting as living batteries — holds the border. But a single 50-mile stretch of true dead-zone already consumes a nation's grid, so the line is **not one uniform 280-mile wall**: it is a *graded field* — a handful of truly impassable "deep sectors" where grid and psychics concentrate, thinning to a noisy haze everywhere else. Aces can still contest the border; they just can't Snap across it at will.
 - German Aces, for all their power, **cannot Snap or fly into a jammer zone.** They are reduced to flying at the edges and sniping. Their entire advantage evaporates at the border.
 - **The irony is the point:** in real history the Maginot Line failed because it was the wrong defense for a war of mobility. Here the Static Maginot finally works — because it is the *right* defense for a war of teleportation. France's defensive instinct was never wrong; it just needed a threat it was built to counter.
+- **The weakness is the cost, not a gap.** There is no Ardennes hole — Aces can walk through forests, so the French sealed it. The line's real fragility is that it is *eating France alive*: blackouts in Paris, rationing to starvation level, the civilian economy cannibalized to feed the wall. France holds not because it is strong, but because it is spending everything. The wall is a nation's entire metabolism fixed in a single defensive posture — and the tethered psychics powering it are burning out as surely as the grid. France can defend forever; it can never attack.
 - The Western Front becomes a **psychic siege.** Germany controls the air with Aces; France controls the ground with jammers. Neither can advance.
 
 ### The Real War Moves Elsewhere (1940)
 - **The Mica Convoys:** Indian mica must reach Britain through the Suez. German U-boats and Italian psychic raiders hunt them; British psychics escort them. The Mediterranean becomes a running psychic naval battle.
 - **Scandinavia:** Sweden is the only country where you can buy American Kovar, German Thorium, and Soviet Mica in the same room — the neutral black-market broker for psychic materials. Both sides court it intensely; neither dares invade, because both *need* the trading floor.
-- **Finland** leans hard toward Germany — the only power with precision psychics that can counter Soviet volume. There is **no separate Winter War**: Stalin won't risk the mica trade by picking a fight on Germany's northern flank. Finland becomes a **German-aligned buffer state**, armed with German glass tech, quietly hosting a German Ace or two.
+- **Finland** leans hard toward Germany — the only power with precision psychics that can counter Soviet volume. There is **no separate Winter War**: the secret annex has already assigned Finland to Germany's sphere, and Stalin won't risk the mica trade by picking a fight on Germany's northern flank. Finland becomes a **German-aligned buffer state**, armed with German glass tech, quietly hosting a German Ace or two.
   - **The dormant Tier 0** Finland holds is its bargaining chip — the thing Germany courts it for and the thing the USSR will eventually try to seize. Finland doesn't have a Winter War; it has a hostage situation with a psychic bomb in its basement.
 - **Brazil** emerges as the pivotal neutral — its mica mines are the only alternative to India. The US begins negotiating exclusive rights; Germany begins planning sabotage.
 
@@ -135,7 +139,7 @@ By 1941 the war has settled into a three-way resource standoff:
 - **The Suez Campaign:** Rommel's Afrikakorps pushes toward Suez — not for oil, but for the British mica stockpiles. The first major land campaign of the war, fought primarily by psychics; tanks are support vehicles, infantry carry anti-psychic weapons (magnesium flares, AT rifles, piano wire).
 - **The Hollow Economy:** Germany has industrialized Hollow production. Concentration camp prisoners — Jews, Roma, political prisoners, Soviet POWs — are processed through awakening machines. Survivors (0.0001%) become psychic soldiers; the rest become Hollow laborers. This is the great moral horror of the war, at industrial scale by 1941.
 - **The Brazilian Front opens:** Germany launches Operation Giftpilz — psychic sabotage against Brazilian mica mines. US Marines and Babe Didrikson defend them. The Amazon becomes a brutal shadow war of psychic ambushes, calorie-starving infiltrators, and low-tech countermeasures.
-- **The USSR waits.** Stalin trades mica to Germany at extortionate prices, uses the machine tools he receives to slowly fix his processing problems, and awakens psychics at staggering volume — 100,000 conscripts to find 20 survivors. His Hollows build fortifications, work factories, and are stockpiled as shock troops. The Red Army has more psychics than the rest of the world combined; they're just mostly insane, dying, or both.
+- **The USSR waits.** Stalin trades mica to Germany at extortionate prices, uses the machine tools he receives to slowly fix his processing problems, and awakens psychics at staggering volume — 100,000 conscripts through the machine to get twenty "survivors," where *survivor* is redefined to mean anyone the machine didn't Hollow or kill. True Factor-positives (the 0.0001%) remain nearly absent among them; the twenty are broken Tier 2s. His Hollows build fortifications, work factories, and are stockpiled as shock troops. The Red Army has more psychics than the rest of the world combined; they're just mostly insane, dying, or both.
 
 ---
 
@@ -199,6 +203,7 @@ By 1941 the war has settled into a three-way resource standoff:
 
 ### The Reich Kills Them Anyway — as Doctrine, Not Strategy
 - **Sippenhaft was never rational. It was ideological.** Himmler said it outright: *"This man has committed treason; his blood is bad... the entire clan was wiped out down to the last member."* The Reich wiped out traitors' bloodlines even as it collapsed — killing families of "cowardly" generals in February 1945, months after the war was lost, for no strategic purpose.
+- **Why pragmatism early and doctrine late:** in 1941 Hitler skips Barbarossa because pragmatism can still buy time; by 1945 there is no time left to buy, and pragmatism has nothing left to spend. Doctrine — the only currency a dying Reich retains — runs the board. Same man, same ideology; the difference is only how much future is left to spend it on.
 - When Luz Long refuses, the guards follow doctrine over self-interest. They kill Gisela and Kai — not because it helps (it doesn't; it loses the Reich its last card and creates an unbound God-King), but because **that is what the Reich is.** It cannot conceive of letting the traitor's bloodline outlive it.
 
 ### The Last Horror: The Forged Photographs

@@ -80,7 +80,7 @@ Every nation has a unique philosophy towards awakening and utilizing psychics:
 
 ### USSR (The "Red Resonator" Program)
 *   **Philosophy:** Extreme volume and brute-force attrition.
-*   **The Awakening:** The Svetlana "Dirty Power" Hack. Millions of low-quality, arcing tubes blasting the brain open. No filters, no safety fuses. 100,000 conscripts processed to find 20 survivors.
+*   **The Awakening:** The Svetlana "Dirty Power" Hack. Millions of low-quality, arcing tubes blasting the brain open. No filters, no safety fuses. 100,000 conscripts processed to find 20 "survivors" — where "survivor" means only *not Hollowed, not dead*, since true Factor-positives (the 0.0001%) stay nearly nonexistent.
 *   **The Burner Diet:** Psychics are fed "Smes-7"—a chemical sludge of lard, glucose, and amphetamines.
 *   **Mobile Recalibration:** Because tech is "dirty," psychics must stay near Integration Trains. Away for 72 hours = insanity or death.
 *   **Combat Style:** The Kinetic Scream. Brute force pushing 150kg to 180kg by burning their own nerves, specializing in large-scale kinetic shockwaves that level city blocks.
