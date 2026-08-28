@@ -37,12 +37,12 @@ The seven fields:
 
 ### Snapshot 2 — March 1939, eve of the Netherlands invasion
 
-1. **Center of gravity:** The thorium Ace program — a mass-awakening bet on unstable, powerful Aces. Luz Long is gone (bolted Feb 1939), and with him the bluff. The war machine now runs on the Aces it can rush.
-2. **Doctrine:** Spain-proven aggression. Snap-assassination, TK flicking, forced Hollowing — tested against partisans and unarmed civilians, who offered no resistance. The conclusion: *psychics are unstoppable.* Doctrine is power-over-patience: hit hard, win fast, don't let the fight become a war of attrition.
-3. **Psychic inventory + pipeline:** ~55 Aces rushed onto unstable second-gen hardware — a **panic, not a plan**, thrown at the board the moment Luz Long bolted. **No T0, and no path to one** — the forced-awakening of a T0 has already failed in principle. Every Ace is on a 6–12 month thorium clock. Pipeline = rush, not refine.
+1. **Center of gravity:** The Luz Long bluff, already spent — and the thorium Ace *ramp* that was always the backup behind it. Luz Long is gone (bolted Feb 1939), so the war machine now runs on the Aces it can Surge in batches, its three-year headstart of battle-tested doctrine its only remaining edge.
+2. **Doctrine:** Spain-proven aggression. Snap-assassination, TK flicking, forced Hollowing — tested against partisans and unarmed civilians, who offered no resistance. The conclusion: *psychics are unstoppable.* Doctrine is power-over-patience: hit hard, win fast, don't let the fight become a war of attrition. *(An edge that will be blunted twice — by the jammer wall that denies Snap, and by the arrival of a real T0 that makes experience moot.)*
+3. **Psychic inventory + pipeline:** ~55 Aces *primed* over years but held un-Surged — a **backup plan behind the Luz Long bluff**, not the primary doctrine. The moment Luz Long bolts (Feb 1939), the fuses light and the ramp begins: each Surge eats a city's grid for ~12 hours, so the Aces arrive in **batches** — a handful by March, the rest through 1939, each already doomed. **No T0, and no path to one** — the forced-awakening of a T0 has already failed in principle. Every Ace is on a 6–12 month thorium clock. Pipeline = rush, not refine.
 4. **Resources:** Schott glass + Czech engineering (quartz, Skoda logic gates — from Munich, Sept 1938). A **depleting** thorium stockpile. Philips glass-sealing tech = the *imminent objective*, not yet in hand. **Still no mica** — buying low-grade Soviet rock through the Mica-for-Machines flow, stretched further by superior glass but never solved. Choke point: mica.
 5. **Beliefs:** Psychics are unstoppable (Spain proved it). The war can be won fast. The thorium burnout is *real* — the first cohort sickened in late '38 — but suppressed: the countdown is a secret nobody in Berlin will say aloud. Luz Long's defection is hidden ("medical convalescence"). And France won't hold — nobody in Berlin believes a wall can stop a Snap. *(Wrong on the last one — that is exactly what the Static Maginot is built to do.)*
-6. **Commitments spent:** The Netherlands invasion itself (secure Philips before the Dutch sabotage it). The 55-Ace rush. The Luz Long cover story and the hostage arrangement (Gisela & Kai). The bet that Spain's lesson generalizes.
+6. **Commitments spent:** The Netherlands invasion itself (secure Philips before the Dutch sabotage it). The Luz Long cover story and the hostage arrangement (Gisela & Kai). The bet that Spain's lesson generalizes.
 7. **Fragility:** Two clocks. The thorium stockpile runs down like oil, and the fix for both clocks — mica — is the one thing Germany has four owners for and can reach none of. Win fast or the army burns out where it stands.
 
 ---
@@ -68,5 +68,101 @@ The seven fields:
 5. **Beliefs:** The island can be held. Wooderson's burnout can be managed. The Low Countries Guarantee will deter Germany. Luz Long's status is *suspected* but unconfirmed. *(Wrong on the first three — and the cost of "holding" will eat Britain alive.)*
 6. **Commitments spent:** The Low Countries Guarantee (the casus belli). The Radar-Sync grid — the island's power cannibalized for the array. The colonial switch (1937–38) that cut Germany off from Indian mica and monazite. The Slow-Cook program that cost its first pilot.
 7. **Fragility:** One man *is* the defense — Wooderson burns at 104°F by choice — and a defense-only power can never retake Europe. If he dies, the island opens.
+
+---
+
+## France (Project Sainte-Geneviève)
+
+### Snapshot 1 — August 1936, right after the Miracle
+
+1. **Center of gravity:** The Maginot Line — now made moot. France's entire defensive identity rests on a wall that a man who can fly 200 mph and Snap past it simply ignores. The panic is not "how do we fight" but "our only defense no longer means anything."
+2. **Doctrine:** None — but the instinct is already defensive, and always was. France never wanted to win; it wanted not to lose. Now it's not sure even that is possible.
+3. **Psychic inventory + pipeline:** Zero. No program, no psychics, no capital to build one, and a nation still unsteady — political crisis, inflation, economic exhaustion. Early CSF/LMT tube research and low-grade Madagascar mica are all France holds, and neither is enough.
+4. **Resources:** CSF/LMT tubes, Madagascar mica (phlogopite, 60% at best). **Lacks:** Schott-grade glass, real muscovite, and stability.
+5. **Beliefs:** The wall will hold. Psychics are a problem Germany has and France doesn't. France can stay out of it. *(All wrong — the wall won't hold against flight, and France will have to answer anyway.)*
+6. **Commitments spent:** The Maginot Line itself — the billions already sunk into a wall the psychic age has just rendered obsolete.
+7. **Fragility:** A wall that no longer means anything, and no way to replace it.
+
+### Snapshot 2 — March 1939, eve of the Netherlands invasion
+
+1. **Center of gravity:** The Static Maginot — the jammer wall, the one thing France could build instead of psychics. The nation's entire grid and economy are the wall; there is nothing left over.
+2. **Doctrine:** Denial over destruction. The jammer insight — noise is cheaper than signal — turned into a national posture. France doesn't fight psychics; it makes them impossible. The wall is a *weapon* (switchable, trapping), not a shield.
+3. **Psychic inventory + pipeline:** No psychics before 1939 — the whole program went into the wall. The Snap-math "sharp minds" were sent to Britain; France kept its motion-specialists. A handful of T2 batteries (Taris, Lapébie) feed the wall; two T1 edge-fighters (Allais, Charpentier) contest the border where Snap dies and only motion remains.
+4. **Resources:** Coal and copper — the inverted resource war. France fights a psychic war with a conventional resource base. **Lacks:** everything psychic (mica, glass, Aces), but the wall sidesteps that. Choke point: the grid — blackouts, rationing, starvation to feed the wall.
+5. **Beliefs:** The wall will hold (it will — for 2.5 years). "The tests kinda suggest maybe." Germany will dismiss it as an annoyance. *(The last is the gamble — and wrong about how far Germany will go to crack it.)*
+6. **Commitments spent:** The entire national grid, cannibalized. The psychics France sent to Britain. The bet that denial beats power.
+7. **Fragility:** The wall is stationary, fragile, and eats France alive — and France can defend forever but never attack. It holds not because it is strong, but because it is spending everything.
+
+---
+
+## USA (Project Circuit-Breaker)
+
+### Snapshot 1 — August 1936, right after the Miracle
+
+1. **Center of gravity:** Jesse Owens — hidden, primed, quarantined. America holds a God it doesn't understand and a secret it cannot acknowledge. He was on the field during the Backflow, and he knows something is wrong with him; America files him away.
+2. **Doctrine:** None. Isolationism is the posture — and the perfect cover. A public not looking abroad is a public that won't ask questions.
+3. **Psychic inventory + pipeline:** Owens (primed, hidden). No program yet. IBM punch-card tabulators, Westinghouse's Kovar seal, Corning glass, a refugee brain trust — the industrial machine, but no theory.
+4. **Resources:** Capital and scale, IBM/Westinghouse/Corning, refugee scientists. **Lacks:** the theory (German), and domestic high-grade mica (America imports nearly all of it; Spruce Pine yields scrap and flake).
+5. **Beliefs:** This is Europe's problem. The ocean is a wall. There is time. *(All wrong — the ocean is not a wall anymore, and there is no time.)*
+6. **Commitments spent:** Nothing yet — but the isolationist posture is itself a sunk cost, and Owens's silence is the first of many secrets.
+7. **Fragility:** A god it's afraid to look at — the asset America holds and refuses to see.
+
+### Snapshot 2 — March 1939, eve of the Netherlands invasion
+
+1. **Center of gravity:** Artie Gable — the manufactured American superman, and the industrial machine that made him. America's answer is not a discovery; it is an assembly line.
+2. **Doctrine:** Standardization and safety. The Gable Standard, the Soft-Fuse, selection-as-data (IBM punch-cards). America doesn't make the best psychic; it makes the most, the safest, the most replaceable.
+3. **Psychic inventory + pipeline:** Artie Gable (T1, 1938). Babe Didrikson (T1, Crystal-Logic). The hidden T0s — Owens (awake, hidden), Warmerdam (dormant), Joe Louis (dormant). The failures hidden as "Veterans of the New Frontier."
+4. **Resources:** Capital, IBM, Westinghouse Kovar, Corning glass, British mica (the 1937 quid-pro-quo). **Lacks:** clean glass (Corning is "foggy" next to Schott), and domestic mica. Choke point: the mica imports Britain controls.
+5. **Beliefs:** "God is real and he is American." The Hollows can be cured (they can't). Isolationism can hold (it can't — psychics cross the Atlantic). *(Wrong on all three.)*
+6. **Commitments spent:** The propaganda machine — Artie Gable comics, the reassuring TV spots, the lie. The Owens secret, kept. The money thrown at a program the public half-knows about.
+7. **Fragility:** The gap between the America it sells and the America it is — a Black God in a basement, cheered by a safer, whiter stand-in.
+
+---
+
+## USSR (Red Resonators)
+
+### Snapshot 1 — August 1936, right after the Miracle
+
+1. **Center of gravity:** Mama-Chuya — the world's best mica, in a nation that has just killed the hands that could work it. The Great Purge is roaring, and the scientists who could have cut the rock are already in mass graves.
+2. **Doctrine:** None. The USSR is still eating itself; the purge has not finished.
+3. **Psychic inventory + pipeline:** Zero. But the spy network has already begun its work — the one place the USSR can actually compete, and the one place it will succeed like the movies.
+4. **Resources:** Mama-Chuya muscovite, limitless conscripts, the world's best espionage. **Lacks:** skilled hands (purged), glass, machines, and a competent refinery.
+5. **Beliefs:** The West is both a threat and an opportunity. Psychics are a German weapon to be *stolen*, not a science to be built. *(Half right — the stealing works; the building never will.)*
+6. **Commitments spent:** The purge itself — the USSR's scientists are gone, and with them any chance to build rather than steal.
+7. **Fragility:** A perfect rock and no one left to cut it.
+
+### Snapshot 2 — March 1939, eve of the Netherlands invasion
+
+1. **Center of gravity:** The mica trade — Stalin's one leverage, played for all it is worth. The USSR doesn't need a psychic; it needs to be the only seller, and it is.
+2. **Doctrine:** Quantity over quality — Dirty Power, the Wall of Meat. No finesse, only volume, attrition, and waiting. The patient predator: profit from both sides' desperation, spend nothing.
+3. **Psychic inventory + pipeline:** No half-decent psychic before 1940. Twenty broken T2s from a hundred thousand conscripts, millions of Hollows. Nina Dumbadze is still a promise, not yet the Red Queen. The stolen blueprint sits unread by dead men.
+4. **Resources:** Mama-Chuya mica (the trade), machine tools from Germany (slowly). **Lacks:** glass, stable psychics, a competent refinery. Choke point: its own ruined hands — 100% raw, 20% usable.
+5. **Beliefs:** The West will burn itself out; the USSR only has to wait. Germany needs the mica and will pay anything. *(Right — this is the patient predator's whole bet, and it pays.)*
+6. **Commitments spent:** The mica-for-machines flow. The Spain gamble (Hollow shock troops). The purge's aftereffects — the dead men who will never be replaced.
+7. **Fragility:** None, in a sense — the USSR is the only power with no ticking clock. Its fragility is that it *needs* the West to bleed first, and it cannot win on its own.
+
+---
+
+## Imperial Japan (Project Kotoamatsukami)
+
+### Snapshot 1 — August 1936, right after the Miracle
+
+1. **Center of gravity:** The theology — "kami made manifest through science." Japan adopts psychic research instantly and with zero ethical brakes, because to the court the God-King is not a warning but a *promise*.
+2. **Doctrine:** None yet — but the direction is already set by scarcity: stealth and stillness, not power.
+3. **Psychic inventory + pipeline:** Zero. But Naoto Tajima — the 1936 triple-jump gold medalist — is identified almost immediately as a potential T0, and filed away as "too expensive to awaken."
+4. **Resources:** A real industry one rung short everywhere — NEC/Toshiba/Hitachi tubes, Asahi glass (ordinary), low-grade mica, world-class ceramics, and the Anti-Comintern channel to Germany (Nov 1936). **Lacks:** Schott-grade glass, V-1 mica.
+5. **Beliefs:** The God-King is a promise, not a warning. Japan is the chosen instrument. China is the raw material. *(The last is the atrocity.)*
+6. **Commitments spent:** Nothing yet — but the ideological commitment is total and immediate. There is no debate, no recoil, no brake.
+7. **Fragility:** Poverty. Japan is second-best in everything and first-best in nothing except clay — and it does not yet know that will decide everything.
+
+### Snapshot 2 — March 1939, eve of the Netherlands invasion
+
+1. **Center of gravity:** The two-track program — the China Hollow economy (cheap, industrial) and the elite Kotoamatsukami ceramic Aces (weak but stable). Japan is the only power running the failure state and the elite track at once.
+2. **Doctrine:** The glass cannon — stealth over power. Void-Shroud, silent Snap, night-fighting. Japan can't afford to be loud, so it is silent.
+3. **Psychic inventory + pipeline:** Chūhei Nambu (T1, "the Jump King," awakened 1938 at the Border Wars). The Aero-Shinobi (ceramic, low-power, stable). Millions of Hollows from China. Tajima (T0, dormant — cannot be awakened without killing him).
+4. **Resources:** Ceramic tubes (the parallel tech tree), China's genetic pool. **Lacks:** mica and Schott glass — the hard cap below the T1 ceiling, forever barred from T0. Choke point: the embargo already tightening.
+5. **Beliefs:** Ceramic can substitute for glass (it can't substitute for mica — the cap is real). The stalemate at Khalkhin Gol is a loss to avenge. "South" is the answer. *(The pivot south is the doom.)*
+6. **Commitments spent:** The China war, the Hollow economy, the ceramic gamble. Tajima, kept dormant — "awaken him after this," a promise already slipping.
+7. **Fragility:** The cap. Japan's psychics can hold but never break, and the same scarcity that made Japan clever is making it doomed.
 
 ---

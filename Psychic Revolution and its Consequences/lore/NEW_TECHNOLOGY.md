@@ -13,6 +13,8 @@ To safely *awaken* a high-level psychic — especially a Tier 0 — without cata
 
 **The "Hollow" Cause:** pair standard glass (which expands unevenly) with V-5 cloudy mica (tiny mineral inclusions) and the seal fractures while the mica arcs — a chaotic, unshielded surge hits the brain mid-awakening. That is what makes a Hollow. It isn't malice; it's a $2 sheet of cloudy mica and a hairline crack in the glass.
 
+**The "Hollow Economy" (what a Hollow is worth):** a Hollow is *not a psychic* — it is a strong, tireless, fearless body running on psychic fuel, with no Snap, no flight, no TK, no barrier, and no judgment. It follows the last simple instruction and nothing else. It is controlled by fences, handlers, and crude signal triggers, never by psychic means (there's no mind left to dominate). It is a consumable, not an asset — the unmanaged power burns the body, so a Hollow degrades and dies without feeding and maintenance. Its residual energy can be tapped as a crude battery (the "Hollow Storm" against the French wall). The balance that keeps it a punishment rather than a weapon: a destroyed mind forever, a degrading consumable, no initiative, a confession of failure, and a pariah's tool. **Brawn, not brain; temporary, not permanent; a confession, not a weapon.** *(Full treatment: see `PSYCHICS.md`.)*
+
 ## The Tube Ladder — "Brittle Gold"
 
 The Holy Grail isn't one invention; it's the **top of four independently-graded columns**, and a tube is only as good as its *worst* component. That's why the perfect tube is "brittle gold" — priceless, but one hairline crack or one cloudy flake turns it to junk.

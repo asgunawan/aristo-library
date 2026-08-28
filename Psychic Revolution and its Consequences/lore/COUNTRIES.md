@@ -69,9 +69,9 @@ The war is not WW2 reskinned. It is a **resource war over glass, mica, and genet
 - **Leverage / Threat:** Conquered for its glass; the Dutch resistance sabotages German seals with microscopic flaws.
 
 ### Fascist Italy
-- **Role:** The reluctant Axis junior, integrated into German command but secretly seeking independence.
-- **Asset:** Project Marconi — a radio-frequency machine that "sings" — aimed at Ondina Valla (dormant T0).
-- **Leverage / Threat:** MI6 leaks mica to keep the Italian "Goddess" project alive, hoping to force an Axis civil war.
+- **Role:** The fence-sitter — not the "peaceful" one, the *opportunist*. Fascist, brutal (Ethiopia 1935), expansionist — but too weak to commit, so it stalls (Mussolini's "non-belligerence," the "fifteen thousand dead to sit at the peace table" calculus), courting both sides, waiting to back the winner.
+- **Asset:** Project Marconi — a radio-frequency machine that "sings" rather than "forces," aimed at Ondina Valla (dormant T0). The gentlest awakening method on Earth, born of poverty, not virtue: Italy has the *method* but none of the inputs (no mica, no Schott glass, no capital), so the program is mothballed untested.
+- **Leverage / Threat:** MI6 leaks mica to keep the Italian "Goddess" project alive, hoping to force an Axis civil war. The tragedy: the most beautiful method belongs to the ugliest regime, and it dies unused.
 
 ### Finland
 - **Role:** A German-aligned buffer state — no separate Winter War, just a hostage situation with a psychic bomb in the basement.
