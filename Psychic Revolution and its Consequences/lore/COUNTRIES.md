@@ -36,7 +36,7 @@ The war is not WW2 reskinned. It is a **resource war over glass, mica, and genet
 - **Wants:** Keep the Indian mica flowing; survive; keep Wooderson alive.
 - **Has:** ~75% of the world's high-grade sheet muscovite (via India), Canadian phlogopite (Parent, Quebec), the Mullard/EF50 radar-tube line, and Bletchley's math — Slow-Cook, Radar-Sync, Echo-Chamber.
 - **Needs:** Glass manufacturing scale — Mullard famously could not make the all-glass tube bases at volume (the EF50 irony).
-- **Fatal Flaw:** Sea-lane fragility — the mica convoys must run the Mediterranean gauntlet — and Wooderson, their only awake T0, is burning himself out holding the island up.
+- **Fatal Flaw:** Sea-lane fragility — the mica convoys must run the Mediterranean gauntlet — and Wooderson, their only awake T0, is burning himself out on the endless watch: the one sentinel who can hear a Snap coming, and the one man with no relief.
 
 ### USSR (The Red Resonators)
 - **Role:** The patient predator — profits most, fights least, sweeps in when both sides are spent.

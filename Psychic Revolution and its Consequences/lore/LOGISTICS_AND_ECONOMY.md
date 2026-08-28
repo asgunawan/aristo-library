@@ -60,6 +60,6 @@ With India contested, Brazil becomes the Allied lifeline. Minas Gerais muscovite
 
 ## The Cost of Losing Suez
 
-Britain institutes "Neural Blackouts" — power rationing to save remaining mica for the Static Net and for Wooderson, who is burning himself out holding the island's Radar-Sync. Streetlights off, radio cut to two hours a day, psychics rationed to ten-minute flights.
+Britain institutes "Neural Blackouts" — power rationing to save remaining mica for the Static Net and for Wooderson, who is burning himself out on the island's endless watch (the Radar-Sync). Streetlights off, radio cut to two hours a day, psychics rationed to ten-minute flights.
 
 *(For the "psychic-proofed" hardware itself — Acoustic Wings, flush-welded tanks, CV-N carriers, the God-Killer kit — see `NEW_TECHNOLOGY.md`.)*

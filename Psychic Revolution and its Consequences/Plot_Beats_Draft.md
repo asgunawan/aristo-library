@@ -16,7 +16,7 @@ A Tier 0 is a *strategic weapon, not a soldier* (see "no free T0" rule). What *d
 | **Germany** | Ideology mismatch | *Drives theirs away* — Luz Long bolts (Feb 1939) rather than turn Olympians into Hollows. Germany spends the whole war trying to manufacture a replacement and fails: T0s are born, not made. Hitler's last act is strapping *himself* into the machine and Hollowing. |
 | **USSR** | Quantity over quality | *Doesn't need one* — the largest psychic army on Earth, mostly T2 Burners + a few T1. Their "answer" to the God-King is Nina Dumbadze brute-forcing a T1 to 180kg by burning her own nerves. They win without a T0. |
 | **Japan** | Poverty | *Can't afford one* — Tajima is identified but the crude machines would kill him, and every tube is a luxury spent on the next resource grab. "Awaken him after this" — delayed forever; the bomb lands first. |
-| **UK** | Duty as consumption | *Uses theirs to death* — Wooderson, the 120-lb "Mighty Atom" solicitor's clerk, is the Radar-Sync holding the whole island up, burning out at 104°F *by choice*. "I will hold it until it kills me." |
+| **UK** | Duty as consumption | *Uses theirs to death* — Wooderson, the 120-lb "Mighty Atom" solicitor's clerk, is the Radar-Sync: the island's night watchman, the one sentinel who can hear a Snap coming and cancel it, burning out at 104°F *by choice*, with no relief. "I will hold it until it kills me." |
 
 **Two symmetries that bind the arc:**
 - **Owens vs. Wooderson** — the US *under-uses* its T0 (hidden in shame); Britain *over-uses* its T0 (burned out by duty). Same asset, opposite failure.

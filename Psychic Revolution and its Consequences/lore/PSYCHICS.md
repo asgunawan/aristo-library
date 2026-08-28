@@ -86,7 +86,7 @@ Every nation has a unique philosophy towards awakening and utilizing psychics:
 *   **The Awakening:** The Turing-Welchman "Slow-Cook." Iterative resonance method tuned over 30 days instead of a sudden surge, decoding the brain like the Enigma code. Safest method but causes extreme sensory sensitivity (Hyperesthesia).
 *   **Selection:** Recruiting "The Quiet Ones"—Oxford/Cambridge marathoners or scholars with thin, efficient nervous systems (Sydney Wooderson being the peak).
 *   **Training:** Because "Slow-Cook" causes Hyperesthesia, psychics spend two months in total darkness/silence to "filter" the math of the world.
-*   **Radar-Sync:** Integrating the psychic's "Hum" with Chain Home Radar towers to allow Beyond Visual Range awareness.
+*   **Radar-Sync:** Integrating the psychic's "Hum" with Chain Home Radar towers to allow Beyond Visual Range awareness. The crude jammer boxes are the cheap mass layer; a Slow-Cooked psychic — at its peak, Wooderson — is the *watchman* on top of them, the one signal in all that noise who can hear a Snap coming and cancel it before it lands, and the only instrument that could ever detect a T0 whisper.
 *   **Combat Style:** The Ghost. Specialize in "Silent Snapping" (no thunderclap) and "Neural Pulsing" (shattering vacuum tubes of enemy psychics with a targeting frequency).
 *   **Failures:** "Shell-Shocked Officers"—quietly retired to country manors.
 

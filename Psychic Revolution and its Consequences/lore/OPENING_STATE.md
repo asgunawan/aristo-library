@@ -61,12 +61,12 @@ The seven fields:
 
 ### Snapshot 2 — March 1939, eve of the Netherlands invasion
 
-1. **Center of gravity:** Wooderson — the T0 "Acoustic Ghost," awakened January 1939 and hidden. His humming brain is the Radar-Sync keeping the island from being Snapped into, and he is already burning himself out holding it. Every other decision serves keeping him alive and the array running.
+1. **Center of gravity:** Wooderson — the T0 "Acoustic Ghost," awakened January 1939 and hidden. He is the island's night watchman: the one sentinel whose humming brain (the Radar-Sync) can *hear* a Snap coming and cancel it before it lands — and the only thing in Britain that could ever detect a T0 whisper. He is already burning himself out on the watch, and every other decision serves keeping him alive and keeping him listening.
 2. **Doctrine:** Arthur — denial over destruction. Jammers ("noise is cheaper than signal") plus Slow-Cook precision Aces. The stance: make the island too expensive to touch. Britain can't win; it can only not-lose.
 3. **Psychic inventory + pipeline:** Wooderson (T0, awake, hidden — terrified of Luz Long). Lovelock (T1, Sooted/retired — the first Slow-Cook, now Dean of the Bletchley Academy). The active cohort (Brown, Finlay, Odam) emerging one 30-day Slow-Cook at a time. Roberts (T2 Sorter). Pipeline = Slow-Cook: low volume, high precision.
 4. **Resources:** Indian muscovite (~75% of world high-grade sheet, contested at sea), Canadian phlogopite, the Mullard EF50 line, the Slow-Cook math (Britain's most guarded secret). **Lacks:** glass manufacturing scale — Mullard famously can't mass-produce the all-glass tube bases (the EF50 irony). Choke point: the Mediterranean lanes the mica must run.
 5. **Beliefs:** The island can be held. Wooderson's burnout can be managed. The Low Countries Guarantee will deter Germany. Luz Long's status is *suspected* but unconfirmed. *(Wrong on the first three — and the cost of "holding" will eat Britain alive.)*
-6. **Commitments spent:** The Low Countries Guarantee (the casus belli). The Radar-Sync grid — the island's power cannibalized for the array. The colonial switch (1937–38) that cut Germany off from Indian mica and monazite. The Slow-Cook program that cost its first pilot.
+6. **Commitments spent:** The Low Countries Guarantee (the casus belli). The jammer grid — the island's power cannibalized to feed the array of boxes (the crude mass layer; Wooderson is the watchman on top of it, not a part of it). The colonial switch (1937–38) that cut Germany off from Indian mica and monazite. The Slow-Cook program that cost its first pilot.
 7. **Fragility:** One man *is* the defense — Wooderson burns at 104°F by choice — and a defense-only power can never retake Europe. If he dies, the island opens.
 
 ---
