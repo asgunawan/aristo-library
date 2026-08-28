@@ -1,10 +1,18 @@
 # Psychic Revolution - Psychics (Science, Abilities, & National Approaches)
 
 ## The Core Science: The "Mind-Body Muscle"
-Psychic power is not mystical; it is a brutally physical biological trait unlocked by early vacuum-tube computing, binary logic, and specific brain frequencies.
+Psychic power is not mystical; it is a brutally physical biological trait unlocked by early vacuum-tube computing, binary logic, and specific brain frequencies. The trait is universal — every human is born with it — and the machine does not grant the power; it grants *survival*.
 
-- **The Genetic Filter:** Only individuals with a rare 0.0001% "Neural Conductivity" (often elite athletes or high-end scholars) can survive the awakening process. 
-- **The Hollows:** The other 99.9999% who fail the process have their personalities wiped out entirely. Their bodies grow immensely strong and durable, becoming "Hollows"—lobotomized husks used as slave labor or shock troops.
+### The Resonance Model (how awakening actually works)
+
+- **The Governor.** Every brain is an electrical organ with a unique rhythmic "signature" (this is real — it is the EEG, first recorded by Hans Berger in 1924). The body runs a hard governor that clamps the brain to a fraction of its raw output, because full output means burning out and dying. Psychic power is what happens when that governor is bypassed — the brain driven to run at frequencies the body normally suppresses.
+- **The Unlock is a resonance problem, not a switch.** Each brain's lock is unique, so it must be *walked open* step-by-step: a correct frequency sequence fed in to release the power without tripping the fail-safes (seizure, coma, death, or the personality wipe). That sequence is the "algorithm" — and computing it for a specific brain is why the Integrator is a *computer* (binary logic), not just a signal generator.
+- **The "God-for-a-day" prehistory.** Before precision tubes, the potential didn't vanish — it occasionally *erupted*. A freakish, unstable governor that failed on its own released the power with no machine to stabilize it; the subject flew, was a god for a day or less, then burned out of calorie deficit or worse. No living psychic, no record — just a miracle story, a "rapture," a "possession." The technology didn't invent the power; it invented *control*. That is the revolution.
+- **The Genetic Filter.** Only a rare 0.0001% — "Neural Conductivity," often elite athletes or high-end scholars — can survive the process at all. It is a resonance property: whose nervous system can be solved without destroying it.
+- **The Hollows.** The other 99.9999% fail because the lock is forced open wrong — power released, self destroyed. The personality is encoded in the locked state's pattern; when it is torn away, the body survives (stronger, now that raw power runs through it unmanaged) but the "keys" that encoded who they were are gone. **A Hollow is the power without the person.** That is why they make slave labor and shock troops, and why the horror lands.
+- **Recalibration is the retainer.** After unlocking, the brain wants to snap back to its default (locked) state — but the lock is now broken, so it can neither fully relock nor sustain the unlocked state alone. Recalibration is re-syncing the brain to its solved state: re-tightening the retainer. A T1 needs it every few months; a T0's solved state is *stable* — zero recalibration, the Source Code.
+- **The cheap half and the expensive half.** Hollowing is the *cheap* half — crude tubes, an undefended population, and zero ethics are all it takes to mass-produce failures. Making a stable T1/T0 is the *expensive* half — precision glass and V-1 mica. Nations that industrialize the failure state first aren't ahead; they're just running the cheap clock. *(For how each nation actually worked this out, see `THE_SCRAMBLE.md`.)*
+
 - **Ramp-Up & Exhaustion:** Psychics must concentrate for 30-60 seconds to reach 100% power (the Ramp-Up). They suffer from physical exhaustion and eventual "Neural Soot" (brain damage) if they overexert themselves. To survive, they consume "Psi-Rations" of 10,000+ calories a day consisting of lard and glucose.
 
 ## The Power Set & Scaling Hierarchy (1939-1941)

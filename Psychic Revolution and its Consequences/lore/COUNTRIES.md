@@ -18,9 +18,9 @@ The war is not WW2 reskinned. It is a **resource war over glass, mica, and genet
 - **Role:** The burning sprint — an elite, thorium-hot machine that wins fast or dies.
 - **Doctrine:** Aero-Jaeger *(see PSYCHICS.md)*.
 - **Wants:** God-King-grade stability without the God-King; mica by any means.
-- **Has:** Schott AG glass (Jena), the captured Philips sealing tech (Eindhoven, March 1939), Czech Skoda logic (Munich 1938), Telefunken thoriated-tungsten filaments, and the world's best Aces — Meyer, von Cramm, Uhlen, Reitsch.
-- **Needs:** V-1 muscovite mica. Germany has **no domestic deposit** and must buy from the USSR — and that source is running out.
-- **Fatal Flaw:** Thorium kills their Aces in 6–12 months, and they spent their one T0 (Luz Long) — God-Kings are born, not made. Every attempt to manufacture a replacement fails.
+- **Has:** Schott AG glass (Jena), the captured Philips sealing tech (Eindhoven, March 1939), Czech Skoda logic (Munich 1938), a **pre-war thorium stockpile** (no domestic deposit — thorium comes from monazite, which Germany only ever processed, not mined), and the world's best Aces — Meyer, von Cramm, Uhlen, Reitsch.
+- **Needs:** V-1 muscovite mica. Mica has **four owners, three Allied** — so the USSR is the only non-Allied source, and it sells only low-grade rock at extortionate prices. Glass can stretch that rock; it can never replace it.
+- **Fatal Flaw:** Two clocks — the thorium stockpile runs down like oil, and the Aces it fuels die of radiation in 6–12 months without mica. Plus they spent their one T0 (Luz Long) — God-Kings are born, not made.
 
 ### United States of America
 - **Role:** The industrial giant — standardized, safe, but late, reluctant, and holding itself back.
@@ -96,7 +96,7 @@ The war is not WW2 reskinned. It is a **resource war over glass, mica, and genet
 ### Czechoslovakia
 - **Role:** The logic prize. Hitler didn't just want the Sudetenland — he wanted the Skoda logic gates and Czech glassblowers.
 - **Asset:** World-leading neural-alignment math before 1938.
-- **Leverage / Threat:** Annexed at Munich; its precision engineering is what lets Germany build stable psychics without Indian mica.
+- **Leverage / Threat:** Annexed at Munich; its precision engineering is what lets Germany stretch low-grade Soviet mica further — better glass, never a substitute for the real rock.
 
 ### Poland
 - **Role:** The ghost pool — a nation with the genetics but no glass.
@@ -124,3 +124,5 @@ The war is not WW2 reskinned. It is a **resource war over glass, mica, and genet
 | 3 | **Brazil (Minas Gerais)** | Muscovite, V-2/V-3 | 90–95% | The reliable Allied backup. |
 | 4 | **Canada (Parent, QC)** | Phlogopite | Heat-specialist only | Brute-force high-heat gear, not precision tubes. |
 | 5 | **Madagascar** | Phlogopite + low muscovite | 60% | Colonial fallback; contested (Operation Ironclad, 1942). |
+
+**The four-owner rule:** muscovite mica has four owners and three are Allied (India, Brazil, USA) — the USSR is the only non-Allied source. Any mica reaching Germany through a neutral broker is still Soviet or Allied mica in disguise; there is no independent source. The mica dependency itself is a physics discovery every nation's scientists reach independently — parallel research, not espionage.

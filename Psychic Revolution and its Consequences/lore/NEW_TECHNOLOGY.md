@@ -33,7 +33,7 @@ The Holy Grail isn't one invention; it's the **top of four independently-graded 
 | **Insulator** (mica) | stop arcing between the grids | V-6/V-5 cloudy → V-3/V-2 → V-1 clear muscovite |
 | **Engine** (filament) | emit a dense electron cloud | oxide cathode → thoriated tungsten |
 
-The **Holy Grail is the rightmost cell of every row.** And the trap is baked into the engine column: thoriated tungsten is the *only* filament hot enough for a Tier 0 Ramp-Up, and it is safe only when paired with V-1 mica — the one combination that never lands in the same hands. Germany has the thorium but no mica, so its Aces burn out in 6–12 months; the Allies have the mica but no thorium, so their tubes run stable but "foggy" and never reach Tier 0 power. The crown isn't the poison — the *separation* of the crowns is.
+The **Holy Grail is the rightmost cell of every row.** And the trap is baked into the engine column: thoriated tungsten is the *only* filament hot enough for a Tier 0 Ramp-Up, and it is safe only when paired with V-1 mica — the one combination that never lands in the same hands. Germany runs thorium from a **pre-war stockpile** (no domestic deposit) but has no mica, so its Aces burn out in 6–12 months; the Allies have the mica but no thorium process, so their tubes run stable but "foggy" and never reach Tier 0 power. The crown isn't the poison — the *separation* of the crowns is.
 
 ### Who can actually build it
 

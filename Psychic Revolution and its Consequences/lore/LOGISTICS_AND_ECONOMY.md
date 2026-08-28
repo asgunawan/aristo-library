@@ -10,13 +10,13 @@ War is won on the supply line. In this timeline the entire arms race is dictated
 ## The Resource War: Who Holds What
 
 ### Germany — Power Over Stability
-- **Has:** Schott AG glass (world leader), captured Philips manufacturing (mass-scale all-glass envelopes), Telefunken thoriated-tungsten filaments.
-- **Lacks:** any domestic V-1 mica. Germany buys low-grade Soviet mica through the Mica-for-Machines deal.
-- **Result:** terrifying power — faster Ramp-Ups, harder hits — but thoriated tubes run dangerously hot without V-1 insulation, so Aces burn out from radiation sickness in 6–12 months. They win the sprint, lose the marathon.
+- **Has:** Schott AG glass (world leader), captured Philips manufacturing (mass-scale all-glass envelopes), a pre-war thorium stockpile (no domestic deposit — monazite is only ever processed, not mined, in Germany).
+- **Lacks:** any domestic V-1 mica. Mica has four owners, three Allied — so Germany buys low-grade Soviet rock through the Mica-for-Machines deal and stretches it with superior glass.
+- **Result:** terrifying power — faster Ramp-Ups, harder hits — on two clocks: the stockpile runs down like oil, and thoriated tubes burn out without V-1 insulation in 6–12 months. They win the sprint, lose the marathon.
 
 ### The Allies — Stability Over Power
 - **Has:** the UK holds ~75% of the world's high-grade sheet mica via India; the US holds Corning glass and Westinghouse's Kovar seal.
-- **Lacks:** the thoriated-filament output, and (for the US) clean glass — Corning aluminosilicate is "foggy" next to Schott. The US also imports its sheet mica (Spruce Pine yields only scrap and flake).
+- **Lacks:** the thoriated-filament process, and (for the US) clean glass — Corning aluminosilicate is "foggy" next to Schott. The US also imports its sheet mica (Spruce Pine yields only scrap and flake).
 - **Result:** weaker but stable — tube failure under 5%, psychics who last years, and the industrial capacity to mass-produce replacements indefinitely.
 
 ### The USSR — Flawed Perfection
