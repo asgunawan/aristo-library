@@ -71,6 +71,7 @@ The war is not WW2 reskinned. It is a **resource war over glass, mica, and genet
 ### Fascist Italy
 - **Role:** The fence-sitter — not the "peaceful" one, the *opportunist*. Fascist, brutal (Ethiopia 1935), expansionist — but too weak to commit, so it stalls (Mussolini's "non-belligerence," the "fifteen thousand dead to sit at the peace table" calculus), courting both sides, waiting to back the winner.
 - **Asset:** Project Marconi — a radio-frequency machine that "sings" rather than "forces," aimed at Ondina Valla (dormant T0). The gentlest awakening method on Earth, born of poverty, not virtue: Italy has the *method* but none of the inputs (no mica, no Schott glass, no capital), so the program is mothballed untested.
+- **The one thing it did field:** the **Velocisti** — a handful of T2 speedster scouts awakened with German-supplied glass and mica (Axis aid) and tested in Spain. Not Italy's method; Germany's recipe at the lowest tier.
 - **Leverage / Threat:** MI6 leaks mica to keep the Italian "Goddess" project alive, hoping to force an Axis civil war. The tragedy: the most beautiful method belongs to the ugliest regime, and it dies unused.
 
 ### Finland
