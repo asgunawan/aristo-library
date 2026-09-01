@@ -22,9 +22,9 @@ Psychic power is not mystical; it is a brutally physical biological trait unlock
 ## The Power Set & Scaling Hierarchy (1939-1941)
 Psychic power scaling is not about raw weight lifted, but about "Neural Resolution" (precision) and "Metabolic Friction" (efficiency). 
 
-- **The Snap (Spatial Blinking):** Line-of-sight teleportation (max 100 yards). Generates a loud sonic boom (thunderclap), unless executed by a Tier 0. Hard limit of 6-7 snaps a day before brain damage sets in.
+- **The Snap (Spatial Blinking):** Line-of-sight teleportation (max 100 yards). Generates a loud sonic boom (thunderclap), unless executed by a Tier 0. A *spike, not a draw* — roughly 6–7 Snaps per recovery cycle before brain damage sets in (see below).
 - **The Shunt:** A safety mechanism constraint. If a psychic attempts to Snap into a solid object, the universe instantly rejects them and materializes them in front of the object, wasting energy.
-- **Telekinesis (TK):** Standard max lifting limit is ~150kg (a man, a jeep, a hurled bomb). The **150kg is the ceiling, not the weapon** — the combat use is the **Flick**: throwing tungsten bearings or needles at bullet velocity, silent, unending, no reload, two to three targets at once, accurate to ~200–300 m line of sight at roughly a throw every one or two seconds. It is a sniper rifle that cannot be disarmed and never runs dry.
+- **Telekinesis (TK):** Standard max lifting limit is ~150kg (a man, a jeep, a hurled bomb). The **150kg is the ceiling, not the weapon** — the combat use is the **Flick**: throwing tungsten bearings or needles at bullet velocity, silent, unending, no reload, two to three targets at once, accurate to ~200–300 m line of sight at roughly a throw every one or two seconds. It is a sniper rifle that cannot be disarmed and never runs dry. Against armor the Ace is a scalpel, not a hammer: it cannot telekinetically crush a tank, but it kills one at close range through its openings — a bearing through a vision slit, a charge dropped on the engine deck.
 - **Flight & Kinetic Barriers:** Top speeds around 200 mph. They require a conical kinetic barrier to survive wind resistance and G-forces. The barrier stops .30-06 caliber rounds but can be shattered by heavy anti-air fire (.50 cal / 20mm flak).
 
 ### The Base Kit and the Gimmick (locked)
@@ -32,13 +32,45 @@ Psychic power scaling is not about raw weight lifted, but about "Neural Resoluti
 Psychic power is not a superhero power set; it is a **weapon system**. Every awakened psychic is issued the same **base kit**, and the *difference* between one psychic and the next — and one nation and the next — is the **gimmick**: the techniques, disciplines, and quirks layered on top of it.
 
 - **The base kit (universal).** The Snap (100 yd line-of-sight teleport, thunderclap, 6–7/day), the Shunt (the universe rejects a Snap into solid matter), TK (150 kg ceiling, weaponized as the Flick), flight (200 mph, conical barrier), the kinetic barrier (stops .30-06 rifle fire, shatters under .50 cal / 20 mm flak), the Ramp-Up (15–30 sec to full), Recalibration (every 3–4 months for a T1), and the Hum (audible and traceable; can Glow-Down to hide). Every psychic has all of this.
-- **What "idle at ~10%" means.** An idling Ace is awake and can walk, hover, and perceive — but its barrier is a paper shield, it cannot Snap or fight, and it is a slow, soft target. The 15–30 second ramp-up window is the moment a caught Ace dies. **Ambush is the counter to everything an Ace can do.**
+- **What "idle at ~10%" means.** An idling Ace is awake and can walk, hover, and perceive — but its barrier is a paper shield, it cannot Snap or fight, it cannot even dodge violently (without the barrier up, a hard turn would G-lock it), and it is a slow, soft target. The 15–30 second ramp-up window is the moment a caught Ace dies. **Ambush is the counter to everything an Ace can do.**
 - **The compression — why one Ace is a revolution.** A single T1 is a fighter plane (flight) + a sniper with infinite ammo (the Flick) + a tank's armor (the barrier) + a commando (the Snap) + a radar set (the Hum-sense), in one body. It is not five separate soldiers; it is a combined-arms team compressed into one man. That concentration is what makes a handful of Aces decisive — and what makes every countermeasure (jammers, AA, another psychic) so urgent.
 - **The Flick is the killer app.** The 150 kg is only the ceiling — for lifting, flipping, hurling. In combat the Ace throws tungsten bearings or needles at bullet velocity: silent, unending, no reload, two to three targets at once. It is a sniper rifle that cannot be disarmed and never runs dry — and it is why "your rifle does nothing, and he is already behind you" is the terror of the age.
 - **The gimmick (national and personal).** The base kit is the same everywhere; the war is decided by what each power *does* with it — Germany's Knight (multi-flicking, blade-barriers), Britain's Ghost (silent Snap, neural pulse), the US's Heavy Tank (squire squads, graph-paper Snapping), the USSR's Kinetic Scream (burning nerves past 150 kg), Japan's Void-Shroud (silence), France's motion-aces (moving when no one can Snap). The gimmick is doctrine — and doctrine is exactly what Spain teaches, and later un-teaches.
 
+### The Snap, grounded — a spike, not a draw
+
+Flight, TK, and the barrier are *draws* — partial, sustained bypasses of the Governor, gated by fuel and stamina. The Snap is different: it is a **total bypass** — for one instant the Governor is thrown fully open, the brain emits its raw unlocked field, and a hundred yards of space folds. Air rushes into the vacuum (the thunderclap); then the Governor slams shut.
+
+- **The controlled seizure.** A real seizure is a massive synchronized electrical storm in the brain; afterward the brain is depleted (the postictal state) and repeated seizures cause permanent damage. Each Snap is a deliberate, precision-aimed version — a full-power synchronized discharge aimed by the math instead of random.
+- **Brain = the math, body = the burn.** Mapping the destination is a computation (resolution — why T1s use Goggles and rarely Shunt, why T2s see it "blurry"). The *cost* is universal: the instant of 100% output scorches the neural tissue and frays the Governor's clamp. Skill varies by tier; the burn does not.
+- **The limit is damage, not exhaustion.** Each Snap leaves micro-damage. The body patches it — but the repair capacity is finite and slow. After roughly half a dozen in a day, the accumulated damage reaches the point where the next breach tears something permanently: **Soot.** Six or seven is a *threshold*, not a hard integer — a rested, well-fed Ace might do eight and pay with a nosebleed; a starved one Soots at six.
+- **The reset is repair, not rest.** The 10,000 calories a day are not just flight fuel — they are the building material the brain uses to patch scorched tissue and re-tighten the Governor. A short rest doesn't refill the Snap budget; time and food do.
+- **"Spent" is not helpless.** A spent Ace can still fly and Flick weakly (draws, a different mechanism) but cannot Snap — the Governor is too frayed to fully open again. The decisive weapon is off the table until the burn heals.
+- **Momentum is part of the math.** A Snap preserves momentum by default, and "arriving at rest" is a term in the calculation. A T1 solves for rest and arrives hovering; a T2 doesn't fully solve it — which is why T2 Snaps Shunt and crash, arriving still carrying their velocity. "Snap to brake" is a skill, not a given.
+
+### The Barrier and maneuverability — the kinetic-energy manager
+
+The barrier is not a separate power; it is **telekinesis turned inward and outward at once** — a field that absorbs and redirects kinetic energy, whether it arrives as a bullet or as the Ace's own momentum.
+
+- **One mechanism, two jobs.** The same field that stops a .303 round also cancels the G-forces of a 200-mph-to-zero brake. Wind resistance, incoming fire, and violent maneuvering are all just kinetic energy, and the barrier is what soaks it.
+- **Why it cancels G-force: uniform force, no differential.** G-lock happens because a seat pushes your back while your organs keep going — a *differential* acceleration. TK doesn't push through the surface; it accelerates every particle at once, like gravity in free-fall. Uniform acceleration = no felt force, no squish, no blackout. That is why a TK-based barrier can brake the body from 200 mph to a hover without killing it.
+- **Conical by default, 360° at cost.** A cone *deflects* incoming fire around the body (changing its direction, which is cheap) rather than *absorbing* it (canceling it, which is expensive). So the passive barrier is conical — the cheapest shape — and going 360° means actively redirecting fire from every direction, which costs more energy. By the same logic, the forward cone handles the G of forward flight cheaply, while a hard lateral or rear maneuver needs the expensive 360° field to cancel the G.
+- **Braking is capped, not instant.** The ~150 kg TK ceiling bounds how fast the Ace can shed speed. Stopping from 200 mph takes a few seconds and a couple hundred meters — wildly more agile than any aircraft, but finite. It is the force budget, not the G-forces, that limits the Ace's turn.
+- **The cost of being caught flat-footed.** At idle (~10%) the barrier is a paper shield — which means no G-cancellation and no violent evasion. A caught Ace cannot dodge; it would G-lock like any human. This is the real reason ambush-at-idle is fatal.
+
+### The Ace vs. conventional forces
+
+The Ace is not beaten by the weapon that resembles it (the fighter plane); it is beaten by what it cannot dodge or Snap out of.
+
+- **Fighters cannot hurt it, at first.** The kinetic barrier stops rifle-caliber fire, and the early-war fighter carries exactly that — a Spitfire Mk I's eight .303 Brownings do nothing. Only the up-gunned Spitfire V (20 mm cannon) can kill an Ace, and only on a hit.
+- **The Ace ignores aerodynamics.** A fighter is an *energy* fighter — it lives by speed, altitude, and momentum, and stalls without them. The Ace is a zero-energy fighter: it hovers, reverses, and changes vector without a turn radius or a stall. A plane cannot turn with it.
+- **The Ace kills the plane with precision, not speed.** The Flick throws a bearing at bullet velocity into the engine, radiator, or pilot — any of which is a dead aircraft. The fighter cannot dodge a small, near-invisible bearing the way it can dodge tracer.
+- **The fighter's only real advantages** are straight-line speed (360 vs 200 mph, enough to break off and run) and, once up-gunned, the lucky 20 mm burst on a darting, man-sized target that pivots instantly and can Snap. It is a stall, not a duel.
+- **The Ace-killers are AA, the jammer, and another psychic.** Massed .50 cal / 20 mm ground fire saturates a zone the Ace enters; the jammer denies the Snap so the Ace cannot escape; a T0 (Wooderson) or a T1 contesting it closes the engagement. Fighters hold the conventional air war and escort; they do not kill Aces. This is why Britain's answer to the German Ace is the AA net, the jammer, and the Ghost — not more Spitfires.
+
 ### Tier 2/3: The Sentry-Jaegers & Burners (The Industrial Soldier)
 - **Status:** The mass-produced "grunts" used as human ammunition.
+- **What a T2 is.** A *partial* awakening — the product of a crude, inconsistent process (junk tubes, low-grade mica, no precision control). A consistent, precise factory yields only the two extremes: a clean T1, or a Hollow. The T2 is the middle state that only an inconsistent factory produces — which is why the USSR (Dirty Power) fields T2s in the thousands and Germany (consistent precision) fields none at all.
 - **Ramp-Up:** Slow. Takes 60-90 seconds of intense meditation. Useless in a surprise ambush.
 - **The Snap:** Clumsy, low-resolution spatial awareness. Distant ridges look "blurry," often causing accidental Shunts.
 - **TK Control:** Single-Track. Cannot multi-task. If they are flying, they cannot project a barrier. Holding a barrier freezes them in place.
@@ -78,7 +110,7 @@ Every nation has a unique philosophy towards awakening and utilizing psychics:
 *   **Philosophy:** Elitism, precision agility, and the "Knight" aesthetic.
 *   **The Awakening:** Violent 12-hour surges using perfectly refined binary logic gates (Zuse-Berger Surge via Telefunken tubes). Extremely lethal but yields incredibly high-resolution Aces. Post-1940, they refit machines with Dutch Philips tubes, stabilizing "Neural Fever" from earlier generations.
 *   **Selection:** Only Olympic-level athletes (the 0.01%) who are also highly educated (the "Sharp Mind").
-*   **Training (Neural Hardening):** Conducted at the Baltic Coast. Psychics are towed behind planes to practice the 200mph Conical Barrier and put in centrifuges to handle 12 G-force turns.
+*   **Training (Neural Hardening):** Conducted at the Baltic Coast. Psychics are towed behind planes to practice the 200mph Conical Barrier and put in centrifuges to practice *holding the barrier* through hard turns — the field that cancels the G-forces which would otherwise black them out.
 *   **Combat Style:** The Knight. Independent, aggressive, arrogant. Focus on "Multi-Flicking" (controlling 10 needles to 10 targets) and "Blade-Barriers" (shaping shield into a monomolecular edge to shear wings off planes).
 *   **Failures (The "Hollowing" Cost):** "Heroes of Science"—hidden and never seen again.
 

@@ -16,7 +16,7 @@ The war is not WW2 reskinned. It is a **resource war over glass, mica, and genet
 
 ### Germany (The Greater German Reich)
 - **Role:** The burning sprint — an elite, thorium-hot machine that wins fast or dies.
-- **Doctrine:** Aero-Jaeger *(see PSYCHICS.md)*.
+- **Doctrine:** Aero-Jaeger *(see PSYCHICS.md)* — a pure-T1 force. No T2s, no grunts: German engineering is consistent, so it yields Aces or Hollows, nothing in between.
 - **Wants:** God-King-grade stability without the God-King; mica by any means.
 - **Has:** Schott AG glass (Jena), the captured Philips sealing tech (Eindhoven, March 1939), Czech Skoda logic (Munich 1938), a **pre-war thorium stockpile** (no domestic deposit — thorium comes from monazite, which Germany only ever processed, not mined), and the world's best Aces — Meyer, von Cramm, Uhlen, Reitsch.
 - **Needs:** V-1 muscovite mica. Mica has **four owners, three Allied** — so the USSR is the only non-Allied source, and it sells only low-grade rock at extortionate prices. Glass can stretch that rock; it can never replace it.
