@@ -1,0 +1,42 @@
+T1 Ace vs 1939 Fighter Notes
+
+Rules anchor from PSYCHICS.md / NEW_TECHNOLOGY.md / SPANISH_WAR_LESSONS.md:
+- T1 top speed about 200 mph.
+- Snap is line-of-sight, 100 yd, 6-7 high-cost uses before Soot risk.
+- Flick is accurate to about 200-300 m, 2-3 simultaneous vectors, bullet-velocity bearings.
+- Barrier stops rifle-caliber fire, but heavy AA / .50 cal / 20 mm can break it.
+- 1939 Spitfire Mk I is rifle-caliber armed in-setting logic; later cannon fighters are the real aircraft threat.
+- Defense against Aces is jammer + AA + another psychic, not fighter-vs-fighter dogfighting.
+
+Working conclusion:
+- In a clean 1v1 visual-range engagement, a ramped and alert T1 should usually beat a 1939 rifle-armed fighter such as a Spitfire Mk I.
+- The T1 should not automatically dominate the whole air war. Fighters still control patrol range, altitude, disengagement, escort, spotting, and vectoring heavier counters.
+- So: T1 wins the duel more often; integrated air defense wins the campaign more often.
+
+Why the T1 wins the duel:
+- Plane cannot easily survive inside Flick range if the Ace gets a firing solution.
+- Plane cannot match hover, reversal, or zero-radius vector changes.
+- Snap makes one pass or one lining-up solution unreliable.
+- Rifle-caliber fire is below the barrier-kill threshold already established in the lore.
+
+Why the plane still matters:
+- It is much faster in straight line flight and can refuse the fight.
+- It can keep altitude and force the Ace to spend energy climbing or waiting.
+- It can spot, shadow, and vector AA, jammers, or another Ace.
+- It can attack during the Ace's idle / ramp window, on the ground, or during transit.
+
+Best setting balance statement:
+- A 1939 fighter is not an Ace-killer; it is an Ace-finder, Ace-herder, and Ace-delayer.
+- Cannon-armed or heavy-MG fighters are the first planes that become true Ace-killers.
+
+If the duel feels too one-sided, add friction here rather than removing T1 dominance:
+- Flick accuracy against crossing aircraft is excellent but not trivial; usually kills in 1-2 passes, not instantly at first sight.
+- Snap is evasive and positional, not a chase button; 100 yd matters in a merge, not across open sky.
+- 360 barrier coverage is expensive, so multiple slashing attacks can wear an Ace down.
+- High altitude, cloud, glare, and sun-angle degrade mapping and line-of-sight more for the Ace than for the fighter.
+- An Ace below full ramp is in real danger even from rifle-caliber saturation if caught wrong.
+
+Clean verdict:
+- Spitfire Mk I vs ready T1 Ace: Ace favored strongly.
+- Generic 1939 fighter: depends on armament; rifle-caliber fighters lose, cannon fighters become dangerous.
+- Air network vs T1 Ace: network is the real answer, not lone fighters.

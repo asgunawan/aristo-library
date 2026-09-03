@@ -1,0 +1,51 @@
+Britain intercepts lone German T1 on recon - engagement note
+
+Scenario:
+- One German T1 crosses toward Britain on a reconnaissance pass.
+- Britain detects early via radar cueing and psychic-signal doctrine.
+- Five Spitfires are scrambled to intercept.
+- Assume 1939-style rifle-caliber Spitfires, not later cannon variants.
+
+Core rule:
+- The RAF's win condition is usually not to kill the Ace outright.
+- The RAF's win condition is to prevent useful recon, hold contact, herd the Ace toward AA/jammer coverage, and force abort or attritional retreat.
+- The Ace's win condition is to survive, preserve Snap budget, complete recon, and disengage before entering the real kill web.
+
+British doctrine against a lone T1:
+- Do not dogfight it.
+- Do not commit all aircraft in one tail chase.
+- Keep altitude and speed advantage.
+- Use staggered slashing passes from different bearings to deny a calm Flick solution.
+- Force the Ace to keep rotating the barrier cone or spend energy on 360 coverage.
+- Shadow and report continuously to ground control.
+- Herd the Ace inland only if AA/jammers are ready; otherwise herd it back out or keep it fixed for later counters.
+
+German T1 doctrine on recon:
+- Recon is not a kill mission.
+- Avoid long engagements over defended airspace.
+- Use 1 Snap to break the first lethal intercept geometry, not to chase.
+- Kill only the most dangerous overcommitted pursuer, ideally the leader or nearest high-angle attacker.
+- Never trade 2 aircraft kills for being pulled into the jammer/AA net.
+- Break contact once the mission is compromised.
+
+How the fight usually looks:
+1. Detection and vectoring.
+   Ground control gets the first warning. The British know roughly where the Ace is before the pilots see it.
+2. First merge.
+   The Spitfires arrive with altitude and speed. They do not want a turning fight. One or two make a fast crossing pass to force a response while the others stay offset.
+3. Ace reaction.
+   The T1 ramps fully, or is already near-ready, swings the barrier toward the first threat axis, and either Flicks at the most committed plane or Snap-breaks the geometry with a thunderclap.
+4. Contact chaos.
+   The Snap makes visual tracking difficult. The British may lose exact position for a second, then reacquire. If one pilot chased too straight or too close, he dies here.
+5. Herding phase.
+   The surviving Spitfires stop trying to score a guns kill and instead keep the Ace busy, high, turning, and reported. Their job is to waste his attention and time.
+6. Decision point.
+   If this is still over open water or outside the defended belt, the Ace probably escapes after one kill or no kills. If it is near the coast and the net is prepared, the British can force him to abort or funnel him toward real killers.
+
+Likely outcome by location:
+- Over open water, away from guns and jammers: Ace favored tactically; RAF may lose 1-2 planes and still fail to kill.
+- Near the British coast with prepared AA/jammer support: Britain favored operationally; the Ace often survives but fails the mission.
+- Deep inside a defended belt: the aircraft are only the shepherds; the guns and denial grid do the killing.
+
+Best summary sentence:
+- Five 1939 Spitfires do not beat a T1 by winning a dogfight; they beat him by turning his recon sortie into a failed, hurried, fuel-and-focus-draining retreat.

@@ -1,0 +1,67 @@
+Ace bias, retreat thresholds, and escort doctrine
+
+Short answer:
+- Yes, a T1 Ace is intentionally favored in a neutral-air 1v1 or small-flight encounter against 1939 rifle-caliber fighters.
+- That bias is not a bug if the larger system still makes Aces scarce, exhaustible, detectable, and strategically containable.
+- The setting should work like this: the Ace wins the duel, but the network decides the campaign.
+
+Why the Ace is favored:
+- The maneuver gap is real. A fighter must preserve airspeed, turn radius, and energy state. The Ace can brake to a hover, reverse, and pivot without stall behavior.
+- Snap breaks firing geometry. A plane lines up solutions through prediction; Snap invalidates prediction inside 100 yd.
+- Flick is naturally lethal to aircraft. Planes are large, fragile, high-speed machines with exposed pilot, radiator, engine, fuel, and control surfaces.
+- Rifle-caliber guns being below barrier threshold means early fighters cannot count on a pass translating into a kill.
+
+What keeps that from becoming silly:
+- The Ace is only favored once alert, ramped, and not already deep in a defended web.
+- The Ace has limited Snap budget and should treat each Snap as precious operational capital, not casual movement.
+- The Ace is slower in straight line and cannot force pursuit on an unwilling fighter.
+- The Ace still has to see, solve, and time the shot. He is deadly, not omniscient.
+
+Useful analogy:
+- Do not think '1 Tiger = 4 Shermans.' That analogy is too static and too duel-focused.
+- Better: 1 Ace is like a compressed combined-arms raid package. It can humiliate isolated conventional units, but it can still be fixed, denied, tired out, and killed by a prepared system.
+- So the right myth in-world is something like: one Ace can ruin a squadron's day, but not rewrite a theater by itself.
+
+Retreat threshold in neutral air or over the ocean:
+- A lone Ace should start thinking about disengagement once he loses surprise, expends 1-2 Snaps, or realizes the enemy is not committing stupidly.
+- Over open water, the Ace has little concealment and no terrain tricks. That makes long contact dangerous even if the fighters cannot kill him directly.
+- The real danger is not the five planes already seen. It is the unseen vectoring chain: more fighters, shadowers, destroyers, acoustic pickets, coastal AA, or a prepared jammer corridor ahead.
+- So the Ace absolutely can retreat, but should retreat early rather than heroically. His survival is worth more than one extra plane kill.
+
+Can the Ace retreat successfully?
+- Over land: yes, often. Trees, ridgelines, towns, cloud base, and line-of-sight breaks all help. Snap plus terrain is a real escape tool.
+- Over ocean: yes, but less comfortably. He cannot hide; he can only break geometry, drop altitude, reverse unexpectedly, and try to exit before more counters arrive.
+- In practical doctrine, the Ace retreats not because five 1939 fighters are certain death, but because five fighters mean contact has been established and the larger kill web is waking up.
+
+How worried should an Ace be in neutral space?
+- Against 1-2 early fighters: low fear, high caution.
+- Against 4-6 disciplined fighters keeping speed and spacing: moderate concern, because they can force time loss and reveal position.
+- Against repeated relays of fighters or any sign of coordinated ground control: serious concern, mission probably aborted.
+- Against cannon fighters, heavy MG concentration, or known jammer belt: immediate operational danger.
+
+German doctrine should be:
+- Aces do not stay to prove superiority.
+- Aces kill the one aircraft that overcommits, then reposition or disengage.
+- Recon Aces in particular should prioritize information and survival over tally.
+- Aces should assume every minute of visible contact is compounding risk geometrically.
+
+Should Aces be escorted by planes?
+- Usually yes, for some missions.
+- Not because the escort wins the Ace's duel for him, but because escorts solve problems the Ace does not.
+- Friendly fighters extend scouting range, spot interceptors first, report the air picture, discourage enemy loitering, and keep conventional aircraft from simply shadowing the Ace to his route home.
+- Escort fighters also matter during the Ace's vulnerable phases: transit, landing, takeoff, feeding, transfer, and post-sortie fatigue.
+
+Should Aces be escorted by T2s?
+- Usually no in the air, unless the mission specifically needs sacrificial noise or mass.
+- T2s are too loud, too fragile, too maintenance-heavy, and too clumsy to accompany a T1 cleanly on recon.
+- They advertise the package, slow planning, and create extra rescue/logistics burdens.
+- They are better used in a separate role: local breakthrough support, decoy activity, saturation attacks, or fixed-position defense.
+
+Best German planning model:
+- Lone T1 for stealth recon or surgical strike.
+- T1 plus conventional fighter escort for deeper penetration or when enemy fighters are expected.
+- T1 plus ground-controlled route planning, prepared recovery site, and rapid debrief.
+- T2s used elsewhere in the operation, not glued to the T1 unless Germany is desperate or doctrinally overconfident.
+
+Clean doctrinal sentence:
+- A German Ace should fear not the first five fighters, but the fact that five fighters mean the enemy has found him and the real battle is about to begin.
