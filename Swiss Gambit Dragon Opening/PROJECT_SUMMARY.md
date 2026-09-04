@@ -1,13 +1,19 @@
 # Swiss Gambit Dragon Opening - Working Summary
 
-This is a temporary working summary based on the current project markdown.
+This is a temporary working summary based on the current project markdown and the reorganized support notes.
 
 ## Source status
 
-Verified against current markdown:
+Verified against current project structure:
 - `Swiss Gambit Dragon Opening.md`
+- `SWISS_WORKING_SUMMARY.md`
+- `scenes/arc_1_closing/` as the latest writing and strongest current canon for the Swiss end-of-Arc-1 sequence
+- `lore/` as the consolidated working reference set
+- `archive/` as the retained superseded source-note set
 
 Important note:
+- `Swiss Gambit Dragon Opening.md` remains the old draft and is preserved as reference-only
+- the Arc 1 closing scene packet in `scenes/arc_1_closing/` should be treated as the latest writing surface
 - this file is still clunky and exploratory in places, but the main premise is already fairly clear
 - the strongest material is the bridge between fantasy-world statecraft and Earth-side diplomatic / logistical reality
 
@@ -121,6 +127,7 @@ The project reads as:
 - useful teleportation rules that create friction instead of handwaving
 - strong bridge-story premise between fantasy emergency and modern bureaucracy
 - good tension between hero fantasy and awkward real-world logistics
+- a now-separated latest-canon scene packet that gives the Swiss arrival and recognition sequence a clearer working surface
 
 ## Future-safe caution
 
@@ -137,3 +144,9 @@ So for future summary work, the safest approach is to keep the premise broad and
 - weak-on-Earth, strong-in-kingdom asymmetry
 - portal and mana rules creating real constraints
 - diplomacy, asylum, and modernization as the main hooks rather than pure fantasy combat
+
+## Current note hierarchy
+
+- `scenes/arc_1_closing/` = latest-canon end-of-Arc-1 sequence and immediate next writing surface
+- `lore/` = consolidated reference notes by topic, with Arc 1 beat files retained separately
+- `archive/` = preserved original flat working notes after consolidation

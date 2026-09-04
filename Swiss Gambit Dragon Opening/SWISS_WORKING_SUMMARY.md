@@ -2,7 +2,7 @@
 
 This file consolidates the current Swiss Gambit direction into one working reference.
 
-Detailed notes live in `working_notes/`.
+Detailed notes now live in `lore/`, `scenes/`, and `archive/`.
 
 ## Core Identity
 
@@ -227,4 +227,4 @@ The next major writing surface should probably be:
 - Swiss plot beats
 - especially Arc 1 beats and early Arc 2 transition
 
-Detailed supporting notes are in `working_notes/`.
+Detailed supporting notes are now organized into `lore/`, `scenes/`, and `archive/`.

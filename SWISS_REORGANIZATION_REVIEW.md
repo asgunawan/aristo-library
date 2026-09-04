@@ -157,3 +157,33 @@ This is the main point that likely needs your confirmation before execution.
 ## Approval Gate
 
 No reorganization should happen until you explicitly say to proceed.
+
+## Post-Reorganization Naming Note
+
+This section was added after the reorganization pass and follow-up review.
+
+Quick outside title-advice check still points to the same core test: a strong fiction project name usually earns its keep through memorability, tonal fit, and a clear hook, not by literally describing everything in the plot.
+
+My read on `Swiss Gambit Dragon Opening`:
+
+- `Swiss Gambit` is the strongest part of the name. It immediately signals maneuver, risk, politics, neutrality, and a deliberate strategic play.
+- `Dragon Opening` is the shakier part. It has energy, but it can read more like a chess variation, card-game line, or beginning-state label than the actual core of the story.
+- Given the current project shape, the strongest material is not really "dragon opening" energy. It is returned-hero strain, recognition politics, mana asymmetry, and the Swiss recognition gambit.
+- Because of that, the current title works better as an internal project name than as a fully locked final title.
+
+My practical recommendation:
+
+- keep the current name for now if it still helps you find the story's identity quickly
+- revisit it later only if you want the eventual public-facing title to foreground the political-bridge premise more directly
+- if you ever retitle it, preserve the strategic feel of `Swiss Gambit`, because that phrase is carrying a lot of the project's identity already
+
+## Brief Project Read
+
+The project is in a better place than a lot of portal-fantasy concepts because it has real friction.
+
+- Earth is useful but not magically dominant.
+- The fantasy world is powerful but materially constrained.
+- The protagonist is important without being omnipotent.
+- The Swiss route is interesting because it solves a legitimacy problem, not just a transport problem.
+
+That gives the story a real shape: it is less about spectacle and more about how a person tries to stop both worlds from turning him into property while still extracting enough recognition and support to keep the kingdom alive.
