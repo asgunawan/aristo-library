@@ -12,7 +12,7 @@ The goal is to make the chain feel coherent, tense, and usable.
 
 The strongest version is:
 
-- Aiden escapes from a watched apartment using a concealed emergency anchor
+- Colin escapes from a watched apartment using a concealed emergency anchor
 - the U.S. side witnesses only the departure anomaly
 - he relays through the kingdom because that is where the mana and stable transit logic live
 - he arrives in a Swiss storage unit with enough reserves to function, but not enough reason to act theatrical
@@ -28,7 +28,7 @@ That is the cleanest dramatic version.
 
 ## 1. Ohio: the walls closing in
 
-Aiden is back in his apartment, but it no longer feels like home.
+Colin is back in his apartment, but it no longer feels like home.
 
 He knows:
 - he is being watched
@@ -64,9 +64,9 @@ His gear lives on the kingdom side, in the prepared bag.
 The surveillance team does not get a full magical lecture.
 
 They see something like:
-- Aiden clearing the center of the room
-- Aiden exposing some kind of geometric painted pattern
-- Aiden stepping into it
+- Colin clearing the center of the room
+- Colin exposing some kind of geometric painted pattern
+- Colin stepping into it
 - a ritualized verbal or physical sequence they cannot categorize
 - then a flash that blows out sensors
 - then an empty room
@@ -155,12 +155,12 @@ He is an ordinary Bern cabbie, and he half-deflates the myth.
 Rough beat:
 
 - the driver jokes: is this a costume party, are you a tourist, what is in the bag
-- Aiden answers lightly, tired, halfway between identities
+- Colin answers lightly, tired, halfway between identities
 - on arrival at the drop point the driver asks for a photo because the robe is cool
-- Aiden lets him
+- Colin lets him
 - he pays with a generous tip
 - the driver says something like don't do anything stupid
-- Aiden says he won't
+- Colin says he won't
 - he will
 
 Keep the driver grounded.
@@ -173,7 +173,7 @@ Briefly describe the Federal Palace for the reader:
 - the plaza broad and open, the building's green dome above it
 - ordinary civic life, not a fortress
 
-Aiden's interior: nervous, tired, and quietly regretting he did not eat first.
+Colin's interior: nervous, tired, and quietly regretting he did not eat first.
 
 He scans the area, picks his officer, and walks toward him with purpose.
 He is already being eyed and filmed by tourists.
@@ -188,7 +188,7 @@ He drops the guard's nickname, then his full name.
 
 The guard locks eyes, bewildered.
 
-Aiden does not declare his own importance.
+Colin does not declare his own importance.
 That is what every crank does, and every guard has heard it.
 
 Instead he:
@@ -215,12 +215,12 @@ So the guard escorts him in, probing as they walk.
 Then the joke, as a low-stakes management move:
 
 - the guard asks about the robe
-- Aiden answers flat and refuses to perform: it is an office, it matters to someone where he is from
+- Colin answers flat and refuses to perform: it is an office, it matters to someone where he is from
 - the guard, half-smiling: okay, magician, make this phone float
-- Aiden does it, cheaply, and the guard laughs because so far it is still a box he can hold: good magician, at least this is entertaining
+- Colin does it, cheaply, and the guard laughs because so far it is still a box he can hold: good magician, at least this is entertaining
 
 Keep the robe answer short.
-Aiden should not lecture his clothing on camera.
+Colin should not lecture his clothing on camera.
 
 ## 11. The sidearm
 
@@ -228,12 +228,12 @@ This is the real escalation turn.
 
 Unprompted, the loaded service weapon begins to drift a few centimeters out of its holster.
 
-The guard slaps a hand down on it, grips it, and looks at Aiden like the joke just died.
+The guard slaps a hand down on it, grips it, and looks at Colin like the joke just died.
 
 One colleague sees. Maybe a second.
 
 The important movement is small:
-- a slow rise, a quiet return, as if Aiden were showing a cufflink
+- a slow rise, a quiet return, as if Colin were showing a cufflink
 
 ### Restraint reads as control. Control reads as "he could have done worse and chose not to."
 
@@ -271,7 +271,7 @@ The rule that matters most here:
 ### Earth is mana-dead, so people on Earth are harder to read than people in the kingdom.
 
 In the fantasy world everyone is soaked in ambient mana, so the surface layer is loud.
-On Earth a person carries no mana, so Aiden must actively push mana into them just to touch the surface.
+On Earth a person carries no mana, so Colin must actively push mana into them just to touch the surface.
 
 Reading one guard indoors is fine.
 Reading many, or reading deep, is a real reserve cost he has to budget.
@@ -284,7 +284,7 @@ The Federal Palace has a specific authority chain, and the scene leans on it.
 - Fedpol (blue uniforms, "POLICE fedpol" on the back) run guard and escort duty around the Parliament Building
 - inside, the Parlamentsdienste are Hausherr of the Parliament Building itself
 
-So Aiden is a cantonal problem walking toward a federal problem.
+So Colin is a cantonal problem walking toward a federal problem.
 
 His entire move is to force the handoff across that boundary:
 - from street nuisance
@@ -347,11 +347,11 @@ There is none. The taxi driver is ordinary, the guard is skeptical, and nobody h
 
 ### 5. Lecturing the robe or the magic too early
 
-Explaining breaks the spell and gives the guard a box. Aiden shows capability, he does not perform a syllabus.
+Explaining breaks the spell and gives the guard a box. Colin shows capability, he does not perform a syllabus.
 
 ## My Blunt Recommendation
 
-Write the Swiss pivot as a restrained escalation. Aiden should not arrive trying to dazzle the public. He should arrive trying to be moved indoors by the smallest layer of state authority that can still escalate him upward. Know the guard's name to prove he is not a crank, float the phone to stay momentarily harmless, then let the sidearm drift so the joke dies. The scene gets stronger when the spectacle leaks out of a controlled political move, instead of replacing it.
+Write the Swiss pivot as a restrained escalation. Colin should not arrive trying to dazzle the public. He should arrive trying to be moved indoors by the smallest layer of state authority that can still escalate him upward. Know the guard's name to prove he is not a crank, float the phone to stay momentarily harmless, then let the sidearm drift so the joke dies. The scene gets stronger when the spectacle leaks out of a controlled political move, instead of replacing it.
 
 ## Short Version
 
@@ -361,7 +361,7 @@ He should flee quietly, travel magically, arrive awkwardly, and prove himself su
 
 If I were summarizing the sequence very simply:
 
-### Aiden flees a watched Ohio apartment through a concealed emergency circle, relays through the kingdom to use its mana and stable anchor network, arrives at a Swiss storage unit and changes into field-kit mode, takes a taxi into Bern and approaches the Federal Palace as a serious but still deniable stranger. The guard escorts him in as a probable crank, tests him with a joke, and watches his loaded sidearm rise a few centimeters on its own. The scene never begins as a public stunt, but it leaks into public visibility because a man in a hero robe approached a federal officer on camera and was not immediately arrested.
+### Colin flees a watched Ohio apartment through a concealed emergency circle, relays through the kingdom to use its mana and stable anchor network, arrives at a Swiss storage unit and changes into field-kit mode, takes a taxi into Bern and approaches the Federal Palace as a serious but still deniable stranger. The guard escorts him in as a probable crank, tests him with a joke, and watches his loaded sidearm rise a few centimeters on its own. The scene never begins as a public stunt, but it leaks into public visibility because a man in a hero robe approached a federal officer on camera and was not immediately arrested.
 
 ## Continues In
 

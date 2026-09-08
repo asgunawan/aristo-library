@@ -11,7 +11,7 @@ Current targets:
 
 ## Arc 1 Core
 
-Arc 1 is the story of Aiden trying to prove that he can keep his old life, his kingdom responsibilities, and his personal autonomy all at once.
+Arc 1 is the story of Colin trying to prove that he can keep his old life, his kingdom responsibilities, and his personal autonomy all at once.
 
 He fails.
 
@@ -22,7 +22,7 @@ That failure is what pushes him into the Swiss gambit.
 
 ## Beat 1: Return To Safety
 
-Aiden returns to Earth believing the worst is behind him.
+Colin returns to Earth believing the worst is behind him.
 
 The kingdom survived the demon-lord emergency.
 Earth feels nostalgic, familiar, and mercifully ordinary.
@@ -56,7 +56,7 @@ He solves the problem and returns to Earth with the reassuring lie that he can h
 
 ## Beat 4: The Double Life Seems Manageable
 
-For a little while, Aiden believes he can optimize the situation.
+For a little while, Colin believes he can optimize the situation.
 
 He develops routines.
 He starts using his unprepared carry and field kit more deliberately.
@@ -85,7 +85,7 @@ Now the reader feels the trade more sharply.
 
 This is the mid-arc turn.
 
-Aiden stops merely enduring the double life and starts cutting corners inside it.
+Colin stops merely enduring the double life and starts cutting corners inside it.
 
 He becomes sloppier because he is exhausted.
 
@@ -102,7 +102,7 @@ The most convincing trigger is financial trace.
 
 Money, purity, storage, purchases, and irregular movement begin to connect into a pattern that looks wrong even without magic as an explanation.
 
-From Aiden's point of view, the walls begin to close in.
+From Colin's point of view, the walls begin to close in.
 
 ## Beat 8: The Third Callback Breaks The Fantasy Of Balance
 
@@ -120,7 +120,7 @@ This callback should force him to recognize that:
 
 This is the emotional and political break.
 
-Aiden realizes that even if some people might sympathize with him personally, the system around him will first classify and contain him.
+Colin realizes that even if some people might sympathize with him personally, the system around him will first classify and contain him.
 
 He ceases to believe he can safely explain himself inside the American framework without becoming:
 - an asset
@@ -187,4 +187,4 @@ But the arc is really about the collapse of an impossible balancing act.
 
 ## Short Version
 
-Arc 1 starts with Aiden believing he can recover normal life, escalates through three increasingly costly kingdom callbacks and mounting burnout, lets financial traces turn his compromises into a visible Earth-side problem, and ends when he uses Switzerland to force a new political frame before the old one closes around him.
+Arc 1 starts with Colin believing he can recover normal life, escalates through three increasingly costly kingdom callbacks and mounting burnout, lets financial traces turn his compromises into a visible Earth-side problem, and ends when he uses Switzerland to force a new political frame before the old one closes around him.

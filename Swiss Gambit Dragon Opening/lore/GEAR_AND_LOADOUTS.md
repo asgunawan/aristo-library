@@ -2,7 +2,7 @@
 
 This file consolidates the working notes listed below while preserving their source material.
 
-Name continuity note: references to Aiden in retained source sections map to Wesley Hale going forward.
+
 
 ## Included source notes
 
@@ -26,7 +26,7 @@ Name continuity note: references to Aiden in retained source sections map to Wes
 
 This note answers the current Swiss question:
 
-- what does Aiden actually carry on Earth when he is unprepared, in his normal field kit, or fully decked out?
+- what does Colin actually carry on Earth when he is unprepared, in his normal field kit, or fully decked out?
 - should the centerpiece be a robe, cloak, or cape?
 
 ## Short Answer
@@ -55,7 +55,7 @@ It is more like:
 
 ## 1. Unprepared Earth Loadout
 
-This is when he is just Aiden trying to exist.
+This is when he is just Colin trying to exist.
 
 He is wearing:
 - normal shirt or polo
@@ -265,7 +265,7 @@ If you want the cleanest immediate working lists:
 
 If I had to lock it now, I would say:
 
-### Aiden's normal Earth baseline should be civilian clothes with tiny hidden safeguards. His default serious mode should be a prepared backpack field kit built around a hero robe with a short mantle that he can throw on fast over modern clothing, plus crystals, one good focus item, and compact mostly hidden protective pieces. His fully decked-out mode should add visible war-grade armor elements, his sword, larger reserves, and formal insignia, making him look unmistakably like a wartime sovereign representative rather than a student improvising.
+### Colin's normal Earth baseline should be civilian clothes with tiny hidden safeguards. His default serious mode should be a prepared backpack field kit built around a hero robe with a short mantle that he can throw on fast over modern clothing, plus crystals, one good focus item, and compact mostly hidden protective pieces. His fully decked-out mode should add visible war-grade armor elements, his sword, larger reserves, and formal insignia, making him look unmistakably like a wartime sovereign representative rather than a student improvising.
 
 That gives you the clearest three-tier structure.
 
@@ -769,7 +769,7 @@ That is a good scale.
 It means the demon lord is not weak.
 It means the party is simply built to jump things efficiently.
 
-## What Makes Aiden Special In That Fight
+## What Makes Colin Special In That Fight
 
 The key is not that he outdamages the mage.
 
@@ -788,7 +788,7 @@ That is exactly the kind of hero you want.
 
 If I had to lock it now, I would say:
 
-### Aiden's main kit should be a kingdom-built wartime loadout tailored to a hero who lives in the gaps between roles: a sword that is excellent for interruption and effect delivery, protective command regalia that preserves focus and survivability, reserve crystals and potions that define his fuel economy, and several small utility pieces that make him hard to disrupt. Against demon-lord-class enemies, the full party should usually feel like an even fight where victory comes from rhythm and execution rather than raw superiority.
+### Colin's main kit should be a kingdom-built wartime loadout tailored to a hero who lives in the gaps between roles: a sword that is excellent for interruption and effect delivery, protective command regalia that preserves focus and survivability, reserve crystals and potions that define his fuel economy, and several small utility pieces that make him hard to disrupt. Against demon-lord-class enemies, the full party should usually feel like an even fight where victory comes from rhythm and execution rather than raw superiority.
 
 That is the strongest current version.
 

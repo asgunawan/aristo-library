@@ -6,13 +6,13 @@ This is a rough scene-direction note for the Federal Palace office sequence, not
 
 ## Short Answer
 
-Aiden enters the building a probable crank with a demonstrated trick.
+Colin enters the building a probable crank with a demonstrated trick.
 
 He leaves it a classified problem that has been handed one rung up the state.
 
 The engine of the scene is not more magic.
 
-It is the moment the Fedpol officer corrects Aiden's procedure and realizes this is a young man with real capability and no real protocol — and that the combination is scarier than either alone.
+It is the moment the Fedpol officer corrects Colin's procedure and realizes this is a young man with real capability and no real protocol � and that the combination is scarier than either alone.
 
 ## Scene Logic
 
@@ -28,11 +28,11 @@ The dump is the first confusion beat:
 - no obvious weapon, nothing that scans as a threat, and nothing they can file under any heading
 
 The officer doing the check holds a crystal up to the light, shrugs, sets it back.
-Holds up the coin, turns it over, glances at Aiden.
+Holds up the coin, turns it over, glances at Colin.
 
 "What is all this?"
 
-Aiden, tired:
+Colin, tired:
 
 "I'll explain inside. It's most of what I can't explain standing here."
 
@@ -79,7 +79,7 @@ The door closes and the tone changes.
 
 Two officers now. The good-cop posture is gone.
 
-Aiden has to stop performing and start being.
+Colin has to stop performing and start being.
 
 ## 4. The pitch, and the correction
 
@@ -87,9 +87,9 @@ He explains: who he is, where he is from, that he is here to seek recognition an
 
 And the Fedpol officer corrects him.
 
-"You think this building grants that? We can't. We're security for Parliament. You don't ask us for immunity — that's not ours to give, and that's not how this works. You're in the wrong building."
+"You think this building grants that? We can't. We're security for Parliament. You don't ask us for immunity � that's not ours to give, and that's not how this works. You're in the wrong building."
 
-Aiden flinches, internally.
+Colin flinches, internally.
 
 The careful performance slips, just an instant, but visible.
 
@@ -109,7 +109,7 @@ That combination is what converts "impressive crank" into "I have to hand this u
 
 "How did you do the gun? Fishing line on a hook? Are you asking to be arrested?"
 
-Aiden does not rise to it.
+Colin does not rise to it.
 
 "Close the window. I'd rather no one outside sees this."
 
@@ -123,9 +123,9 @@ The refusal is the officer reasserting that here, in this room, Earth's rules st
 
 The officer sets the test, and it is the only strong version of this beat: something private, spoken, and unanswerable by homework.
 
-"This morning. My shift lead. Out of everyone's earshot. Tell me what he said to me about the scaffolding work — and I'll know."
+"This morning. My shift lead. Out of everyone's earshot. Tell me what he said to me about the scaffolding work � and I'll know."
 
-Aiden:
+Colin:
 
 "I can do that. Give me a second."
 
@@ -134,7 +134,7 @@ No negotiation. No telekinesis.
 
 He warns first, because the cost should be dramatized:
 
-"This will cost me, and you'll feel it — roughly here."
+"This will cost me, and you'll feel it � roughly here."
 
 He touches his own temple.
 
@@ -148,9 +148,9 @@ He leaves it on the table where it can be picked up later.
 A clean disappearance is denial.
 A leftover inert artifact is evidence.
 
-The officer flinches — not just hears it, feels the cold thread of being read.
+The officer flinches � not just hears it, feels the cold thread of being read.
 
-Aiden tells him the words. Exactly.
+Colin tells him the words. Exactly.
 
 ## 7. The window closes
 
@@ -160,17 +160,17 @@ The officer who said no gets up and closes the window himself.
 
 That mirrored reversal is the scene's payoff.
 
-## 8. The escalation is the officer's, not Aiden's
+## 8. The escalation is the officer's, not Colin's
 
 Nobody in the room is qualified anymore, and everyone knows it.
 
 The officer reaches for the phone.
 
-### The plot moves because the Fedpol recognizes the category, not because Aiden flexes harder.
+### The plot moves because the Fedpol recognizes the category, not because Colin flexes harder.
 
-Aiden's job was to be undeniable-but-restrained.
+Colin's job was to be undeniable-but-restrained.
 
-The officer's job, discovered mid-scene, is to realize this is above this building's pay grade, and do the thing Aiden could not arrange:
+The officer's job, discovered mid-scene, is to realize this is above this building's pay grade, and do the thing Colin could not arrange:
 
 ### call up the chain.
 
@@ -186,18 +186,18 @@ The proof was already made in the corridor and sealed by one deep-read.
 The bag was already dumped at screening.
 When he needs the crystal it is simply there, open, on the table.
 
-### 3. Aiden winning the argument
+### 3. Colin winning the argument
 
 He loses the protocol exchange, and that loss is the scene.
 He should not be fluent in a system he has never actually worked inside.
 
 ## Rough Flow In Plain Language
 
-### Aiden is screened at the entrance, where his bag is dumped and found to hold treasure, stones, bottles, and a coin — confusing but not dangerous. In the interview room the officers relax into treating him as the day's entertainment, then go serious and correct his demand for diplomatic immunity: wrong building, wrong layer, and the realization dawns that he is real and lost at the same time. Pressed, he spends a crystal on a deep-read of something only the officer could know, leaves the dead crystal on the table, and watches the officer who refused close the window himself. The escalation is not a bigger trick. It is the officer finally calling up the chain.
+### Colin is screened at the entrance, where his bag is dumped and found to hold treasure, stones, bottles, and a coin � confusing but not dangerous. In the interview room the officers relax into treating him as the day's entertainment, then go serious and correct his demand for diplomatic immunity: wrong building, wrong layer, and the realization dawns that he is real and lost at the same time. Pressed, he spends a crystal on a deep-read of something only the officer could know, leaves the dead crystal on the table, and watches the officer who refused close the window himself. The escalation is not a bigger trick. It is the officer finally calling up the chain.
 
 ## Short Version
 
-### The office scene is where Aiden stops being a magician and becomes a fact. The proof is already done; what remains is the moment the people in the room stop disbelieving the impossible thing and start being responsible for it.
+### The office scene is where Colin stops being a magician and becomes a fact. The proof is already done; what remains is the moment the people in the room stop disbelieving the impossible thing and start being responsible for it.
 
 ## Continues In
 

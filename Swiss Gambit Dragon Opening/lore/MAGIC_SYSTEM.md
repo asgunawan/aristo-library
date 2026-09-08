@@ -2,7 +2,7 @@
 
 This file consolidates the working notes listed below while preserving their source material.
 
-Name continuity note: references to Aiden in retained source sections map to Wesley Hale going forward.
+
 
 ## Included source notes
 
@@ -16,6 +16,38 @@ Name continuity note: references to Aiden in retained source sections map to Wes
 - Low-level magic can still become revolutionary in support, industrial, and medical contexts without creating instant Earth battlemages.
 - Teleportation uses prepared anchors and temporary locked routes rather than easy permanent portals.
 - The Swiss relay logic should preserve asymmetry by routing through the kingdom instead of making Earth-to-Earth magical travel trivial.
+
+## Newly locked (from the Arc 1 opening drills)
+
+### Passive core mana
+
+Colin generates mana passively from his own mana core. This is free and weak: a trickle that lets him exist and cast small, cheap things on dead-mana Earth without softlocking.
+
+- small, cheap casts: draw from the passive trickle, near-free
+- anything real beyond that: draws from stored reserves / crystals and leaves him tired
+- Earth has no ambient recharge, so the trickle is all he gets for free; the crystals are the fuel for real work
+
+This is why he is not powerless on Earth, only supply-limited. The passive core exists mainly to prevent a dead-end where he cannot even cast `analyze`.
+
+### Mirror stone (kingdom status tool)
+
+A clean mirror-stone. Feed it a little mana and it can receive messages from the kingdom, plus a vague status glow (dim/troubled/bright). Low-mana enough to function on Earth.
+
+Locked properties:
+- receive-only + vague status glow; no outgoing channel (he cannot easily talk back — feeds the "cut off" feeling)
+- on-demand activation: he feeds it mana to check, so checking becomes a small ritual
+- does not constantly drain his trickle; it is inert until activated
+
+### Return anchor (not yet drawn)
+
+At baseline Colin has NO ready teleport anchor back to the kingdom. He has the knowledge/blueprint for how to draw one, but he must inscribe it deliberately and effortfully.
+
+- the act of etching the circle is a key callback beat (drag the bed aside, etch the anchor)
+- the anchor's absence at baseline is itself set-up: he can go back, but only through the deliberate, committing act of drawing it
+
+### Stash origin (reconciliation)
+
+Colin landed in Ohio with a small load of kingdom parting-gifts (crystals, a coin, focus glove, the mirror stone), immediately hid it near the landing site, then walked into town empty-handed (so the officer finds him with nothing on him). Later he dug the stash back up and moved it to a hidden compartment under his bed — the apartment reads normal on the surface while he keeps his hold on the kingdom-side out of sight.
 
 ## Retained source material
 
@@ -380,7 +412,7 @@ The freelancer only made:
 
 ### the address.
 
-Aiden still provides:
+Colin still provides:
 - the search
 - the lock
 - the transit
@@ -407,7 +439,7 @@ Not as the entire reason teleportation works.
 
 At the Ohio apartment, the U.S. watchers should see:
 
-- Aiden at the departure circle
+- Colin at the departure circle
 - chanting or ritual behavior that looks occult or unstable to them
 - a sensor-blowing flash or brief visual overload
 - vanished subject
@@ -430,14 +462,14 @@ This model gives you several good story advantages:
 
 It also helps preserve tone.
 
-Aiden is not strolling through reality effortlessly.
+Colin is not strolling through reality effortlessly.
 He is forcing a difficult transit using a rule-bound system he understands better than anyone around him.
 
 ## My Blunt Recommendation
 
 If I had to lock it now, I would say:
 
-### Teleportation requires a departure anchor and a destination anchor. From the departure point, Aiden projects a magical search-probe toward an approximate destination region, using maps, address details, and prior information to guide it. Once that probe finds and confirms the destination anchor, he locks the route and completes a temporary transit. The Swiss Fiverr mural is therefore not the power source or the spell itself, but the destination address that makes the Switzerland jump possible. For the Arc 1 escape, the strongest version is still Ohio to Kingdom to Swiss storage unit, with U.S. watchers seeing only a flash, a circle, and a vanished subject. His Ohio-side anchor should be a pre-painted concealed emergency circle, and Earth-made painted anchors should be moderately fragile rather than absurdly delicate.
+### Teleportation requires a departure anchor and a destination anchor. From the departure point, Colin projects a magical search-probe toward an approximate destination region, using maps, address details, and prior information to guide it. Once that probe finds and confirms the destination anchor, he locks the route and completes a temporary transit. The Swiss Fiverr mural is therefore not the power source or the spell itself, but the destination address that makes the Switzerland jump possible. For the Arc 1 escape, the strongest version is still Ohio to Kingdom to Swiss storage unit, with U.S. watchers seeing only a flash, a circle, and a vanished subject. His Ohio-side anchor should be a pre-painted concealed emergency circle, and Earth-made painted anchors should be moderately fragile rather than absurdly delicate.
 
 That is coherent enough to build on.
 

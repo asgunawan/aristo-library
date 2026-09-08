@@ -1,6 +1,6 @@
 # Swiss Field Kit Contents Note
 
-Grounding note for what Aiden actually carries on Earth in field-kit mode.
+Grounding note for what Colin actually carries on Earth in field-kit mode.
 
 This is not his full war-kit.
 It is the restrained prepared loadout of an envoy, and its exact contents are load-bearing because they get opened and shown on camera in the Bern office scene.
@@ -33,16 +33,16 @@ The sword is a later escalation (decked-out mode), not something he smuggles int
 
 - **the hero robe** (worn, with the short mantle)
 - **civilian/modern clothes and sneakers underneath** (basically what he was already wearing on Earth)
-- **the focus item: a glove** — one glove, worn on his casting hand; scuffed, functional, reads as equipment not jewelry; it is the physical tell through which spells route
-- **two phones** — the warded phone (in his pocket, the "always on him" emergency object, see below), and a separate ordinary Earth phone; two phones is mundane compartmentalization, not criminality
+- **the focus item: a glove** � one glove, worn on his casting hand; scuffed, functional, reads as equipment not jewelry; it is the physical tell through which spells route
+- **two phones** � the warded phone (in his pocket, the "always on him" emergency object, see below), and a separate ordinary Earth phone; two phones is mundane compartmentalization, not criminality
 
 ### In the bag (dumped at screening, on the table afterward)
 
-- **a rough gold bar** — proves liquid, non-rhetorical wealth
-- **a single minted coin** — medieval-looking, plausibly-fake, proves he is from a specific kingdom; the bar and the coin do two different jobs and should not be collapsed into one
-- **a padded belt-case of crystals** — a finite, countable set; enough for several shallow-reads, one deep-read, a handful of cheap spells, and one emergency; the count matters because a spent crystal is left behind as evidence
-- **three bottles, all in modern containers** — one water, one mana-regen, one health; the alchemy forced through everyday plastic/elastic packaging is intentional: it is funny, and it visually reinforces the "fantasy world smuggled through Earth objects" premise
-- **real passport, cash, papers** — his actual identity, un-forged, because he has not committed a crime and has no cover identity; his problem was never hiding who he is, only hiding what he did
+- **a rough gold bar** � proves liquid, non-rhetorical wealth
+- **a single minted coin** � medieval-looking, plausibly-fake, proves he is from a specific kingdom; the bar and the coin do two different jobs and should not be collapsed into one
+- **a padded belt-case of crystals** � a finite, countable set; enough for several shallow-reads, one deep-read, a handful of cheap spells, and one emergency; the count matters because a spent crystal is left behind as evidence
+- **three bottles, all in modern containers** � one water, one mana-regen, one health; the alchemy forced through everyday plastic/elastic packaging is intentional: it is funny, and it visually reinforces the "fantasy world smuggled through Earth objects" premise
+- **real passport, cash, papers** � his actual identity, un-forged, because he has not committed a crime and has no cover identity; his problem was never hiding who he is, only hiding what he did
 
 Nothing else.
 No sword, no armor, no dimension pouch.
@@ -59,7 +59,7 @@ It does nothing for mana.
 This is why it works on Earth at all, and why the kingdom rations it.
 It is the one piece of magic that is fully self-finished off-world, which is exactly why an envoy is given one.
 
-Aiden carries it partly because he is on Earth alone without his party's healer.
+Colin carries it partly because he is on Earth alone without his party's healer.
 
 ### Mana-regen potion: an ambient multiplier, not a source.
 
@@ -89,7 +89,7 @@ Two kinds apply:
 
 A faint standing layer: sheds heat and cold, blunts light impacts.
 Secret and always on.
-This is why the hero robe is more than identity — it is also his main invisible defense.
+This is why the hero robe is more than identity � it is also his main invisible defense.
 
 ### The phone is actively warded (one-shot panic button).
 
@@ -97,8 +97,8 @@ The object he always has on him, in both worlds, is the anchor.
 
 Two triggers share one charge, and are spent once fired:
 
-- **mana shield** — the reaction emergency, for when he is about to be hit, pinned, or grappled; buys one breath to think or move
-- **blinding light** — the break-contact trigger, for when he needs the room not to look at him for a few seconds
+- **mana shield** � the reaction emergency, for when he is about to be hit, pinned, or grappled; buys one breath to think or move
+- **blinding light** � the break-contact trigger, for when he needs the room not to look at him for a few seconds
 
 The warded phone is a panic button, not a weapon.
 It does not make him a combatant; it lets him survive one clumsily-handled exit.

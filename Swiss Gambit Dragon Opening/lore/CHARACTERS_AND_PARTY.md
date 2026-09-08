@@ -2,7 +2,7 @@
 
 This file consolidates the working notes listed below while preserving their source material.
 
-Name continuity note: references to Aiden in retained source sections map to Wesley Hale going forward.
+
 
 ## Included source notes
 
@@ -193,7 +193,7 @@ He is there to keep two systems talking without letting either side swallow him.
 
 ## What Name/Version Feels Strongest Right Now
 
-From the draft, the names seem fluid, with Aiden and Leo both appearing as placeholders or variants.
+From the draft, the names seem fluid, with Colin and Leo both appearing as placeholders or variants.
 
 I would not lock the final name yet.
 
@@ -261,7 +261,7 @@ The hero is strongest as a missing student who came back from a fantasy war with
 This note answers the current Swiss questions:
 
 - should the real party be 4 or 5?
-- what should Aiden's signature item be?
+- what should Colin's signature item be?
 - what should his command gear actually help him do?
 
 ## Short Answer
@@ -270,7 +270,7 @@ My current least-wrong recommendation is:
 
 - the battle-core party is 4 people
 - the roaming field party is often 5 when a male ranger is present
-- Aiden's signature item should be a hero robe with a short mantle
+- Colin's signature item should be a hero robe with a short mantle
 - his command gear should protect him just enough from heavy damage, but mostly improve continuity, focus, and capability
 
 That is the cleanest shape.
@@ -286,12 +286,12 @@ This is the clean classic boss-fight unit:
 - tank
 - healer
 - mage
-- Aiden
+- Colin
 
 This is probably the right answer when you want:
 - clean encounter logic
 - easy tactical readability
-- a strong sense that Aiden is the glue holding the main engine together
+- a strong sense that Colin is the glue holding the main engine together
 
 This version is easier to narrate.
 
@@ -323,7 +323,7 @@ So the healthiest model is probably:
 
 That gives you flexibility without muddying the archetype.
 
-## Why Aiden Needs The Ranger Sometimes
+## Why Colin Needs The Ranger Sometimes
 
 You said something useful:
 
@@ -331,7 +331,7 @@ the ranger handles things the outerworld guy cannot.
 
 I think that is correct.
 
-Aiden is the adaptive bridge and tempo controller.
+Colin is the adaptive bridge and tempo controller.
 But he is still an outsider.
 
 The ranger can cover things like:
@@ -341,7 +341,7 @@ The ranger can cover things like:
 - monster habits
 - pressure on targets outside the main clash
 
-So the ranger is not replacing Aiden.
+So the ranger is not replacing Colin.
 The ranger is widening the party's operating envelope.
 
 That works.
@@ -400,7 +400,7 @@ That includes some heavy-damage protection, but capability support is the real p
 
 If I had to simplify it:
 
-### Aiden has a functional wartime kit built around a hero robe with a short mantle, a reliable sword, stored reserves, and support pieces that let him stay active, aware, and hard to disrupt while stronger specialists do their jobs.
+### Colin has a functional wartime kit built around a hero robe with a short mantle, a reliable sword, stored reserves, and support pieces that let him stay active, aware, and hard to disrupt while stronger specialists do their jobs.
 
 That is the strongest version.
 

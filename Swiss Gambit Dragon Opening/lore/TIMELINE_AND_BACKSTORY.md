@@ -2,7 +2,7 @@
 
 This file consolidates the working notes listed below while preserving their source material.
 
-Name continuity note: references to Aiden in retained source sections map to Wesley Hale going forward.
+
 
 ## Included source notes
 
@@ -16,6 +16,40 @@ Name continuity note: references to Aiden in retained source sections map to Wes
 - His Earth-side identity works best as a broad practical student with light but real anchors instead of either a total orphan or a deeply rooted family drama.
 - Modern Earth life should still matter to him emotionally, while the fantasy world remains a place of obligation, guilt, and duty rather than a replacement home.
 - Arc 1 working files are preserved separately in lore so the story spine and beat progression remain directly usable after consolidation.
+
+## Newly locked: Arc 1 timeline (the two clocks)
+
+This is the calendar the opening and callbacks run on, now that the return and escalation chain are drilled.
+
+### Earth-side clock (Colin)
+
+- return at age ~20, immediately after the war; he vanished mid-semester during year 1 (or just before year 2), so returning means restarting/finishing year-1 credits and slipping into year 2
+- the missing-persons case reopens and closes fast ("found, disoriented"); media coverage has a short half-life and dies down by ~month 1
+
+### Kingdom-side clock (the escalation)
+
+The post-war deterioration is NOT slow for the early steps, and SLOW only at the end. That order matters:
+
+- scattered army -> banditry: weeks to months (broken armies become bandits fast, because that is how they eat)
+- banditry -> second-tier crisis (refugees / border clash / disease): months (knock-on from the scatter; disrupted logistics compound it)
+- rivals -> alliance: a year or more. Medieval coalitions against a recently-strong neighbor do not rush; they need feelers, envoys, treaties, mobilization, and above all *proof the target is weak enough to gang up on safely* — proof that only accumulates from watching the banditry/border decay.
+
+Background fact (locked): the rival alliance was already partially pre-warmed DURING the war — a pact half-formed before Colin even returned. So the post-war proof just had to arrive; it did not have to start from zero. This is what makes Callback 3's timing feel earned rather than rushed.
+
+### The two clocks synced (Arc 1 spans ~2 years / 18-24 months)
+
+| Month (Earth) | Colin | Kingdom |
+|---|---|---|
+| 0-1 | return, reinstatement, media dies | post-war scatter begins |
+| 2-3 | baseline, forest experiments, mirror ritual begins | banditry hardens |
+| 3-4 | CALLBACK 1 (banditry help) | flare-up handled |
+| 4-9 | "manageable" phase; gets the internship | false calm |
+| ~9 | CALLBACK 2 (refugee/border/disease); pawn-shop shortcut starts; internship abandoned | second-tier crisis |
+| 10-16 | burnout + financial trace + pattern visible | rivals watching / negotiating |
+| 16-20 | CALLBACK 3 (alliance pressure) | alliance actualizes |
+| 20-24 | gambit -> Switzerland | — |
+
+Thematic resonance: Colin holds the double life for roughly as long on Earth as he was away in the kingdom (~2 years each). The burnout earns its weight; the rival alliance builds at the same slow rate he erodes.
 
 ## Retained source material
 
@@ -114,7 +148,7 @@ Which is very usable.
 The exact label matters less than the function.
 
 He should be someone who:
-- is smart but not specialized to the point of clichÃ©
+- is smart but not specialized to the point of cliché
 - knows enough about modern systems to notice what the kingdom lacks
 - can look things up and synthesize quickly
 - is not already a finished adult professional
@@ -419,7 +453,7 @@ That lets the fantasy-world experience actually change him.
 
 If I had to propose one clean baseline from scratch, it would be this:
 
-### A 20-year-old second-year student from the U.S. Midwest or similar, living a fairly small life, with one surviving adult relative and a few ordinary social ties, studying something broad and practical enough to support systems thinking without locking him into a clichÃ© technical identity.
+### A 20-year-old second-year student from the U.S. Midwest or similar, living a fairly small life, with one surviving adult relative and a few ordinary social ties, studying something broad and practical enough to support systems thinking without locking him into a cliché technical identity.
 
 That broad-and-practical field could be:
 - information systems

@@ -22,7 +22,7 @@ It is:
 
 Current least-wrong baseline:
 
-- Aiden returns to Earth around age 20
+- Colin returns to Earth around age 20
 - he was summoned around 18
 - he spent roughly 2 years in the fantasy world
 - before transfer he was a broad practical student, strongest current fit being information systems
@@ -34,7 +34,7 @@ He is strongest as:
 
 ## What Makes Him Interesting
 
-Aiden is not most interesting as:
+Colin is not most interesting as:
 
 - a pure mage genius
 - a pure diplomat
@@ -91,13 +91,13 @@ Best current version:
 It is not perfect prophecy.
 It is not random nonsense either.
 
-It is a risky wartime gambit that happened to produce Aiden.
+It is a risky wartime gambit that happened to produce Colin.
 
 ## Party Structure
 
 Best current structure:
 
-- 4-person combat core: tank, healer, mage, Aiden
+- 4-person combat core: tank, healer, mage, Colin
 - 5-person roaming version: the core plus a male ranger
 
 The ranger is useful for:
@@ -114,7 +114,7 @@ This means:
 
 ## Gear Direction
 
-Aiden's equipment should be:
+Colin's equipment should be:
 
 - a functional wartime loadout tailored to him by the kingdom
 - built to preserve rhythm, support, survivability, and efficient magic use

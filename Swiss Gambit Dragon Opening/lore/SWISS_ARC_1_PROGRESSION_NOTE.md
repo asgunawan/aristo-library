@@ -4,7 +4,7 @@ This note turns the current Swiss decisions into a rough first-arc spine.
 
 Current locked assumptions:
 
-- Aiden returns to Earth around age 20 after roughly 2 years away
+- Colin returns to Earth around age 20 after roughly 2 years away
 - he is strongest as the glue of a hero party, not as a pure specialist
 - Earth is effectively mana-dead
 - on Earth he relies on internal reserves, crystals, and prepared gear
@@ -12,6 +12,34 @@ Current locked assumptions:
 - Arc 1 should end with Swiss recognition in principle, not full total victory
 - Arc 1 should open on Earth-side false normalcy
 - the burnout loop should probably run for about 3 meaningful callback cycles
+
+Locked specifics (drilled down):
+
+- protagonist name: Colin Whitmore
+- degree: Information Systems, year 2 (see MAGIC_SYSTEM / CHARACTERS_AND_PARTY for the "systems logic / glue" identity)
+- internship: tedious IT-support / helpdesk at a mid Ohio company (password resets, ticket queue) — abandoned at Callback 2
+- return mechanic: good-terms release; lands near the original summon site in Ohio, late night, alone, mended-but-tattered clothes, no phone/money/passport; he acts confused to police, who assign the "cult-drugged-and-escaped" story by confirmation bias (never claimed by Colin)
+- callback mechanism: relational, voluntary — the kingdom asks, Colin goes; no forcible re-summoning
+- callback 1: casual "whats up" banditry flare-up; gold-selling probe that he aborts (first trace)
+- callback 2: boss-tier problem (refugee/border/disease); pawn-shop gold shortcut; "50 or 100 kg / double production?" comedy; abandons internship
+- callback 3: rival-kingdom alliance pressure, planted earlier; the convergence
+- the 3 cycles map to: get away with it / traceable mistake / pressure converges
+- Arc 1 conflict frame: legal/institutional vs supernatural (NOT legal vs criminal); Colin never becomes a real criminal
+- Earth combat: none until Switzerland; the flex is saved for Beat 11
+- Beat 7 trigger: bureaucratic flag (anomalous pure 999 gold + structuring), not a robbery/fight; gems held for later escalation
+
+## The Return Mechanic (locked)
+
+The summoning ends on good terms:
+
+- the demon-lord crisis is resolved; the kingdom thanks Colin, gives him parting gifts, and tells him "come back anytime"
+- the return lands him back at the rough location of the original summon (near his university in Ohio), middle of the night, nobody watching, alone
+- he arrives in mended-but-still-tattered clothes, with no phone, money, or passport on him
+- he goes to the police and simply acts confused (he IS disoriented: two years missing, no explanation he can give)
+- he never claims a story; the police, out of confirmation bias, say "yeah, probably drugged by a cult and escaped," and the media run with the cult-kidnapping-escape speculation
+- net effect: a false narrative is assigned to him by outsiders in the very first Earth scene, before he can define himself — the arc's central pattern in miniature
+
+The callback mechanism is relational, not magical compulsion. The kingdom does NOT forcibly re-summon him. They reach out, and Colin voluntarily goes back because he won't let them down. He has every right to stay home, and keeps choosing to go anyway — that is the trap.
 
 ## Short Answer
 
@@ -28,7 +56,7 @@ Those things enter the story.
 
 But the real engine is:
 
-### Aiden keeps trying to live two incompatible lives at once, and every shortcut he takes to preserve both worlds makes the Earth-side pressure worse until going public through Switzerland becomes the least-bad option.
+### Colin keeps trying to live two incompatible lives at once, and every shortcut he takes to preserve both worlds makes the Earth-side pressure worse until going public through Switzerland becomes the least-bad option.
 
 That is the arc.
 
@@ -56,7 +84,18 @@ That gives the Swiss pivot real weight.
 
 ## 1. Return and false normalcy
 
-Aiden is back on Earth.
+Colin is back on Earth.
+
+The opening sequence, in order:
+1. the demon-lord war is won, roughly shown (not a full chapter — enough to ground the party and the victory)
+2. the party + send-off on good terms
+3. the return (late night, woods, tattered but mended clothes, no phone/money/passport)
+4. the police interaction (he acts confused; police assign the cult-drugged-and-escaped story by confirmation bias)
+5. brief media shenanigans / interviews / family + friend reunion
+6. college shenanigans, settling back in
+7. baseline: normal life, for a moment
+
+The war itself leaves the kingdom weakened: the scattered demon-lord army turns to banditry and ongoing instability. This is the engine for everything after, but the opening should not foreground it loudly — it should be a quiet background fact Colin half-believes he's escaped.
 
 He is:
 - a missing-person miracle
@@ -67,11 +106,12 @@ He is:
 He tells himself that Earth is home and that the fantasy world was a terrible necessary chapter.
 
 He tries to resume something like:
-- school
+- school (year 2)
 - routine
 - sleep
 - privacy
 - small ordinary wants
+- finding an internship
 
 This opening should not start loud.
 
@@ -104,6 +144,16 @@ Better:
 He solves it.
 
 And when he returns to Earth, he tells himself it was temporary.
+
+### Callback 1 content (locked): the casual "whats up"
+
+The kingdom reaches out casually. The demon-lord army scattered after the war and turned to banditry; things have been rough. "Hey Colin, what's up, we have a monster problem lately, just so you know."
+
+Colin volunteers — "oh, I can help." Not a grand summon; a friendly request he cannot refuse.
+
+While he's there, the gold question floats up as a low-stakes, almost-teenage probe: "how do I even sell gold in the modern world?" He tries it once, gets spooked ("okay, this feels wrong"), and stops. This is the first, aborted financial trace — an earlier blip that later (Beat 7) gets retroactively connected.
+
+He solves the banditry problem and comes back telling himself it was temporary and occasional.
 
 ## 3. The double-life loop begins
 
@@ -168,6 +218,20 @@ He is becoming:
 
 That is believable.
 
+### Callback 2 content (locked): the "this is probably serious" shortcut
+
+The second pullback is a boss-tier problem — a refugee crisis, border clash, or disease — that would take him a year to fix properly if he stayed. He cannot stay: he still has year-2 college, rent, and an internship.
+
+So he refuses to stay and takes the shortcut:
+
+Instead of working an honest internship for grocery money, he dumps medieval-kingdom GDP export into a modern pawn shop.
+
+The comedy hinge (locked): the kingdom's gold output is trivial to them — "do you want 50 or 100 kilograms? should we double production?" — said with the casualness of topping off a grain sack. To a major pre-industrial kingdom, 50–100 kg is a rounding error. To Colin's Earth frame, it is several million dollars in a duffel bag he now has to explain to someone.
+
+The beat lands on the contradiction: the High Chancellor, the glue who load-balances a wartime party, reduced to pawn-shop arbitrage and a first-time "oh man, I can't believe I'm doing this."
+
+This is where the financial trace stops being aborted and starts being real. The internship is abandoned at this callback — he simply has no time for it. The callback eats the normal life.
+
 ## 5. Earth institutions notice the pattern
 
 This is where state pressure properly enters.
@@ -192,6 +256,32 @@ From his point of view, it is terrifying.
 
 Because he knows that if they fully contain him, he cannot protect the kingdom and may lose the portal on his own terms.
 
+### The Beat 7 trigger (partially locked — gems held)
+
+The pattern becomes a case through the bureaucracy, NOT through violence or criminals. No robbery, no alleyway, no gun. The arc's frame is:
+
+### legal / institutional vs. supernatural — never legal vs. criminal.
+
+Colin never becomes a real criminal. The closest he gets is pawning gold he cannot prove he owns — a minor legal gray area. That is the right amount of rule-bending: enough to leave a trace, not enough to make him a gangster.
+
+Two independent, compounding signals tip "noise" into "case":
+
+1. The gold itself is anomalous — 24k / 999-pure gold is refinery-grade bullion, almost never pawned. Unmarked, no hallmarks or maker's marks, foreign to every known source. An assayer tests it and files the report.
+2. The cadence is suspicious — repeat visits spread across shops to stay under the $10,000 Form 8300 reporting line, which is itself "structuring" and reads as deliberate concealment.
+
+Rough money math (lock as loose reference, ~mid-2026 USD):
+- spot 24k gold ≈ $143–149 / gram
+- pawn shops pay ~40–55% of melt — Colin banks roughly $60–75 / gram of what he pawns
+- ~100 g bar ≈ $6–7k cash to him; ~1 kg ≈ $60–75k across many trips
+
+Gems are HELD for later escalation (cut stones of a medieval kingdom's prized size/quality read as illicit/conflict stones to Earth assayers — a louder, later flag). Lead with gold now.
+
+### Earth combat (locked): none until Switzerland
+
+Colin does not fight on Earth in Arc 1. His power there is not violence — it is systems-logic + money (the pawn-shop arbitrage IS his Earth-fight), plus restrained private magic that lands as "weird," not warlike. The enemy is a form, a pattern, a classification — unwinnable by sword.
+
+Options explicitly NOT used: robbery rescue, college fight, gang connection. At most, an optional low-stakes "quietly dangerous" de-escalation (no punches) if texture is ever wanted — showing retained danger under restraint. The real display of power is saved for the Swiss arrival (Beat 11), which is what keeps that flex meaningful.
+
 ## 6. The American path becomes psychologically impossible
 
 This stage matters a lot.
@@ -213,6 +303,18 @@ He starts to understand that if he presents himself too early or too badly, he b
 Not a partner.
 
 That is what pushes him toward the Swiss option.
+
+### Callback 3 content (locked): the "other kingdoms are wearing us down" reveal
+
+The third pullback is the convergence, planted earlier as background rumors Colin half-ignored:
+
+- the rival human kingdom and others have been forming alliances against the Frankoish kingdom
+- the kingdom has stopped clearing monsters / demon-lord remnants
+- aid has been cut; espionage shenanigans are ongoing
+
+The alliance forms slowly offscreen — a rumor in the "seems manageable" stage (cycle 1/2) that becomes unignorable here. This is the callback where Colin can no longer pretend the two worlds take turns politely. They are colliding.
+
+The earlier warning should already have a faint echo in the worldbuilding: the healer and paladin answer to a DIFFERENT sovereign (the Church), a latent diplomatic bomb no one has explained — planted early, triggering later.
 
 ## 7. The Swiss gambit is born
 
@@ -363,7 +465,7 @@ Then Earth scenes feel like filler.
 
 Then the title move has no tension.
 
-### 4. Making Aiden too composed the whole time
+### 4. Making Colin too composed the whole time
 
 He should be competent, but also tired, cornered, and improvising.
 
@@ -371,7 +473,7 @@ He should be competent, but also tired, cornered, and improvising.
 
 If I had to lock Arc 1 right now, I would say:
 
-### start with Aiden genuinely trying to reclaim an ordinary Earth life, let repeated kingdom callbacks create a false manageable rhythm, let burnout push him into shortcuts that attract state scrutiny, then let his growing fear of being contained as an asset force the Swiss gambit. End the arc when Swiss authorities grant recognition in principle by choosing to hear and temporarily protect him instead of immediately surrendering him.
+### start with Colin genuinely trying to reclaim an ordinary Earth life, let repeated kingdom callbacks create a false manageable rhythm, let burnout push him into shortcuts that attract state scrutiny, then let his growing fear of being contained as an asset force the Swiss gambit. End the arc when Swiss authorities grant recognition in principle by choosing to hear and temporarily protect him instead of immediately surrendering him.
 
 At the Swiss pivot itself, let him arrive in prepared field-kit mode and prove his legitimacy through a controlled demonstration first, escalating toward heavier gear only if the situation forces him.
 

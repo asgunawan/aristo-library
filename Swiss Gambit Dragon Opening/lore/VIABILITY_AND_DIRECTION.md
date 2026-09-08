@@ -2,7 +2,7 @@
 
 This file consolidates the working notes listed below while preserving their source material.
 
-Name continuity note: references to Aiden in retained source sections map to Wesley Hale going forward.
+
 
 ## Included source notes
 
@@ -95,7 +95,7 @@ Without that friction, the story would collapse into convenience.
 This may be the single best thing in the entire concept.
 
 On Earth, the hero is not king.
-He is tired, mana-starved, vulnerable, politically naÃ¯ve, and legally exposed.
+He is tired, mana-starved, vulnerable, politically naïve, and legally exposed.
 
 That is why the diplomacy matters.
 
@@ -309,7 +309,7 @@ Swiss Gambit is worth keeping if you write it as a narrow, weird, politically sp
 
 This note answers the current Swiss pivot question:
 
-- how should Aiden physically move from the storage unit to real Swiss attention?
+- how should Colin physically move from the storage unit to real Swiss attention?
 - who should he encounter first?
 - what makes the scene plausible without killing the absurdity?
 
@@ -396,7 +396,7 @@ The helper is useful for:
 - witnessing the absurdity
 - maybe minor assistance
 
-But the actual state escalation should happen because Aiden forces it himself.
+But the actual state escalation should happen because Colin forces it himself.
 
 That is stronger.
 
