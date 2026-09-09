@@ -31,6 +31,27 @@ Tone and direction:
 Folder:
 - `Psychic Revolution and its Consequences/`
 
+### Swiss Gambit Dragon Opening
+Active focus. A two-world political fantasy about a summoned hero who returns to Earth after helping save a magic kingdom, only to discover that both worlds now need something from him at the same time.
+
+Core setup:
+- the protagonist is a returned hero trying to resume ordinary life on Earth while still being tied to a kingdom that is only barely stabilizing after a major war
+- Earth is a low-mana environment, which makes him vulnerable, constrained, and much less powerful than he is in the fantasy world
+- the kingdom needs practical help fast: logistics, industry, medicine, and coordination before a larger coalition closes in
+
+What makes it distinct:
+- the portal / teleportation system has real targeting and mana limits, so travel and secrecy are logistical problems rather than free conveniences
+- a lot of the story revolves around asylum, recognition, and how to approach Earth governments without becoming a captured asset
+- the modernization angle is grounded in boring but decisive things like communications, infrastructure, and supply chains instead of instantly importing futuristic dominance
+
+Tone and direction:
+- clunky in places, but conceptually clear and easy to follow
+- mixes portal fantasy with diplomacy, systems-thinking, and personal awkwardness
+- works best as a bridge story: one person trying to translate the needs of a desperate fantasy kingdom into something modern Earth can actually provide
+
+Folder:
+- `Swiss Gambit Dragon Opening/`
+
 ### Major Projects
 
 ### THE Magical Revolution and Its Consequences
@@ -101,27 +122,6 @@ Folder:
 - `One Atom To The Left/`
 
 ### Ongoing / Mid-Development
-
-### Swiss Gambit Dragon Opening
-Two-world political fantasy about a summoned hero who returns to Earth after helping save a magic kingdom, only to discover that both worlds now need something from him at the same time.
-
-Core setup:
-- the protagonist is a returned hero trying to resume ordinary life on Earth while still being tied to a kingdom that is only barely stabilizing after a major war
-- Earth is a low-mana environment, which makes him vulnerable, constrained, and much less powerful than he is in the fantasy world
-- the kingdom needs practical help fast: logistics, industry, medicine, and coordination before a larger coalition closes in
-
-What makes it distinct:
-- the portal / teleportation system has real targeting and mana limits, so travel and secrecy are logistical problems rather than free conveniences
-- a lot of the story revolves around asylum, recognition, and how to approach Earth governments without becoming a captured asset
-- the modernization angle is grounded in boring but decisive things like communications, infrastructure, and supply chains instead of instantly importing futuristic dominance
-
-Tone and direction:
-- clunky in places, but conceptually clear and easy to follow
-- mixes portal fantasy with diplomacy, systems-thinking, and personal awkwardness
-- works best as a bridge story: one person trying to translate the needs of a desperate fantasy kingdom into something modern Earth can actually provide
-
-Folder:
-- `Swiss Gambit Dragon Opening/`
 
 ### Complete / Mostly Complete
 
