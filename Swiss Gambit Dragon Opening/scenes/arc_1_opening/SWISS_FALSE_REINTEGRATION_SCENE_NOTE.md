@@ -19,7 +19,7 @@ The strongest version is:
 - the mundane monologue is the balm: her droning about something ordinary proves normal still exists
 - Colin performs recovered-ness through tiny domestic pantomime, never by saying "I'm okay"
 - his body betrays him: one aborted reach for a sword that is not there
-- the scene turns on the dead-mana curiosity: reflex analyze -> silence -> "oh right" -> bag -> crystal -> analyze shows up
+- the scene turns on the dead-mana curiosity: reflex fireball -> a flicker -> "oh right" -> bag -> crystal -> flame roars to life
 - end on the crystal in his palm and the room not singing back
 
 That is the cleanest dramatic version.
@@ -93,19 +93,19 @@ In the dark, alone — after the performance is over — the war walks back in.
 
 Beat for beat:
 
-1. Reflex cast: he runs `analyze` the way he always has, toward the room, toward the air — and gets *nothing*. The silence is wrong.
+1. Reflex cast: he lifts a hand and calls a `fireball` the way he always has, toward the empty air — and gets a *flicker*. A match-flame, out before it catches. `analyze` was too cheap to prove anything; this is the real test, and Earth barely answers.
 2. "Oh right." — flat, to himself. He remembers where he is.
 3. He reaches under the bed and takes out the bag — dug back up from the landing site and now hidden in a compartment, so the room still reads as an ordinary apartment on the surface. Inside: the kingdom parting-gifts, his hold on the kingdom-side he kept from view.
-4. Out of it, a crystal. `analyze` again, through the crystal, the hard way.
-5. This time it shows up.
+4. Out of it, a crystal. `fireball` again, through the crystal, the hard way — closed in his palm, not flung, so the room stays dark and unmarked.
+5. This time it is **large** — a full, hot, living flame cupped in his hand, and for half a second the room lights like kingdom air.
 
-The crystal is a crutch — a stored reservoir he needs precisely because Earth will not feed him. Kingdom air is thick with ambient mana; Earth air is a vacuum, and through the crystal he can feel exactly how empty it is.
+The crystal is a crutch — a stored reservoir he needs precisely because Earth will not feed him. Kingdom air is thick with ambient mana; Earth air is a vacuum, and through the crystal he can feel exactly how empty it is: the same spell that just *went out* is suddenly **white-hot**.
 
 ## 7. The close
 
-He holds the crystal in his palm and closes his eyes, and lets the room *not* sing back.
+He closes his fist over the flame and snuffs it, and lets the room *not* sing back.
 
-End on that silence.
+End on the darkness after.
 
 It is the dead-mana emptiness made tangible, and it is the first quiet proof that "home" no longer runs on anything he understands.
 
@@ -141,7 +141,7 @@ She is droning, then she quips, then she lets it go. The weight is in what she d
 
 ### 5. Explaining the dead-mana rule out loud
 
-No lecture. The failed `analyze`, the "oh right," and the crystal doing the work say everything.
+No lecture. The flickered `fireball`, the "oh right," and the crystal doing the work say everything.
 
 ## My Blunt Recommendation
 
@@ -149,7 +149,7 @@ Write the false reintegration as a quiet pantomime. Skip every process scene, la
 
 ## Short Version
 
-Colin is processed without being interrogated, sits with a sister who caught up to his age while he was gone, performs normalcy by plugging in a phone and turning off a lamp, and — alone, in the dark — runs analyze into dead air, says "oh right," and pulls a crystal so he can feel how empty home is.
+Colin is processed without being interrogated, sits with a sister who caught up to his age while he was gone, performs normalcy by plugging in a phone and turning off a lamp, and — alone, in the dark — calls a fireball into dead air, gets only a flicker, says "oh right," and pulls a crystal so the same spell roars to life in his hand.
 
 ## Continues In
 
