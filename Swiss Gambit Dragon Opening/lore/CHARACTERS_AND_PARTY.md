@@ -19,6 +19,51 @@ This file consolidates the working notes listed below while preserving their sou
 - The cleanest party shape is a 4-person combat core plus a fifth-member ranger for roaming operations.
 - The summoning should read as a desperate kingdom gambit that found a highly compatible but not cosmically unique hero candidate.
 
+## Newly locked: party character sheet
+
+The full party, as currently vibed. Four distinct registers plus Colin as the glue.
+
+### Party structure
+
+- CORE BOSS UNIT = paladin + healer + mage + Colin (the four-person clean fight)
+- WAR-ROAMING UNIT = + ranger (scouting and patrol; the fifth, not in the boss-fight core)
+
+Note: "tank" in older notes = the PALADIN. They are the same person — the paladin is the mace-and-shield tank. "Tank" is his role, not a separate member.
+
+### Paladin (the tank) — male
+
+- the kingdom's UNOFFICIAL SPEAKER: blunt, common-sense, the one who can say the thing the kingdom won't ("you have the key to the vault, borrow a hundred kilos")
+- high-ranking Church emissary; knows the kingdom's real political shape better than most
+- gave Colin the souvenir box (the gold + jewelry) at the Callback 1 goodbye
+- mace and shield; the anchor of the front line
+- PAYLOAD: Callback 3 — the Church loyalty crisis (choosing between his vows and the kingdom)
+
+### Healer — female
+
+- doctor + "respected princess" from the Church: her status is both medical and noble/ecclesiastical
+- RESERVED by default, but genuinely OPEN and EXCITED around Colin specifically — he is the one person she drops the formal register with
+- PAYLOAD: Callback 2 — the medicine (learning Earth medicine vs. potions, the cholera camps)
+
+### Ranger — male
+
+- the veteran; knows the kingdom better than anyone — geography, terrain, the information network
+- "ol' reliable": not flashy, but he already knows the answer before you finish asking
+- runs a network of scouts and contacts
+- PAYLOAD: the frontier (refugee/bandit scouting — he reports the encirclement) and the closing (walking the Swiss through the geography on the map)
+
+### Mage — female
+
+- the gremlin / chaos agent: wants to know everything about everything, and does not wait for permission
+- the teleporter (the "singularity", treated like a premiere scientist); she does the heavy/cargo transits, not Colin
+- reckless enough to dismantle the tablet (the iPad) and to secretly teleport to Earth
+- PAYLOAD: the double-life logistics (all crossings run through her) + the two-worlds curiosity (already in motion)
+
+### Colin (the glue)
+
+- systems-logic brain; sees spells as scripts, coordinates the party into a flow (debug/optimize/combine)
+- organizer, not caster: he makes the four of them interlock, which is the whole reason the party needs him
+- payload: the entire arc — burnout, the double life, the gambit
+
 ## Retained source material
 
 ### SWISS_HERO_CORE_NOTE.md

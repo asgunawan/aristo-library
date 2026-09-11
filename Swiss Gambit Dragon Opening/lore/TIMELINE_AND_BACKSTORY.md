@@ -43,13 +43,24 @@ Background fact (locked): the rival alliance was already partially pre-warmed DU
 | 0-1 | return, reinstatement, media dies | post-war scatter begins |
 | 2-3 | baseline, forest experiments, mirror ritual begins | banditry hardens |
 | 3-4 | CALLBACK 1 (banditry help) | flare-up handled |
-| 4-9 | "manageable" phase; gets the internship | false calm |
-| ~9 | CALLBACK 2 (refugee/border/disease); pawn-shop shortcut starts; internship abandoned | second-tier crisis |
+| 4-8 | "manageable" phase: internship, the fumble (first accidental pawn sale -> macbook, ~month 5-6), trial-and-error kingdom visit + gold system built (~month 8) | false calm |
+| 8-11 | summer: supply line + storage depot + kingdom buff; mage's secret visit; rival-backed succession crisis begins the refugee wave | rivals consolidating |
+| ~11-12 | CALLBACK 2 (cholera): gold system stressed to overdrive; internship abandoned at the fall-semester start | second-tier crisis |
 | 10-16 | burnout + financial trace + pattern visible | rivals watching / negotiating |
 | 16-20 | CALLBACK 3 (alliance pressure) | alliance actualizes |
 | 20-24 | gambit -> Switzerland | — |
 
 Thematic resonance: Colin holds the double life for roughly as long on Earth as he was away in the kingdom (~2 years each). The burnout earns its weight; the rival alliance builds at the same slow rate he erodes.
+
+## Kingdom size and state (brief)
+
+For full detail see `KINGDOM_SIZE_AND_STATE.md` (to be written). Working snapshot:
+
+- scale: roughly "Germany-sized" / HRE-ish — a major continental power, one crown over many semi-autonomous provinces and marches
+- governance: loose, not modern-centralized; a king who cannot micromanage, frontier lords with real autonomy
+- economy: significant gold output (the "50 or 100 kilograms, double production?" offer is a rounding error, not a boast); mining, agriculture, some mana-based infrastructure
+- post-war state: the demon-lord army scattered into banditry; the frontier is destabilized, with displaced villagers drifting toward towns and early refugee camps beginning to form (the seed of Callback 2's crisis)
+- why the scale matters: a loosely-governed big kingdom is exactly the kind that (a) has frontier banditry problems, (b) has a king who cannot be everywhere, and (c) genuinely needs a "systems-logic" coordinator like Colin — that is why he is valuable without being a wizard-king
 
 ## Retained source material
 

@@ -49,6 +49,35 @@ At baseline Colin has NO ready teleport anchor back to the kingdom. He has the k
 
 Colin landed in Ohio with a small load of kingdom parting-gifts (crystals, a coin, focus glove, the mirror stone), immediately hid it near the landing site, then walked into town empty-handed (so the officer finds him with nothing on him). Later he dug the stash back up and moved it to a hidden compartment under his bed — the apartment reads normal on the surface while he keeps his hold on the kingdom-side out of sight.
 
+### Analyze reads mana (locked)
+
+Analyze reads MANA, not matter. The unifying rule is one sentence:
+
+### analyze reads mana. No mana, nothing to read.
+
+- living beings in the kingdom = soaked in ambient mana = their surface is a readable "signature" (shallow read: name/age/occupation, near-free; deep read: private intent, costs mana + time + proximity + target resistance)
+- people on Earth = no mana = nothing to read, so analyze must actively push mana into them — harder
+- magical objects (a crystal, a ward) = they hold mana = readable ("stored mana, this much")
+- mundane objects (a tablet, a steel sword) = no mana = nothing to read; analyze returns only what the user's own eyes and knowledge already tell them
+
+The "knowledge-bounded" quality of analyze on unfamiliar objects falls out for free: it is not a second rule, it is what happens when there is no mana to read and the user has no concept to fill the gap (a mage analyzing a tablet gets "glass? metal? gift from Colin?", because those are her own best guesses, not a mana-read truth).
+
+### Spells are mana-scripts (locked)
+
+Spells are structured mana-constructs — "scripts" — with inputs, effects, and costs. They can be expressed two ways:
+
+- INSCRIBED — laid down physically and durably (the teleport circle, the anchor: the spell's "address")
+- CAST — assembled in the moment, in the caster's own mana
+
+The distinction that matters is how a person engages with the script:
+
+- NATIVE MAGES run spells by ROTE — memorized, handed down, done "the correct way," the way a craftsman knows a trade secret without understanding why it works
+- COLIN reads the STRUCTURE — he sees spells as programs (inputs, outputs, subroutines, edge cases), so he can DEBUG (why a spell "broke" under uncalculated load — the locked engineering sense of "broke"), OPTIMIZE (shave cast-time, cut mana cost), and COMBINE (interlock the party's spells into a flow)
+
+This is why Colin is the GLUE, not the GENIUS: he does not write stronger spells, he writes better combinations. Native mages still out-cast him; he makes their spells interlock. His edge is systems-thinking, not raw power — which is also why the kingdom needs him back despite having plenty of mages, and why the "singularity" mage is still a big deal.
+
+The anchor for all of this is already locked: translation is "a script/spell running through Colin, solving words not meaning."
+
 ## Retained source material
 
 ### SWISS_MANA_AND_GAMBIT_RULES_NOTE.md
